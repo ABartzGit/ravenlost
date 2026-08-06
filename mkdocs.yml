@@ -27,23 +27,21 @@ theme:
   
   # Set the color palette for light and dark mode, and include a toggle to switch between them.
   palette:
-    # Soft Dark Mode (Misty, shadowed library vibe)
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: blue grey
-      accent: deep purple
-      toggle:
-        icon: material/weather-fog
-        name: Switch to light mode
-
-    # Soft Light Mode (Aged parchment / morning fog vibe)
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: grey
-      accent: deep purple
+    # Light mode
+    - scheme: default
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
+
+    # Dark mode
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 # Extras
 extra:
@@ -54,6 +52,9 @@ extra:
       link: https://github.com/ABartzGit/angelabartz
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/angela-bartz/
+      
+extra_css:
+  - stylesheets/extra.css
 
 # Site navigation
 nav: 

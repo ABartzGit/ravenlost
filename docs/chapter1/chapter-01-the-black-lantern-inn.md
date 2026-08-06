@@ -2,6 +2,8 @@
 
 > *The Mists have a way of gathering those who were never meant to meet.*
 
+![Ravenlost group](../images/ravenlost-chapter1.png)
+
 ---
 
 ## Four strangers in the Mists

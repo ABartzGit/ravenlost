@@ -1,3 +1,3 @@
 # The Adventures of Ravenlost
 
-![Ravenlost group](images/ravenlost-chapter1.png)
+![Ravenlost group](images/ravenlost.png)

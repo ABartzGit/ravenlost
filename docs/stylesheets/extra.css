@@ -1,0 +1,31 @@
+/* =========================================
+   RAVENLOST COLOR PALETTE
+   ========================================= */
+
+:root {
+  --ravenlost-burgundy: #713d48;
+  --ravenlost-purple: #80628f;
+  --ravenlost-brass: #b59a62;
+}
+
+
+/* =========================================
+   LIGHT MODE
+   ========================================= */
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #666666;
+  --md-primary-fg-color--light: #797979;
+  --md-primary-fg-color--dark: #505050;
+}
+
+
+/* =========================================
+   DARK MODE
+   ========================================= */
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #555555;
+  --md-primary-fg-color--light: #686868;
+  --md-primary-fg-color--dark: #424242;
+}
