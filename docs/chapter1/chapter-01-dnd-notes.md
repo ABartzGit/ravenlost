@@ -29,9 +29,9 @@ Four strangers answered the promise of two hundred gold. Before the job was fini
 
 The four adventurers who would come to be known as **Ravenlost** met for the first time at the Black Lantern Inn.
 
-- **Bia Galene**, a six-foot-six female orc barbarian.
-- **Cadric Veyl**, a three-foot-tall halfling bard with sandy hair and hazel eyes, weighing only thirty-two pounds.
-- **Jayn Blight**, a six-foot-four female wolf ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye.
+- **Bia Galene**, a six-foot-six female Orc barbarian.
+- **Cadric Veyl**, a three-foot-tall Halfling bard with sandy hair and hazel eyes, weighing only thirty-two pounds.
+- **Jayn Blight**, a six-foot-four female Lupine ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye.
 - **Elisandra Corvis**, a six-foot-tall Kalashtar cleric with pure white hair.
 
 They arrived as strangers. Each had followed word of a job worth two hundred gold.
