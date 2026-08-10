@@ -56,9 +56,13 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
+markdown_extensions:
+  - attr_list
+
 # Site navigation
 nav: 
   - Chapter 1:
-    - The Black Lantern Inn: chapter1/chapter-01-the-black-lantern-inn.md
-    - Notes: chapter1/chapter-01-dnd-notes.md
-
+    - The Black Lantern Inn: chapter01/chapter-01-the-black-lantern-inn.md
+    - Bia's notes: chapter01/chapter-01-dnd-notes.md
+  - Character sheets: 
+    - Bia's character sheets: character-sheets/bia-character-sheets.md
