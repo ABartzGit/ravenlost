@@ -140,7 +140,7 @@ They awakened Cedgewick and explained their decision. Because Cedgewick had just
 
 The group invited him to leave with them, but Cedgewick refused. He was bound by his master's command to stay within the laboratory.
 
-With night fully settled around the mountain, Ravenlost chose to rest inside the old church near the entrance. The group had no intention of sharing a floor with two bloody corpses, so Bia dragged the dead treasure hunters outside and threw them onto the grounds.
+With night fully settled around the mountain, Ravenlost chose to rest inside the old church near the entrance. The group had no intention of sharing a floor with two bloody corpses, so Bia dragged the dead treasure hunters outside and threw them onto the grounds. She also picked one of their shields.
 
 By morning, the bodies were gone. No one had heard anything during the night. Not even Cedgewick.
 
