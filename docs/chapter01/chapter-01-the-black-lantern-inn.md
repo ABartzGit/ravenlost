@@ -138,7 +138,7 @@ Their plan was to return with two intact tubes and the remaining damaged ones. T
 
 They awakened Cedgewick and explained their decision. Because Cedgewick had just listened to the remaining recordings, he had retained the information they contained and could serve as a backup, if that ever became necessary.
 
-The group invited him to leave with them, but Cedgewick refused. He was bound by his master's command to stay within the laboratory.
+The group invited him to leave with them, but Cedgewick refused. He was bound by his master's command to stay within the laboratory. Cadric tells him that he will return for him.
 
 With night fully settled around the mountain, Ravenlost chose to rest inside the old church near the entrance. The group had no intention of sharing a floor with two bloody corpses, so Bia dragged the dead treasure hunters outside and threw them onto the grounds. She also picked one of their shields.
 
@@ -178,6 +178,8 @@ Two spirits appeared - the ghosts of two dead treasure hunters from the laborato
 
 At that moment, every member of Ravenlost was grateful they had closed the laboratory door before discovering, listening to, discussing and destroying the remaining recordings.
 
+Then, before departing, one of the ghosts said, “If you’re ever by the house on Griffin Hill, come see my lady.”
+
 Henry paid them the rest of their gold. Then he stood, walked directly through the table, crossed the office, and walked through the door. 
 
 For several moments, no one spoke.
@@ -200,6 +202,6 @@ Jayn searched the abandoned bar for more grog.
 
 Then someone knocked at the front door. The party hesitated. In a place such as this, a visitor after dark could easily be a vampire—or something worse. They chose not to open it.
 
-They did not need to. The door opened, and **Ava the fortune teller** stepped inside.
+They did not need to. The door opened, and **Eva the fortune teller** stepped inside.
 
 That was where Ravenlost's first adventure ended.
