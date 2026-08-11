@@ -250,7 +250,7 @@ No obvious struggle.
 
 Ravenlost began asking questions.
 
-The town storekeeper, Ron, operated Larder Supply and supplied Sterling Manor. Sterling Crawford normally received weekly shipments of grain, meat, linens, and other necessities.
+The town storekeeper, Ron, operated Larder Supply and supplied Crawford Manor. Sterling Crawford normally received weekly shipments of grain, meat, linens, and other necessities.
 
 The latest shipment had never arrived.
 
@@ -264,7 +264,7 @@ The manor itself was managed by Thema, an elderly gnome caretaker who, by all ac
 
 There was also a troubling geographic pattern.
 
-Of the missing households, Lone Farmer John lived closest to Sterling Manor. The Peterbuilds were next.
+Of the missing households, Lone Farmer John lived closest to Crawford Manor. The Peterbuilds were next.
 
 Then the Reynolds.
 
@@ -306,7 +306,7 @@ The Crawford family, however, could easily own it.
 
 There was one more connection.
 
-Before becoming the hospital's night guard, Daverick tended the grounds at Sterling Manor.
+Before becoming the hospital's night guard, Daverick tended the grounds at Crawford Manor.
 
 The priest also revealed more about Mrs. Crawford.
 
@@ -316,7 +316,7 @@ They did not work.
 
 Sterling banished him from the estate and decided to care for his wife himself.
 
-Ravenlost was becoming increasingly certain that something was wrong at Sterling Manor.
+Ravenlost was becoming increasingly certain that something was wrong at Crawford Manor.
 
 But before storming it, they wanted evidence.
 
@@ -358,7 +358,7 @@ Stern Reynolds had medium brown hair.
 
 His wife Persephone had long blonde hair.
 
-And Thema, the elderly gnome caretaker of Sterling Manor, had white hair.
+And Thema, the elderly gnome caretaker of Crawford Manor, had white hair.
 
 She was perhaps three hundred years old and roughly Cadric's size.
 
@@ -368,7 +368,7 @@ The evidence was beginning to point in one direction.
 
 ## What waited beneath the pond
 
-Two other families lived near Sterling Manor: the Lemroys and the Darrons.
+Two other families lived near Crawford Manor: the Lemroys and the Darrons.
 
 Both had decided to stay at the Raven's Claw Inn for safety.
 
@@ -384,7 +384,7 @@ Each borrowed—or, depending on one's definition, confiscated—a boat from the
 
 From the water, they noticed a light briefly appear inside the hospital before going dark again.
 
-At Sterling Manor, a single light burned.
+At Crawford Manor, a single light burned.
 
 Jayn investigated the place where the river's current emptied into the pond.
 
@@ -484,7 +484,7 @@ The kettle—still filled with poisoned tea—and a lantern dropped to the floor
 
 Outside, Elisandra heard something nearby, followed by the sound of water moving toward the creek.
 
-Jayn rushed from the house and saw a black figure flying toward Sterling Manor.
+Jayn rushed from the house and saw a black figure flying toward Crawford Manor.
 
 The trap had worked.
 
@@ -526,7 +526,7 @@ Nothing else disturbed them before morning.
 
 ---
 
-## The road to Sterling Manor
+## The road to Crawford Manor
 
 Ravenlost returned to the Raven's Claw Inn around 9:30 the following morning.
 
@@ -534,13 +534,13 @@ They brought the bones from the pond with them.
 
 Then they told Thom Youngblood everything.
 
-Thom already knew that undead creatures haunted Locust Branch Hospital. Until now, however, he had not been certain that something equally sinister was happening at Sterling Manor.
+Thom already knew that undead creatures haunted Locust Branch Hospital. Until now, however, he had not been certain that something equally sinister was happening at Crawford Manor.
 
 Now he was.
 
 The townspeople would have no objection if Ravenlost decided to storm the estate.
 
-Thom had visited Sterling Manor a few times as a child, although he had never gone far inside. From memory, he provided them with a rough map of the grounds and the small portion of the manor he had seen.
+Thom had visited Crawford Manor a few times as a child, although he had never gone far inside. From memory, he provided them with a rough map of the grounds and the small portion of the manor he had seen.
 
 Before they left, he revealed one final detail.
 
@@ -552,4 +552,4 @@ Ravenlost now had poisoned tea, missing families, a mysterious caretaker, a flyi
 
 There was only one place left to investigate.
 
-**Sterling Manor.**
+**Crawford Manor.**

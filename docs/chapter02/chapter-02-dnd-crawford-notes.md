@@ -6,7 +6,7 @@
 **Destination:** Mordenshire, Mordent  
 **Unexpected stop:** Crawford  
 **Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.  
-**Main suspect/location:** Sterling Manor  
+**Main suspect/location:** Crawford Manor  
 **Other suspicious location:** Locust Branch Hospital  
 
 ---
@@ -84,7 +84,7 @@ Nearby:
 
 - Crawford
 - Locust Branch Hospital
-- Sterling Manor
+- Crawford Manor
 - Pond / river
 - Woods
 
@@ -128,7 +128,7 @@ He told us:
 - Daverick should have walked to work.
 - There was a town meeting at the Raven's Claw Inn about the disappearances.
 - Crawford is governed by **Sterling Crawford**.
-- Sterling has been secluded in Sterling Manor since his pregnant wife became ill.
+- Sterling has been secluded in Crawford Manor since his pregnant wife became ill.
 
 ### Pablo
 
@@ -154,14 +154,14 @@ According to **Thom Youngblood**, Crawford's de facto leader:
 
 | Missing | When | Notes |
 |---|---:|---|
-| **Lone Farmer John** | 9 days ago | Lives closest to Sterling Manor. |
+| **Lone Farmer John** | 9 days ago | Lives closest to Crawford Manor. |
 | **Peterbuild family** | 5 days ago | Husband, wife, and son. Neighbors noticed no smoke from chimney. |
 | **Stern & Persephone Reynolds** | Last night | Husband and wife. |
-| **Daverick** | Discovered today | Hospital night guard; also tended Sterling Manor's grounds. |
+| **Daverick** | Discovered today | Hospital night guard; also tended Crawford Manor's grounds. |
 
 ### Geographic pattern
 
-Moving outward from Sterling Manor:
+Moving outward from Crawford Manor:
 
 1. Lone Farmer John
 2. Peterbuilds
@@ -172,7 +172,7 @@ The disappearances appear to be moving progressively farther away from the manor
 
 ---
 
-## Sterling Manor
+## Crawford Manor
 
 **Sterling Crawford** owns/runs the manor and governs Crawford.
 
@@ -192,7 +192,7 @@ Known information:
 
 ### Thema
 
-**Thema** is the caretaker at Sterling Manor.
+**Thema** is the caretaker at Crawford Manor.
 
 Known information:
 
@@ -381,7 +381,7 @@ Elisandra heard:
 
 Jayn saw:
 
-- A **black figure flying toward Sterling Manor**.
+- A **black figure flying toward Crawford Manor**.
 
 ### Important
 
@@ -435,18 +435,18 @@ No further attacks that night.
 
 Were the shadows connected to:
 
-- Sterling Manor?
+- Crawford Manor?
 - The hooded figure?
 - Locust Branch Hospital?
 - Something else entirely?
 
 ---
 
-## What we know before entering Sterling Manor
+## What we know before entering Crawford Manor
 
 Evidence connecting the disappearances to the manor:
 
-1. Missing households are progressively farther from Sterling Manor.
+1. Missing households are progressively farther from Crawford Manor.
 2. Daverick also worked on the manor grounds.
 3. Daverick had an expensive porcelain tea service likely associated with the Crawfords.
 4. Daverick's tea contained hemlock.
@@ -455,7 +455,7 @@ Evidence connecting the disappearances to the manor:
 7. A hooded figure attempted the same poisoned-tea method at the Lemroy house.
 8. The hooded figure was approximately Thema's size.
 9. After disappearing, something traveled through the water toward the manor.
-10. Jayn saw a black figure fly toward Sterling Manor.
+10. Jayn saw a black figure fly toward Crawford Manor.
 11. Human and infant remains were found in the nearby pond.
 12. Sterling Crawford has isolated himself since his wife's illness and pregnancy.
 13. The Crawfords previously lost another pregnancy.
@@ -473,12 +473,12 @@ Evidence connecting the disappearances to the manor:
 | **Lavar** | Guard at Locust Branch Hospital. |
 | **Pablo** | Lavar's dog; sees ghosts and provided information about Daverick. |
 | **Cynthia** | Ghost who reportedly appears at the hospital around 11 PM. |
-| **Daverick** | Missing hospital guard; previously worked on Sterling Manor grounds. |
+| **Daverick** | Missing hospital guard; previously worked on Crawford Manor grounds. |
 | **Thom Youngblood** | Crawford's de facto community leader. |
 | **Ron** | Owner/storekeeper of Larder Supply. |
 | **Sterling Crawford** | Lord/governor of Crawford; secluded inside his manor. |
 | **Mrs. Crawford** | Sterling's pregnant and seriously ill wife. |
-| **Thema** | Elderly gnome caretaker of Sterling Manor; white hair. |
+| **Thema** | Elderly gnome caretaker of Crawford Manor; white hair. |
 | **Stern Reynolds** | Missing; medium brown hair. |
 | **Persephone Reynolds** | Missing; long blonde hair. |
 | **Earnest & Ella Lemroy** | Family whose house Ravenlost used to trap the mysterious visitor. |
@@ -487,10 +487,10 @@ Evidence connecting the disappearances to the manor:
 
 ## Current objective
 
-Thom gave us a rough map of the Sterling Manor grounds and the portion of the house he remembers from childhood.
+Thom gave us a rough map of the Crawford Manor grounds and the portion of the house he remembers from childhood.
 
 The townspeople now agree that something nefarious is happening at the manor.
 
 Next stop:
 
-**Sterling Manor.**
+**Crawford Manor.**
