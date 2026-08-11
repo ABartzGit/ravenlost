@@ -1,4 +1,4 @@
-# Notes
+# Bia's Chapter 1 notes
 
 Four strangers answered the promise of two hundred gold. Before the job was finished, they would cross a forest after dark, enter a ruined church transformed into an alchemical laboratory, awaken a sixty-five-year-old automaton, conceal a discovery that could threaten the Domains of Dread, and learn that neither their employer nor the inn in which they met was what it seemed.
 
@@ -20,7 +20,7 @@ Four strangers answered the promise of two hundred gold. Before the job was fini
 | **Advance Payment** | 100 gp each |
 | **Major Encounters** | Four wolves, animated mechanical body parts, a metal-eating construct, and unknown toe-walking creatures |
 | **Major Discovery** | Glim may have created an apparatus capable of breaking a dreadlord's hold over the Mists |
-| **New Acquaintances** | Cedgewick and Ava |
+| **New Acquaintances** | Cedgewick and Eva |
 | **Final Revelation** | Henry was a spirit, and the Black Lantern Inn appeared to have been abandoned for years |
 
 ---
@@ -57,7 +57,7 @@ By the time they returned, they were not yet friends, but they were beginning to
 - The party received its gold and advanced to level 2.
 - The lively inn became a dusty, abandoned building when the office door opened.
 - Jayn still searched for grog.
-- Ava entered without being invited.
+- Eva entered without being invited.
 
 ---
 
@@ -65,7 +65,7 @@ By the time they returned, they were not yet friends, but they were beginning to
 
 ### Henry Loust
 
-An elderly-seeming gentleman in fine but worn clothing who hired Ravenlost on behalf of Lady Estella Godfroy. He was later revealed to be incorporeal, though the nature of his connection to the Black Lantern Inn remains unknown.
+An elderly-seeming gentleman with glasses and in fine-but-worn clothing who hired Ravenlost on behalf of Lady Estella Godfroy. He was later revealed to be incorporeal, though the nature of his connection to the Black Lantern Inn remains unknown.
 
 ### Lady Estella Godfroy
 
@@ -87,7 +87,7 @@ The dreadlord of Lemordia and one of several figures believed to have wanted Gli
 
 The dreadlord of Mordent, toward whose domain Glim charted his final known course.
 
-### Ava
+### Eva
 
 A fortune teller who entered the abandoned Black Lantern Inn immediately after the party discovered its true condition.
 
@@ -141,7 +141,7 @@ Five creatures crashed through the laboratory's stained-glass roof. Their highly
 - Who—or what—is Henry Loust?
 - How did Henry know what happened in the laboratory?
 - Why did the Black Lantern Inn appear lively before becoming abandoned?
-- What does Ava want with Ravenlost?
+- What does Eva want with Ravenlost?
 - Who—or what—is Korath?
 
 ---
@@ -179,7 +179,7 @@ We earned our gold. We are stronger now than when we left. I'm not sure whether 
 
 When we opened Henry's door, the inn was dead and covered in dust.
 
-Then Ava arrived.
+Then Eva arrived.
 
 I still don't trust the Mists. I am beginning to think I may trust the others.
 
@@ -195,6 +195,6 @@ No one answered.
 
 The door opened anyway.
 
-Ava the fortune teller stepped out of the Mists and into the abandoned inn.
+Eva the fortune teller stepped out of the Mists and into the abandoned inn.
 
 **To be continued.**
