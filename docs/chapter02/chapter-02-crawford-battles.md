@@ -2,6 +2,8 @@
 
 > *The Mists had delivered Ravenlost somewhere new. Crawford, unfortunately, already had problems of its own.*
 
+![Ravenlost fortunes](../images/chapter-02-fortune.png)
+
 ---
 
 ## Madam Eva's reading
@@ -444,7 +446,7 @@ It carried a pouch and a kettle.
 
 Elisandra happened to be facing the wrong direction.
 
-Bia climbed down and tapped on the barn door.
+Bia climbed down and tapped on the barn roof.
 
 Elisandra warned Cadric.
 
