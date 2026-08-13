@@ -28,7 +28,7 @@ Wondering if he was making good choices, Cadric extinguished the light and climb
 
 Bia went next. The door opened into what appeared to be a servants' kitchen. Somewhere above her, floorboards creaked. Footsteps. Cadric then relented and followed, finding himself in the kitchen.
 
-Jayn slipped past her and began exploring the first floor. She found several rooms, including a greenhouse, though unlike the observatory, there were no white flowers growing there. 
+Jayn slipped past then and began exploring the first floor. She found several rooms, including a greenhouse, though unlike the observatory, there were no white flowers growing there. 
 
 Another room contained something far stranger. A dumbwaiter large enough to hold several people.
 
@@ -57,7 +57,7 @@ He looked at her.
 From below, outside the kitchen, Cadric looked up the stairs and saw Bia facing the massive figure. "Holy fuck."
 In the room at the end of the upstairs hall, Jayn saw an elderly female gnome crying beside an empty crib. She looked at Jayn and immediately motioned for her to be quiet. They whispered.
 
-Jayn explained that she and her companions were trying to save Crawford. The woman shook her head. They couldn't save it. She told Jayn to jump out the window and leave while she still could.
+Jayn explained that she and her companions were trying to save Crawford. Jayn suggested that the woman leave with them.  The woman shook her head. They couldn't save it or her. She told Jayn to jump out the window and leave while she still could.
 
 Her name was Thema, and she had served as caretaker of Crawford Manor for sixty-two years. The enormous creature stalking Bia on the stairs was what remained of Sterling Crawford. And Sterling was getting worse. His wife, Ladna Crawford, was gravely ill with anemia. As Ladna's condition had deteriorated, Sterling had grown larger and increasingly unstable.
 
@@ -80,8 +80,7 @@ Downstairs, Elisandra pulled the dumbwaiter lever.
 
 Outside, Jayn ran to the front door and tried to pick the lock. Nothing. She decided to ring the doorbell and waited around the corner. No answer.
 
-Inside, Sterling tore his arm free from the wall and kicked Cadric down the stairs. He moved to follow. 
-Bia struck as he tried to go down the stairs. Her axe tore critically across the back of Sterling's neck. The enormous man collapsed onto the landing, writhing in pain.
+Inside, Sterling tore his arm free from the wall and kicked Cadric down the stairs. He moved to follow and strike. But Bia struck as he tried to go down the stairs. Her axe tore critically across the back of Sterling's neck. The enormous man collapsed onto the landing, writhing in pain.
 
 Cadric tried to finish him. And missed.
 
@@ -89,9 +88,9 @@ In the basement, Elisandra sprinkled holy water over the injured man on the hook
 
 Outside, Jayn saw Thema sprinting away from the manor. She tried the lock again. Still nothing. So she broke a window and entered the basement.
 
-Back on the stairs, Sterling was struggling to his feet. He attacked Bia once and missed. He attacked again and missed. He screamed, "I WILL NOT LET THEM TAKE HER!"
+Back on the stairs, Sterling was struggling to his feet. He attacked Bia once and missed. He attacked again and missed again. He screamed, "I WILL NOT LET THEM TAKE HER!"
 
-Bia swung. Her axe slammed into the wall. Then Cadric landed the final blow.
+Bia swung. Her axe slammed into the wall. It was Cadric who landed the final blow.
 
 Sterling Crawford fell.
 
@@ -103,7 +102,8 @@ Cadric walked over to the enormous corpse, grabbed both of Sterling's arms, and 
 
 ## Ladna Crawford
 
-The dumbwaiter had reached the basement. Elisandra saw bloody footprints inside it. When Jayn found her, she also discovered the room filled with hanging bodies. Together, they climbed into the dumbwaiter and rode it upstairs.
+The dumbwaiter had reached the basement. Elisandra saw bloody footprints inside it. Jayne walked through the room filled with the hanging bodies and caught up with Elisandra. Together, they climbed into the dumbwaiter and rode it upstairs. 
+
 Eventually, the entire group gathered on the second floor inside the room with the double doors. 
 
 A heavily pregnant woman lay on the bed. An IV ran from her body to a pulsing red sack filled with blood.
@@ -113,9 +113,9 @@ This was Ladna Crawford. Elisandra reached out to her telepathically. The respon
 
 Ladna told her that what she carried was no longer her child. “It's not a child of mine anymore.” But Sterling had kept her alive. Not simply because he couldn't bear to lose his wife. Ladna warned them about Wilfred Godfroy. He would come for them in death. Sterling had been keeping Ladna alive to prevent that from happening.
 
-If the party killed her, Ladna explained, she would have fourteen hours—until midnight—to be herself again. Then she would be compelled to join the hallowed march to the house on Griffin Hill. Bia had killed severely wounded animals on her farm in acts of mercy and never liked it. 
+If the party killed her, Ladna explained, she would have fourteen hours—until midnight—to be herself again. Then she would be compelled to join the hallowed march to the house on Griffin Hill. 
 
-But it was Jayn who approached the bed. She leaned down and gently kissed Ladna on the forehead. Then she drove her weapon into Ladna's stomach.
+Bia had killed severely wounded animals on her farm in acts of mercy and never liked it. But it was Jayn who approached the bed. She leaned down and gently kissed Ladna on the forehead. Then she drove her weapon into Ladna's stomach.
 
 The blade punched through one layer. Then another. Then another. At least three layers of bone.
 Ladna died. Fluid burst from her stomach. And from within emerged an unholy creature. It had many eyes. A tail. And it was dead.
@@ -131,7 +131,7 @@ Jayn investigated a tunnel leading from the basement toward the cistern. She cra
 
 Cadric used healing magic on the rescued man. He still couldn't speak—his tongue was gone—but the group suspected they knew who he was. Daverick.
 
-Elisandra searched the room and found a chest containing the party's belongings. Jayn found a little extra compensation as well:
+Elisandra searched the room and found a chest containing the victims' belongings. Jayn found a little extra compensation as well:
 
 - Seventeen gold.
 - Thirty-six silver.
@@ -172,9 +172,8 @@ But the party had one more thing to investigate. Ladna had told them what would 
 
 ## The Hallowed March
 
-At midnight, the party stepped outside and looked toward Crawford Manor. In the distance, a ripple of greenish-blue light shimmered through the darkness. Orbs drifted away from Sterling Manor and traveled toward it. Then the party saw them.
+At midnight, the party stepped outside and looked toward Crawford Manor. In the distance, a ripple of greenish-blue light shimmered through the darkness. Orbs drifted away from Sterling Manor and traveled toward it. 
 
-Ghostly figures. Sterling Crawford—no longer enormous, no longer monstrous, human again.
+Then the party saw them. Ghostly figures. Sterling Crawford—no longer enormous, no longer monstrous, human again. Beside him floated Ladna Crawford—she, too, had been restored to human form. And in her arms she carried a baby.
 
-Beside him walked Ladna Crawford—she, too, had been restored to human form. And in her arms she carried a baby.
 For a moment, the spectral family looked back toward the manor. Then they turned away. Together, Sterling, Ladna, and the child continued northeast. Toward Mordenshire. Toward Griffin Hill. Toward whatever awaited the dead there.
