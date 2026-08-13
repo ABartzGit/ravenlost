@@ -1,4 +1,4 @@
-# The Shadows of Crawford (DRAFT)
+# The Shadows of Crawford
 
 > *The Mists had delivered Ravenlost somewhere new. Crawford, unfortunately, already had problems of its own.*
 
