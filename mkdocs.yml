@@ -22,7 +22,6 @@ theme:
 
   # Auto-expand the left navigation and include previous and next navigation in the footer.
   features: 
-    - navigation.expand
     - navigation.footer
   
   # Set the color palette for light and dark mode, and include a toggle to switch between them.
@@ -67,8 +66,10 @@ nav:
       - Bia's Chapter 1 notes: chapter01/chapter-01-dnd-notes.md
   - Chapter 2:
     - The Shadows of Crawford: chapter02/chapter-02-crawford-battles.md
+    - The Battle of Crawford Manor: chapter02/chapter-02-crawford-manor-battle.md
     - Notes:
-      - Bia's notes for Crawford: chapter02/chapter-02-dnd-crawford-notes.md
+      - Bia's notes for Crawford: chapter02/chapter-02-crawford-notes.md
+      - Bia's notes for Crawford Manor: chapter02/chapter-02-crawford-manor-notes.md
   - Character sheets: 
     - Bia's character sheets: character-sheets/bia-character-sheets.md
 
