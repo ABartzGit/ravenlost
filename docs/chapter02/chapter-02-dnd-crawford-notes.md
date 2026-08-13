@@ -1,4 +1,4 @@
-# Bia's Notes — Crawford (DRAFT)
+# Bia's Notes — Crawford
 
 ## Adventure at a glance
 

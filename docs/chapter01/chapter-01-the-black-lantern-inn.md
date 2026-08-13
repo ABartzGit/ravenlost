@@ -2,7 +2,7 @@
 
 > *The Mists have a way of gathering those who were never meant to meet.*
 
-![Ravenlost group](../images/ravenlost-chapter1.png)
+![Ravenlost group](../images/chapter-01-black-lantern-inn.png)
 
 ---
 
@@ -10,7 +10,14 @@
 
 The Black Lantern Inn stood in the Mists as though it had been waiting for them.
 
-One by one, the four strangers entered its taproom and asked about the advertised work. The bartender offered little explanation. He merely directed each of them toward a room off the bar, where their prospective employer waited. Jayn Blight was the last to join them. Before doing so, she remained at the bar long enough to drink two bowls of grog.
+One by one, the four strangers entered its taproom. 
+
+- Bia Galene, a six-foot-six female Orc barbarian.
+- Cadric Veyl, a three-foot-tall Halfling bard.
+- Elisandra Corvis, a six-foot-tall Kalashtar cleric.
+- Jayn Blight, a six-foot-four female Lupine ranger.
+
+and asked about the advertised work. The bartender offered little explanation. He merely directed each of them toward a room off the bar, where their prospective employer waited. Jayn Blight was the last to join them. Before doing so, she remained at the bar long enough to drink two bowls of grog.
 
 Inside the office sat an older gentleman dressed in clothing that was fine but worn with age. A book rested in his hands, and he appeared absorbed in its pages until all four adventurers had gathered before him. He introduced himself as **Henry Loust**.
 

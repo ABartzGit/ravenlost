@@ -1,2 +1,3 @@
-# ravenlost
-The Adventures of Ravenlost
+# Ravenlost
+
+Chronicling our DnD adventures in Ravenloft

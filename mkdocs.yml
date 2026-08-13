@@ -49,7 +49,7 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.com/users/1125538089457160232
     - icon: fontawesome/brands/github
-      link: https://github.com/ABartzGit/angelabartz
+      link: https://github.com/ABartzGit/ravenlost
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/angela-bartz/
       
@@ -63,10 +63,12 @@ markdown_extensions:
 nav: 
   - Chapter 1:
     - The Black Lantern Inn: chapter01/chapter-01-the-black-lantern-inn.md
-    - Bia's Chapter 1 notes: chapter01/chapter-01-dnd-notes.md
+    - Notes:
+      - Bia's Chapter 1 notes: chapter01/chapter-01-dnd-notes.md
   - Chapter 2:
     - The Shadows of Crawford: chapter02/chapter-02-crawford-battles.md
-    - Bia's notes for Crawford: chapter02/chapter-02-dnd-crawford-notes.md
+    - Notes:
+      - Bia's notes for Crawford: chapter02/chapter-02-dnd-crawford-notes.md
   - Character sheets: 
     - Bia's character sheets: character-sheets/bia-character-sheets.md
 
