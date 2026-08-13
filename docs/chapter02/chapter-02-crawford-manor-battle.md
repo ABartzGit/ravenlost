@@ -113,7 +113,7 @@ This was Ladna Crawford. Elisandra reached out to her telepathically. The respon
 
 Ladna told her that what she carried was no longer her child. “It's not a child of mine anymore.” But Sterling had kept her alive. Not simply because he couldn't bear to lose his wife. Ladna warned them about Wilfred Godfroy. He would come for them in death. Sterling had been keeping Ladna alive to prevent that from happening.
 
-If the party killed her, Ladna explained, she would have fourteen hours—until midnight—to be herself again. Then she would be compelled to join the hallowed march to the house on Griffin Hill. Bia had killed severely wounded animals on her farm in acts of mercy, and never liked it. 
+If the party killed her, Ladna explained, she would have fourteen hours—until midnight—to be herself again. Then she would be compelled to join the hallowed march to the house on Griffin Hill. Bia had killed severely wounded animals on her farm in acts of mercy and never liked it. 
 
 But it was Jayn who approached the bed. She leaned down and gently kissed Ladna on the forehead. Then she drove her weapon into Ladna's stomach.
 
@@ -121,7 +121,10 @@ The blade punched through one layer. Then another. Then another. At least three 
 Ladna died. Fluid burst from her stomach. And from within emerged an unholy creature. It had many eyes. A tail. And it was dead.
 
 For a moment, nobody spoke. Then Cadric looked around the room and found a hat. He took it.
-The Survivor
+
+---
+
+## The survivor
 
 The group returned to the basement. Together, Bia and Elisandra managed to remove the surviving man from the hook.
 Jayn investigated a tunnel leading from the basement toward the cistern. She crawled into it headfirst and followed it as far as she could. She found a shoe. Nothing else. So she crawled back.
