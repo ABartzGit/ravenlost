@@ -30,7 +30,7 @@ Then she produced a deck of cards. Her head tilted backward before snapping forw
 
 Madam Eva drew four more cards, placing each over one already on the table: the Berserker over the Dictator, the Charlatan over the Darklord, the Shepherd over the Beast, and the Ghost over the Miser.
 
-Then, just as suddenly as the trance had begun, Madam Eva returned to herself. She asked what they thought.Ravenlost, unusually, had very little to say. 
+Then, just as suddenly as the trance had begun, Madam Eva returned to herself. She asked what they thought. Ravenlost, unusually, had very little to say. 
 
 Madam Eva rose to leave. Somehow, the front door that Cadric had locked opened for her, and she disappeared into the fog. The Mists remained pressed against the doorway.
 
@@ -96,11 +96,11 @@ The front entrance had been nailed shut, but a cracked window offered another wa
 
 Naturally, Jayn climbed through the window. Bia followed, injuring her hand in the process. Cadric wisely remained near the fence.
 
-Near the building, Elisandra consulted her Augury. Going inside, it informed her, was a bad idea. That was enough for Bia. She climbed back out.
+Near the building, Elisandra consulted her Augury, and it informed her that going inside was a bad idea. That was enough for Bia. She climbed back out.
 
 Jayn was now alone inside an abandoned hospital ward. Through a set of swinging doors, she noticed something shiny. Then a bandaged arm reached through and picked it up.
 
-A man approached with a dog and spoke to Cadric. He introduced himself as Lavar and explained that he was a guard at the hospital. Then he learned that Jayn was inside. Lavar immediately began banging on the fence and yelling for her to get out. Reluctantly, Jayn complied. Upon emerging, she peed near Lavar.
+A man with a dog approached the fence where Cadric stood. He introduced himself as Lavar and explained that he was a guard at the hospital. When Lavar learned that Jayn was inside, he immediately began banging on the fence and yelling for her to get out. Reluctantly, Jayn complied. Upon emerging, she peed near Lavar.
 
 Introductions were going well.
 
@@ -135,11 +135,9 @@ Most of those gathered were farmers. Among them was the local clergyman and Thom
 Entire households were vanishing. There were no signs of robbery. No forced entry. No obvious struggle.
 Ravenlost began asking questions.
 
-The town storekeeper, Ron, operated Larder Supply and supplied goods to Crawford Manor. The latest shipment had never arrived. It was already four days overdue. If Ravenlost found it, they could keep it. 
+The town storekeeper, Ron, operated Larder Supply and supplied goods to Crawford Manor. Sterling Crawford normally received weekly shipments of grain, meat, linens, and other necessities. Until recently, the shipments had also included baby furniture and supplies, but those requests had stopped. Also, the latest shipment had never arrived. It was already four days overdue. If Ravenlost found it, they could keep it. 
 
-Sterling Crawford normally received weekly shipments of grain, meat, linens, and other necessities. Until recently, the shipments had also included baby furniture and supplies. Those requests had stopped. Sterling's wife had been approximately four months pregnant when he withdrew from public life to care for her.
-
-The manor itself was managed by Thema, an elderly gnome caretaker who, by all accounts, ruled it with an iron fist. She was perhaps three hundred years old and roughly Cadric's size.
+Sterling's wife had been approximately four months pregnant when he withdrew from public life to care for her. The manor itself was managed by Thema, an elderly gnome caretaker who, by all accounts, ruled it with an iron fist. She was perhaps three hundred years old and roughly Cadric's size.
 
 There was also a troubling geographic pattern. Of the missing households, Lone Farmer John lived closest to Crawford Manor. The Peterbuilds were next closest. Then the Reynolds.
 
@@ -192,7 +190,7 @@ Before nightfall, however, Jayn and Bia had another place they wanted to investi
 
 From the water, they noticed a light briefly appear inside the hospital before going dark again. And at Crawford Manor, a single light burned.
 
-Jayn investigated the place where the river's current emptied into the pond. She plunged her hand into the silt and pulled out a human skull. Deep, uneven scrapes marked the bone. They did not appear to have been made by metal. Whether the damage occurred before or after death was impossible to tell.
+Jayn investigated the place where the river's current emptied into the pond. She plunged her hand into the silt and pulled out a human skull. Deep, uneven scrapes marked the bone. They didn't appear to have been caused by metal. Whether the damage occurred before or after death was impossible to tell.
 
 Bia searched farther out. She dove into the middle of the pond and discovered a burlap sack weighted to the bottom with a rock. She removed the weight and brought the sack ashore.
 
@@ -211,7 +209,7 @@ Now they needed a plan.
 The Lemroys were halflings. Conveniently, so was Cadric. Therefore, Cadric would be the bait.
 He objected. The plan continued.
 
-Cadric would disguise himself as Earnest Lemroy and wait inside the house. Jayn would hide beneath the bed. Elisandra would remain in the open barn watching for anyone approaching from the direction of the manor. If she saw someone, she would warn Cadric telepathically. Bia would keep watch from the barn roof.
+Cadric would disguise himself as Earnest Lemroy and wait inside the house. Jayn would hide beneath the bed. Elisandra would remain in the open barn watching for anyone approaching from the direction of the river. If she saw someone, she would warn Cadric telepathically. Bia would keep watch from the barn roof.
 
 It was the perfect plan.
 
@@ -245,7 +243,7 @@ Bia eventually lifted Cadric onto the bed, apparently at his request. And with t
 
 Elisandra took the first watch. At approximately 1:30 in the morning, Cadric relieved her. He lit the fire and dragged furniture in front of both doors.
 
-Then, while keeping watch—or perhaps cowering—the light in the room began to dim. Cadric turned toward the fire to restoke it. Instead, he saw three shadowy figures standing around it.
+Then, while he was keeping watch—or perhaps cowering—the light in the room began to dim. Cadric turned toward the fire to restoke it. Instead, he saw three shadowy figures standing around it.
 
 He screamed. Everyone woke.
 
@@ -258,7 +256,7 @@ Nothing else disturbed them that night.
 
 Ravenlost returned to the Raven's Claw Inn around 9:30 the following morning. They brought the bones from the pond with them. Then they told Thom Youngblood everything.
 
-Thom already knew that undead creatures haunted Locust Branch Hospital. Until now, however, he had not been certain that something equally sinister was happening at Crawford Manor. Now he was.
+Thom already knew that undead creatures haunted Locust Branch Hospital. Until now, however, he hadn't been certain that something equally sinister was happening at Crawford Manor. Now he was.
 
 The townspeople would have no objection if Ravenlost decided to storm the estate. 
 
@@ -266,7 +264,8 @@ Thom had visited Crawford Manor a few times as a child, although he had never go
 
 Before they left, he revealed one final detail. Mrs. Crawford had been pregnant once before. That child had not survived.
 
-Ravenlost now had poisoned tea, missing families, a mysterious caretaker, a flying figure, infant bones recovered from the pond, and a trail that seemed to lead directly toward Sterling Crawford's estate.
+Ravenlost now had poisoned tea, missing families, a mysterious caretaker, flying figures, infant bones recovered from the pond, and a trail that seemed to lead directly toward Sterling Crawford's estate.
+
 There was only one place left to investigate.
 
 **Crawford Manor**.
