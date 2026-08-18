@@ -115,12 +115,14 @@ Ladna told her that what she carried was no longer her child. “It's not a chil
 
 If the party killed her, Ladna explained, she would have fourteen hours—until midnight—to be herself again. Then she would be compelled to join the hallowed march to the house on Griffin Hill. 
 
+Cadric wanted no part of this. He looked around the room, found a hat and took it. He left the room and headed to the observatory for some hemlock, because you never know when you'll need a paralytic.
+
 Bia had killed severely wounded animals on her farm in acts of mercy and never liked it. But it was Jayn who approached the bed. She leaned down and gently kissed Ladna on the forehead. Then she drove her weapon into Ladna's stomach.
 
 The blade punched through one layer. Then another. Then another. At least three layers of bone.
 Ladna died. Fluid burst from her stomach. And from within emerged an unholy creature. It had many eyes. A tail. And it was dead.
 
-For a moment, nobody spoke. Then Cadric looked around the room and found a hat. He took it.
+For a moment, nobody spoke. 
 
 ---
 
