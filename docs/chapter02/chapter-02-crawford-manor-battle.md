@@ -96,7 +96,7 @@ Sterling Crawford fell.
 
 Silence settled over the stairwell.
 
-Cadric walked over to the enormous corpse, grabbed both of Sterling's arms, and began moving them like a puppet. Then he noticed the ring. Cadric cut off Sterling's finger and took it.
+Cadric walked over to the enormous corpse, grabbed both of Sterling's arms, and began moving them like a puppet. He began chanting "Fresh meat!" and mimicking some of Sterling's other comments. Then he noticed the ring. Cadric cut off Sterling's finger and took it.
 
 ---
 
