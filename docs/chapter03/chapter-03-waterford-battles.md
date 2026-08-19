@@ -58,25 +58,19 @@ Then Ravenlost followed the tracks into the woods.
 
 ## Monster hunters
 
-The trail led to a cave.
+The trail led to a cave. Jayn and Cadric snuck into the cave and heard voices, and they were spotted by a dog. Not able to hide any longer, they moved further into the cave and made themselves known. 
 
-Inside was what remained of the wagon’s horse, badly mauled and already
-decaying. Nearby lay the partially eaten remains of a man.
-
-Three other bodies were different. Two were ghouls. The third was a ghast. All three were already dead.
+Inside, they saw what remained of the wagon’s horse, badly mauled and already decaying. Nearby lay the partially eaten remains of a man. Three other bodies were different. Two were ghouls. The third was a ghast. All three were already dead.
 
 More importantly, someone was still in the cave. Two women stood among the remains with a pair of hunting dogs. One of the women was heavily armed; the other had lights floating around her. They were responsible for the dead undead, and, fortunately, didn't appear interested in adding four members of Ravenlost to the collection.
 
-The more talkative of the sisters introduced herself as **Jennifer**. Her quieter sister was **Lori**. Their dogs were **Joan** and **Tiron**. The dogs had silver caps fitted over their teeth.
+The more talkative of the sisters introduced herself as **Jennifer**. Her quieter sister was **Lori**. Their dogs were **Joan** and **Tiron**. The dogs had silver caps fitted over their canines.
 
-That got everyone’s attention.
+That got their attention.
 
-Jennifer and Lori were monster hunters from Mordenshire, hired by Farrow
-of "Farrow and Thorn" to determine what had been attacking travelers along
-the road. Judging by the bite marks, the bodies, and the three dead
-creatures at their feet, they’d found the answer. They intended to search the surrounding woods before moving on, just in case the ghast and ghouls hadn’t been alone.
+Jennifer and Lori were monster hunters from Mordenshire, hired by Farrow of "Farrow and Thorn" to determine what had been attacking travelers along the road. Judging by the bite marks, the bodies, and the three dead creatures at their feet, they’d found the answer. They intended to search the surrounding woods before moving on, just in case the ghast and ghouls hadn’t been alone.
 
-The conversation also gave Ravenlost several new leads.
+They moved their conversation outside of the cave. After meeting Bia and Elisandra, everyone sat down for a drink. Bia poured the sisters some mead, and the sisters gave Ravenlost several new leads.
 
 If they were going to continue fighting monsters, Jennifer and Lori recommended **Rudolf Fanbreaking**, an herbalist in Mordenshire who could supply them with the appropriate equipment. They also mentioned rumors from Glaston: a druidic group there was supposedly attempting to find a way through the Mists.
 
@@ -84,11 +78,9 @@ But when Ravenlost’s future travels turned toward the territory associated wit
 
 “Get stronger first.”
 
-Coming from a professional monster hunter, that seemed worth
-remembering. 
+Coming from a professional monster hunter, that seemed worth remembering. 
 
-The sisters also happened to be the daughters of **Alice**, the mayor of
-Mordenshire. 
+The sisters also happened to be the daughters of **Alice**, the mayor of Mordenshire. 
 
 This was all potentially useful information. Jayn, meanwhile, ate some of the dead horse.
 
@@ -124,8 +116,7 @@ Getting aboard required rope, some improvisation, and Cadric’s leather straps.
 
 Jayne followed. With Bia holding Jayn's rope, Jayne jumped into the water and swam with the strong current to the boat. As she neared, Cadric reached his little arm down in a fruitless attempt to catch Jany if she swam by. Jayn brushed him off and jumped onto the stranded vessel, and they began searching.
 
-There was plenty worth finding. Jayn came away with a gold necklace set with an emerald worth one hundred gold, two copper, and a pristine scimitar. Cadric found a silver ring and two hundred gold accompanied by an
-invoice to **Old Books**. 
+There was plenty worth finding. Jayn came away with a gold necklace set with an emerald worth one hundred gold, a pristine scimitar, and, unbeknownst to her, two copper ingots that Cadric inserted into her backpack. Cadric found a silver ring and two hundred gold accompanied by an invoice to **Old Books**. 
 
 Then they found Farrow’s portrait. It had been carefully protected against the water. Despite everything
 that had happened to the ship, the painting itself remained intact. It showed a woman none of them recognized.
