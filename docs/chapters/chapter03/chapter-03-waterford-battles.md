@@ -2,7 +2,7 @@
 
 > *The road to Waterford began with a missing wagon. By midnight, Ravenlost was robbing a mausoleum.*
 
-![Jar of Hearts](../images/chapter-03-image.png)
+![Jar of Hearts](../../images/chapter-03-image.png)
 
 ---
 
