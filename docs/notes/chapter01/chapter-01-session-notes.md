@@ -149,8 +149,8 @@ Five creatures crashed through the laboratory's stained-glass roof. Their highly
 ## Treasure and advancement
 
 - **200 gp earned by each party member**
-- 100 gp paid before departure
-- 100 gp paid upon completion
+  - 100 gp paid before departure
+  - 100 gp paid upon completion
 - Two intact wax recordings were retained for delivery.
 - The party found alchemical books and copper recording tubes.
 - **All four members of Ravenlost advanced from level 1 to level 2.**
