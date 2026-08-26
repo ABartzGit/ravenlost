@@ -1,13 +1,12 @@
 # Bia's notes - The shadows of Crawford
 
+
+
+---
+
 ## Adventure at a glance
 
-**Starting point:** Black Lantern Inn  
-**Destination:** Mordenshire, Mordent  
-**Unexpected stop:** Crawford  
-**Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.  
-**Main suspect/location:** Crawford Manor  
-**Other suspicious location:** Locust Branch Hospital  
+**Starting point:** Black Lantern Inn**Destination:** Mordenshire, Mordent**Unexpected stop:** Crawford**Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.**Main suspect/location:** Crawford Mano**Other suspicious location:** Locust Branch Hospital
 
 ---
 
@@ -17,8 +16,8 @@ Madam Eva arrived at the abandoned Black Lantern Inn and performed a card readin
 
 ### First five cards
 
-| Card | Reading / Notes |
-|---|---|
+| **Card** | **Reading / Notes** |
+| --- | --- |
 | **Mists** | A journey ahead. The Mists may claim those who aren't careful. |
 | **Miser** | A lord rules from a mansion. He refuses to give in to something he fears more than death. |
 | **Dictator** | No interpretation given. |
@@ -32,7 +31,7 @@ Madam Eva arrived at the abandoned Black Lantern Inn and performed a card readin
 - **Shepherd** → Beast
 - **Ghost** → Miser
 
-Cadric believes the cards represent people we already know or will eventually encounter.
+Cadric believes the cards represent people we already know or will eventually encounter. He’s a smart one.
 
 ### Questions
 
@@ -84,7 +83,7 @@ Nearby:
 
 - Crawford
 - Locust Branch Hospital
-- Crawford Manor
+- Crawford Mano
 - Pond / river
 - Woods
 
@@ -94,11 +93,13 @@ Nearby:
 
 Full sign:
 
-> **Locust Branch Hospital — Condemned under the Act of Death**
+**Locust Branch Hospital — Condemned under the Act of Death**
 
 The hospital appears abandoned but is definitely not empty.
 
-### Inside
+---
+
+## Inside
 
 Jayn entered through a broken window.
 
@@ -128,7 +129,7 @@ He told us:
 - Daverick should have walked to work.
 - There was a town meeting at the Raven's Claw Inn about the disappearances.
 - Crawford is governed by **Sterling Crawford**.
-- Sterling has been secluded in Crawford Manor since his pregnant wife became ill.
+- Sterling has been secluded in Crawford Mano since his pregnant wife became ill.
 
 ### Pablo
 
@@ -152,21 +153,21 @@ He **could** smell Daverick near the dock.
 
 According to **Thom Youngblood**, Crawford's de facto leader:
 
-| Missing | When | Notes |
-|---|---:|---|
-| **Lone Farmer John** | 9 days ago | Lives closest to Crawford Manor. |
+| **Missing** | **When** | **Notes** |
+| --- | --- | --- |
+| **Lone Farmer John** | 9 days ago | Lives closest to Crawford Mano. |
 | **Peterbuild family** | 5 days ago | Husband, wife, and son. Neighbors noticed no smoke from chimney. |
 | **Stern & Persephone Reynolds** | Last night | Husband and wife. |
-| **Daverick** | Discovered today | Hospital night guard; also tended Crawford Manor's grounds. |
+| **Daverick** | Discovered today | Hospital night guard; also tended Crawford Mano's grounds. |
 
 ### Geographic pattern
 
-Moving outward from Crawford Manor:
+Moving outward from Crawford Mano:
 
 1. Lone Farmer John
-2. Peterbuilds
-3. Reynolds
-4. Lemroys / Darrons nearby
+1. Peterbuilds
+1. Reynolds
+1. Lemroys / Darrons nearby
 
 The disappearances appear to be moving progressively farther away from the manor.
 
@@ -192,7 +193,7 @@ Known information:
 
 ### Thema
 
-**Thema** is the caretaker at Crawford Manor.
+**Thema** is the caretaker at Crawford Mano.
 
 Known information:
 
@@ -202,9 +203,7 @@ Known information:
 - Stark white hair.
 - Apparently rules the manor with an iron fist.
 
----
-
-## Daverick's house
+### Daverick's house
 
 Daverick's house was unlocked.
 
@@ -245,9 +244,9 @@ Evidence:
 - No teapot.
 - Tea residue smelled like the tea at Daverick's.
 - Three strands of hair found:
-    - Medium brown
-    - Long blonde
-    - Stark white
+  - Medium brown
+  - Long blonde
+  - Stark white
 
 Identifications:
 
@@ -265,7 +264,7 @@ Was someone carrying another person?
 
 ---
 
-## Peterbuild and John houses
+## Peterbuild’s and John’s houses
 
 Both houses appeared almost untouched.
 
@@ -349,7 +348,7 @@ Cadric answered.
 
 It offered him a cup and said:
 
-> **"Drink."**
+**"Drink."**
 
 Cadric was magically compelled to obey.
 
@@ -381,18 +380,18 @@ Elisandra heard:
 
 Jayn saw:
 
-- A **black figure flying toward Crawford Manor**.
+- A **black figure flying toward Crawford Mano**.
 
 ### Important
 
 The attacker apparently:
 
 1. Approaches a home.
-2. Offers poisoned tea.
-3. Compels the victim to drink.
-4. Paralyzes the victim.
-5. Summons or signals something.
-6. Somehow transports the victim toward the river/manor.
+1. Offers poisoned tea.
+1. Compels the victim to drink.
+1. Paralyzes the victim.
+1. Summons or signals something.
+1. Somehow transports the victim toward the river/manor.
 
 This may explain the missing families.
 
@@ -431,54 +430,54 @@ Result:
 
 No further attacks that night.
 
-### Question
+### Questions
 
 Were the shadows connected to:
 
-- Crawford Manor?
+- Crawford Mano?
 - The hooded figure?
 - Locust Branch Hospital?
 - Something else entirely?
 
 ---
 
-## What we know before entering Crawford Manor
+## What we know before entering Crawford Mano
 
 Evidence connecting the disappearances to the manor:
 
-1. Missing households are progressively farther from Crawford Manor.
-2. Daverick also worked on the manor grounds.
-3. Daverick had an expensive porcelain tea service likely associated with the Crawfords.
-4. Daverick's tea contained hemlock.
-5. Reynolds' cups contained similar residue.
-6. White hair found at the Reynolds' house matches Thema.
-7. A hooded figure attempted the same poisoned-tea method at the Lemroy house.
-8. The hooded figure was approximately Thema's size.
-9. After disappearing, something traveled through the water toward the manor.
-10. Jayn saw a black figure fly toward Crawford Manor.
-11. Human and infant remains were found in the nearby pond.
-12. Sterling Crawford has isolated himself since his wife's illness and pregnancy.
-13. The Crawfords previously lost another pregnancy.
-14. Baby supplies to the manor abruptly stopped.
-15. The manor's most recent supply shipment has disappeared.
+1. Missing households are progressively farther from Crawford Mano.
+1. Daverick also worked on the manor grounds.
+1. Daverick had an expensive porcelain tea service likely associated with the Crawfords.
+1. Daverick's tea contained hemlock.
+1. Reynolds' cups contained similar residue.
+1. White hair found at the Reynolds' house matches Thema.
+1. A hooded figure attempted the same poisoned-tea method at the Lemroy house.
+1. The hooded figure was approximately Thema's size.
+1. After disappearing, something traveled through the water toward the manor.
+1. Jayn saw a black figure fly toward Crawford Mano.
+1. Human and infant remains were found in the nearby pond.
+1. Sterling Crawford has isolated himself since his wife's illness and pregnancy.
+1. The Crawfords previously lost another pregnancy.
+1. Baby supplies to the manor abruptly stopped.
+1. The manor's most recent supply shipment has disappeared.
 
 ---
 
 ## People to remember
 
-| Person | Who they are |
-|---|---|
+| **Person** | **Who they are** |
+| --- | --- |
 | **Madam Eva** | Fortune teller who appeared at the Black Lantern Inn. |
 | **Parry** | Traveling potion merchant; owner of Parry's Potables. |
 | **Lavar** | Guard at Locust Branch Hospital. |
 | **Pablo** | Lavar's dog; sees ghosts and provided information about Daverick. |
 | **Cynthia** | Ghost who reportedly appears at the hospital around 11 PM. |
-| **Daverick** | Missing hospital guard; previously worked on Crawford Manor grounds. |
+| **Daverick** | Missing hospital guard; previously worked on Crawford Mano grounds. |
 | **Thom Youngblood** | Crawford's de facto community leader. |
 | **Ron** | Owner/storekeeper of Larder Supply. |
 | **Sterling Crawford** | Lord/governor of Crawford; secluded inside his manor. |
 | **Mrs. Crawford** | Sterling's pregnant and seriously ill wife. |
-| **Thema** | Elderly gnome caretaker of Crawford Manor; white hair. |
+| **Thema** | Elderly gnome caretaker of Crawford Mano; white hair. |
 | **Stern Reynolds** | Missing; medium brown hair. |
 | **Persephone Reynolds** | Missing; long blonde hair. |
 | **Earnest & Ella Lemroy** | Family whose house Ravenlost used to trap the mysterious visitor. |
@@ -487,10 +486,10 @@ Evidence connecting the disappearances to the manor:
 
 ## Current objective
 
-Thom gave us a rough map of the Crawford Manor grounds and the portion of the house he remembers from childhood.
+Thom gave us a rough map of the Crawford Mano grounds and the portion of the house he remembers from childhood.
 
 The townspeople now agree that something nefarious is happening at the manor.
 
 Next stop:
 
-**Crawford Manor.**
+**Crawford Mano.**
