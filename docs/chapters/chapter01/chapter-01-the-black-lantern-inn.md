@@ -1,6 +1,6 @@
 # Four strangers in the Mists
 
-> *The Mists have a way of gathering those who were never meant to meet.*
+> *The Mists have a way of gathering those who were never meant to meet*
 
 ![Ravenlost group](../../images/chapter-01-black-lantern-inn.png)
 
@@ -10,14 +10,14 @@
 
 The Black Lantern Inn stood in the Mists as though it had been waiting for them.
 
-One by one, the four strangers entered its taproom. 
+One by one, the four strangers entered its taproom and asked about the advertised job.
 
-- Bia Galene, a six-foot-six female Orc barbarian.
-- Cadric Veyl, a three-foot-tall Halfling bard.
-- Elisandra Corvis, a six-foot-tall Kalashtar cleric.
-- Jayn Blight, a six-foot-four female Lupine ranger.
+- **Bia Galene**, a six-foot-six female Orc barbarian
+- **Cadric Veyl**, a three-foot-tall Halfling bard with sandy hair and hazel eyes, weighing only thirty-two pounds
+- **Jayn Blight**, a six-foot-four female Lupine ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye
+- **Elisandra Corvis**, a six-foot-tall Kalashtar cleric with pure white hair
 
-and asked about the advertised work. The bartender offered little explanation. He merely directed each of them toward a room off the bar, where their prospective employer waited. Jayn Blight was the last to join them. Before doing so, she remained at the bar long enough to drink two bowls of grog.
+The bartender offered little explanation. He merely directed each of them toward a room off the bar, where their prospective employer waited. Jayn Blight was the last to join them. Before doing so, she remained at the bar long enough to drink two bowls of grog. 
 
 Inside the office sat an older gentleman dressed in clothing that was fine but worn with age. A book rested in his hands, and he appeared absorbed in its pages until all four adventurers had gathered before him. He introduced himself as **Henry Loust**.
 
@@ -53,7 +53,7 @@ The four strangers fought together for the first time. Whatever uncertainty exis
 
 The building loomed above them when they reached its entrance.
 
-Runic writing had been etched into the surrounding stone. Overhead, two silver discs — each approximately fifteen feet across — glowed from the ceiling in separate parts of the structure. Blood marked the ground outside. Its trail continued through the entrance.
+Runic writing had been etched into the surrounding stone. Overhead, they could see two silver discs — each approximately fifteen feet across — on separate parts of the structure’s roof. Blood marked the ground outside. Its trail continued through the entrance.
 
 Cadric went in first and found two bodies lying on the floor, both covered in blood. Each appeared to have been killed by a long, sharp object. Elisandra examined the area and found some strange five-toed, heel-less footprints, the same that Jayn had seen but not disclosed.
 
@@ -79,17 +79,17 @@ Bia entered another room and discovered a heap of mechanical body parts—arms, 
 
 Just then, an arm reached toward her. Startled, Bia screamed, retreated from the room, and slammed the door shut behind her.
 
-Jayn opened it again to investigate. This time, a mechanical torso lurched forward. She also found a small steampunk animal-like creature among the parts. After observing it, she realized that it was attracted to metal and capable of damaging any metal it touched.
+Jayn opened it again to investigate. This time, a mechanical torso lurched forward. She also found a small steampunk, animal-like creature among the parts. After observing it, she realized that it was attracted to metal and capable of damaging any metal it touched.
 
 Naturally, Jayn attached a rope to the creature and used it as a leash.
 
 The group eventually opened the room fully and prepared to fight the animated pieces. Bia left her metal weapons behind, unwilling to risk having the strange creature destroy her greataxe or any of her handaxes. Cadric attempted to play his lute to see how the constructs might respond. The music only drew the crawling body parts toward him.
 
-The party fought and destroyed the animated pieces. Once the danger had passed and all three obelisks were activated, their light filled the laboratory.
+The party fought and destroyed the animated pieces. Once the danger had passed and all three obelisks were activated, and their light filled the laboratory.
 
 The search resumed. They found old, empty alchemical vials, several books on alchemy, and five long, narrow copper tubes. Still, they could find no conventional journal. Their attention then returned to the humanoid figure at the desk.
 
-The party moved the figure toward the central dais and noticed a hole in its skull. The opening was exactly the right size to hold one of the copper tubes.
+As the party moved the figure toward the central dais, they noticed a hole in its skull. The opening was exactly the right size to hold a copper tube.
 
 Before they could place the heavy figure upon the dais, Elisandra heard something overhead. She had moved to the upper level and now stood nearer the glass ceiling. Tapping and cracking noises came from above. Bia and Cadric continued struggling with the figure. Then the ceiling shattered.
 
@@ -181,13 +181,13 @@ When he finished, Henry looked up and spoke seemingly to no one in particular.
 
 "Do you agree that's what happened?"
 
-Two spirits appeared - the ghosts of two dead treasure hunters from the laboratory. Both confirmed that Cadric's account matched what they had seen and heard.
+Two spirits appeared — the ghosts of two dead treasure hunters from the laboratory. Both confirmed that Cadric's account matched what they had seen and heard.
 
 At that moment, every member of Ravenlost was grateful they had closed the laboratory door before discovering, listening to, discussing and destroying the remaining recordings.
 
 Then, before departing, one of the ghosts said, “If you’re ever by the house on Griffin Hill, come see my lady.”
 
-Henry paid them the rest of their gold. Then he stood, walked directly through the table, crossed the office, and walked through the door. 
+Henry paid them the rest of their gold. Then he stood, walked directly through the table, crossed the office, and walked through the door.
 
 For several moments, no one spoke.
 
@@ -201,7 +201,7 @@ For completing the expedition and surviving what waited upon the mountain, **Bia
 
 ## An inn that wasn't there
 
-The four rose and opened the office door, expecting to return to the crowded taproom. 
+The four rose and opened the office door, expecting to return to the crowded taproom.
 
 The music was gone. So were the musicians, the bartender, and every patron. The entire bar beyond was dark and empty. Dust lay thick across the tables and floor, as though no one had entered the Black Lantern Inn in years.
 
@@ -209,6 +209,6 @@ Jayn searched the abandoned bar for more grog.
 
 Then someone knocked at the front door. The party hesitated. In a place such as this, a visitor after dark could easily be a vampire—or something worse. They chose not to open it.
 
-They did not need to. The door opened, and **Eva the fortune teller** stepped inside.
+They didn’t need to. The door opened, and **Ava the fortune teller** stepped inside.
 
 That was where Ravenlost's first adventure ended.
