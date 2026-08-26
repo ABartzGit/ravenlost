@@ -2,7 +2,7 @@
 
 > *{{chapter_tagline}}*
 
-![{{image_alt}}](../images/{{image_filename}})
+![{{image_alt}}](../../images/{{image_filename}})
 
 ---
 
