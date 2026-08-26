@@ -1,14 +1,20 @@
-# Bia's notes - The Battle of Crawford Manor
+# Bia's notes - The battle of Crawford Manor
+
+
+
+---
 
 ## Adventure at a glance
 
 What began as an investigation into Crawford Manor quickly turned into a violent confrontation, a disturbing rescue, and the discovery that something was deeply wrong beneath the manor—and perhaps with Crawford itself.
 
-The party battled a massive man inside the manor, rescued a pregnant woman trapped within the house, and discovered a dumbwaiter leading into underground passages. Following those tunnels brought them into Crawford, where they found frightened villagers, strange behavior, and hints of something supernatural at work.
+The party battled a massive man inside the manor, attempted to save the soul of his pregnant wife, and discovered a dumbwaiter leading into underground passages. Following those tunnels brought them into Crawford, where they found frightened villagers, strange behavior, and hints of something supernatural at work.
 
 After gathering what information they could, the group returned to the manor through the tunnels, determined to uncover what was happening.
 
-## Entering the manor grounds
+---
+
+## Entering the Manor Grounds
 
 - We travel to **Crawford Manor**.
 - Cadric finds a section of fence that we can sneak through.
@@ -17,26 +23,30 @@ After gathering what information they could, the group returned to the manor thr
 - We see a large **observatory**.
 - Inside the observatory, Cadric sees flower pots containing **small white flowers**.
 
-## The basement
+---
+
+## The Basement
 
 - Cadric unlocks a door leading into the basement.
 - The basement contains:
-    - Chests
-    - Stacks of supplies
-    - Food
-    - Clothing
-    - Alcohol
-    - A ladder leading upward
+  - Chests
+  - Stacks of supplies
+  - Food
+  - Clothing
+  - Alcohol
+  - A ladder leading upward
 - A large chest contains nicer but older clothing.
 - We also find:
-    - A **raven-feather brooch**
-    - A **silver necklace with sapphires**
+  - A **raven-feather brooch**
+  - A **silver necklace with sapphires**
 - Jayn takes the brooch and necklace.
 - Cadric extinguishes the light and climbs the ladder.
 - He quietly opens the door at the top and sees a room lit by candlelight.
 - He comes back down.
 
-## Exploring the manor
+---
+
+## Exploring the Manor
 
 - Bia climbs the ladder.
 - It opens into what appears to be a **servants' kitchen**.
@@ -48,11 +58,13 @@ After gathering what information they could, the group returned to the manor thr
 - Another room contains a **dumbwaiter large enough to hold several people**.
 - Jayn goes to the second floor.
 - She finds:
-    - A room with double doors
-    - A room with a single door
+  - A room with double doors
+  - A room with a single door
 - Jayn hears faint crying coming from behind the single door.
 
-## Elisandra's discovery
+---
+
+## Elisandra's Discovery
 
 - Back in the basement, Elisandra notices a **false wall**.
 - The wall moves backward when she pushes it.
@@ -67,11 +79,13 @@ After gathering what information they could, the group returned to the manor thr
 - Most have had their throats cut.
 - At least one has **not** had his throat cut.
 - Elisandra also finds:
-    - Chains belonging to the dumbwaiter/lift
-    - The dumbwaiter shaft
-    - A lever controlling it
+  - Chains belonging to the dumbwaiter/lift
+  - The dumbwaiter shaft
+  - A lever controlling it
 
-## Bia attempts stealth
+---
+
+## Bia Attempts Stealth
 
 - Bia tries to quietly climb the stairs to the second floor.
 - Her foot clips one of the steps.
@@ -79,17 +93,21 @@ After gathering what information they could, the group returned to the manor thr
 - The footsteps above stop.
 - Bia is stuck in the stairs.
 
-## "Fresh meat"
+---
+
+## "Fresh Meat"
 
 - An abnormally enormous man approaches Bia.
 - His arms are huge and covered in dried blood.
 - He looks at Bia and says:
 
-> "Fresh meat."
+"Fresh meat."
 
 - Cadric sees Bia on the stairs with the enormous man approaching her, ready to attack.
 
-> "Holy fuck."
+"Holy fuck."
+
+---
 
 ## Thema
 
@@ -113,6 +131,8 @@ After gathering what information they could, the group returned to the manor thr
 - Jayn offers to lower Thema from the window so she can escape.
 - Thema agrees.
 - Jayn lowers Thema out the window and then follows her down.
+
+---
 
 ## Battle with Sterling Crawford
 
@@ -150,7 +170,7 @@ After gathering what information they could, the group returned to the manor thr
 - Both attacks miss.
 - Sterling screams:
 
-> "I WILL NOT LET THEM TAKE HER!"
+"I WILL NOT LET THEM TAKE HER!"
 
 - Bia attacks, but her axe slams into the wall.
 - Cadric lands the final killing blow.
@@ -158,6 +178,8 @@ After gathering what information they could, the group returned to the manor thr
 - Cadric grabs Sterling's arms and plays with his corpse like a puppet.
 - Cadric notices Sterling is wearing a ring.
 - He cuts off Sterling's finger and takes the ring.
+
+---
 
 ## Ladna Crawford
 
@@ -173,11 +195,11 @@ After gathering what information they could, the group returned to the manor thr
 - Elisandra communicates with Ladna telepathically.
 - Ladna tells Elisandra:
 
-> "Kill me. My existence is torture."
+"Kill me. My existence is torture."
 
 - She also says:
 
-> "It's not a child of mine anymore."
+"It's not a child of mine anymore."
 
 - Ladna tells Elisandra that **Wilfred Godfroy** will come after them in death.
 - Sterling has been keeping Ladna alive to prevent this from happening.
@@ -192,11 +214,13 @@ After gathering what information they could, the group returned to the manor thr
 - Her stomach releases fluid.
 - An **unholy creature** emerges.
 - The creature:
-    - Has many eyes
-    - Has a tail
-    - Is also dead
+  - Has many eyes
+  - Has a tail
+  - Is also dead
 - Cadric finds a hat in the room.
 - Cadric takes the hat.
+
+---
 
 ## Daverick
 
@@ -210,18 +234,22 @@ After gathering what information they could, the group returned to the manor thr
 - The man cannot speak because his tongue has been removed.
 - We believe the man is **Daverick**.
 
-## Recovering belongings
+---
+
+## Recovering Our Belongings
 
 - Elisandra searches the room containing the bodies.
 - She finds a chest containing **everyone's belongings**.
 - Jayn also finds:
-    - **17 gold**
-    - **36 silver**
-    - **12 copper**
+  - **17 gold**
+  - **36 silver**
+  - **12 copper**
 - Elisandra finds a bottle of **grain whiskey**.
 - She drinks the entire bottle on the spot.
 
-## The villagers arrive
+---
+
+## The Villagers Arrive
 
 - We take Daverick outside.
 - Thema and the villagers are approaching Crawford Manor.
@@ -235,9 +263,11 @@ After gathering what information they could, the group returned to the manor thr
 - The entire manor is a bloody scene.
 - Cadric helpfully clarifies:
 
-> "Also, that guy was already missing a finger."
+"Also, that guy was already missing a finger."
 
-## Back at the inn
+---
+
+## Back at the Inn
 
 - Everyone returns to the inn in Crawford.
 - Thom gives us a room for the night.
@@ -245,11 +275,13 @@ After gathering what information they could, the group returned to the manor thr
 - They are also grateful because they finally feel safe.
 - Cadric performs at the inn.
 - Jayn examines the items she took from the manor:
-    - **Raven-feather brooch:** Not magical
-    - **Sapphire necklace:** There is something magical or unusual about it.
+  - **Raven-feather brooch:** Not magical
+  - **Sapphire necklace:** There is something magical or unusual about it.
 - Cadric examines:
-    - His new hat/cap
-    - Sterling's ring
+  - His new hat/cap
+  - Sterling's ring
+
+---
 
 ## Midnight
 
@@ -258,13 +290,15 @@ After gathering what information they could, the group returned to the manor thr
 - In the distance, we see a **ripple of greenish-blue light**.
 - Orbs travel from Sterling Manor toward the light.
 - We see ghostly figures emerge:
-    - **Sterling Crawford**
-    - **Ladna Crawford**
-    - A **baby** in Ladna's arms
+  - **Sterling Crawford**
+  - **Ladna Crawford**
+  - A **baby** in Ladna's arms
 - Sterling is human again rather than the enormous creature we fought.
 - Ladna is also restored to human form.
 - Sterling and Ladna look back at Crawford Manor.
 - Then the spectral family travels northeast toward **Mordenshire** and **Griffin Hill**.
+
+---
 
 ## People
 
@@ -319,38 +353,42 @@ After gathering what information they could, the group returned to the manor thr
 - Ladna said he would come after them in death.
 - Connection to Griffin Hill and the hallowed march is not yet completely clear.
 
+---
+
 ## Important Items and Clues
 
 - **Small white flowers** in the observatory
 - **Cistern** connecting the manor toward the creek
 - **Raven-feather brooch**
-    - Not magical
+  - Not magical
 - **Silver sapphire necklace**
-    - Appears to be magical or otherwise unusual
+  - Appears to be magical or otherwise unusual
 - **Sterling's ring**
-    - Taken by Cadric
+  - Taken by Cadric
 - **Hat/cap**
-    - Taken by Cadric
+  - Taken by Cadric
 - **Dumbwaiter**
-    - Large enough to carry several people
-    - Connects to the hidden basement room
-    - Bloody footprints found inside
+  - Large enough to carry several people
+  - Connects to the hidden basement room
+  - Bloody footprints found inside
 - **Five hanging victims**
-    - All missing their tongues
-    - Most had their throats cut
+  - All missing their tongues
+  - Most had their throats cut
 - **Tunnel to the cistern**
-    - Jayn found only a shoe inside
+  - Jayn found only a shoe inside
 - **Ladna's unborn creature**
-    - Multiple eyes
-    - Tail
-    - Surrounded/protected by several layers of bone
+  - Multiple eyes
+  - Tail
+  - Surrounded/protected by several layers of bone
 - **Greenish-blue light**
-    - Appeared at midnight
-    - Orbs traveled from Crawford Manor toward it
+  - Appeared at midnight
+  - Orbs traveled from Crawford Manor toward it
 - **Ghostly baby**
-    - Ladna carried a baby during the hallowed march even though the creature removed from her body was dead and decidedly not human
+  - Ladna carried a baby during the hallowed march even though the creature removed from her body was dead and decidedly not human
 
-## Questions to remember
+---
+
+## Questions to Remember
 
 - What are the **small white flowers**, and why were they growing in the observatory but not the greenhouse?
 - Where exactly does the **cistern/tunnel** lead?
