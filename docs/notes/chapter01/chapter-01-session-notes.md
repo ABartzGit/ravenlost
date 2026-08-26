@@ -6,8 +6,8 @@ Four strangers answered the promise of two hundred gold. Before the job was fini
 
 ## Adventure at a glance
 
-| Item | Details |
-|---|---|
+| **Item** | **Details** |
+| --- | --- |
 | **Company** | Ravenlost |
 | **Starting Level** | 1 |
 | **Ending Level** | 2 |
@@ -29,10 +29,10 @@ Four strangers answered the promise of two hundred gold. Before the job was fini
 
 The four adventurers who would come to be known as **Ravenlost** met for the first time at the Black Lantern Inn.
 
-- **Bia Galene**, a six-foot-six female Orc barbarian.
-- **Cadric Veyl**, a three-foot-tall Halfling bard with sandy hair and hazel eyes, weighing only thirty-two pounds.
-- **Jayn Blight**, a six-foot-four female Lupine ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye.
-- **Elisandra Corvis**, a six-foot-tall Kalashtar cleric with pure white hair.
+- **Bia Galene**, a six-foot-six female Orc barbarian
+- **Cadric Veyl**, a three-foot-tall Halfling bard with sandy hair and hazel eyes, weighing only thirty-two pounds
+- **Jayn Blight**, a six-foot-four female Lupine ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye
+- **Elisandra Corvis**, a six-foot-tall Kalashtar cleric with pure white hair
 
 They arrived as strangers. Each had followed word of a job worth two hundred gold.
 
@@ -149,8 +149,8 @@ Five creatures crashed through the laboratory's stained-glass roof. Their highly
 ## Treasure and advancement
 
 - **200 gp earned by each party member**
-  - 100 gp paid before departure
-  - 100 gp paid upon completion
+- 100 gp paid before departure
+- 100 gp paid upon completion
 - Two intact wax recordings were retained for delivery.
 - The party found alchemical books and copper recording tubes.
 - **All four members of Ravenlost advanced from level 1 to level 2.**
