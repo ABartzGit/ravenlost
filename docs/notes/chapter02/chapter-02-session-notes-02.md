@@ -1,4 +1,4 @@
-# Bia's Notes — The Battle of Crawford Manor
+# Bia's notes - The Battle of Crawford Manor
 
 ## Adventure at a glance
 

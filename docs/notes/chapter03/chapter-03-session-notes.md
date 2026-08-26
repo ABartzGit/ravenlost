@@ -1,4 +1,4 @@
-# Chapter 3 — Session Notes (Draft)
+# Bia's notes - Shaking things up in Waterford
 
 ## Adventure at a Glance
 

@@ -1,4 +1,4 @@
-# The Black Lantern Inn
+# Four strangers in the Mists
 
 > *The Mists have a way of gathering those who were never meant to meet.*
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Four strangers in the Mists
+## The Black Lantern Inn
 
 The Black Lantern Inn stood in the Mists as though it had been waiting for them.
 

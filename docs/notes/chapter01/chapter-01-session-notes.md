@@ -1,4 +1,4 @@
-# Bia's Chapter 1 notes
+# Bia's notes - Four strangers in the Mists
 
 Four strangers answered the promise of two hundred gold. Before the job was finished, they would cross a forest after dark, enter a ruined church transformed into an alchemical laboratory, awaken a sixty-five-year-old automaton, conceal a discovery that could threaten the Domains of Dread, and learn that neither their employer nor the inn in which they met was what it seemed.
 
