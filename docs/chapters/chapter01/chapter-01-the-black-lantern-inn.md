@@ -39,7 +39,7 @@ For the first several hours, the journey through the woods was quiet.
 
 The path climbed gradually toward the mountain while the trees crowded closer around them. Somewhere around the halfway point, Jayn heard a snap of branches, and she went off to investigate. Alone, she noticed tracks unlike any she had seen before. Each footprint showed five toes, but no heel. Coming back to the group, she said nothing.
 
-Darkness overtook them before they reached the church. Elisandra's sword began to shine, casting enough light for her to see the path ahead. The others relied on their natural night vision as they moved deeper into the forest.
+Darkness overtook them before they reached the church. Elisandra's mace began to shine, casting enough light for her to see the path ahead. The others relied on their natural night vision as they moved deeper into the forest.
 
 At last, the church emerged in the distance. Moonlight reflected from its stained-glass roof. Even from afar, the structure appeared enormous—far larger than the abandoned mountain chapel they might have expected to find. Then a howl broke the silence.
 
