@@ -31,7 +31,7 @@ The four adventurers who would come to be known as **Ravenlost** met for the fir
 
 - **Bia Galene**, a six-foot-six female Orc barbarian
 - **Cadric Veyl**, a three-foot-tall Halfling bard with sandy hair and hazel eyes, weighing only thirty-two pounds
-- **Jayn Blight**, a six-foot-four female Lupine ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye
+- **Jain Blight**, a six-foot-four female Lupine ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye
 - **Elisandra Corvis**, a six-foot-tall Kalashtar cleric with pure white hair
 
 They arrived as strangers. Each had followed word of a job worth two hundred gold.
@@ -43,11 +43,11 @@ By the time they returned, they were not yet friends, but they were beginning to
 ## Notable moments
 
 - Cadric negotiated one hundred gold up front for every member of the party.
-- Jayn consumed four bowls of grog before the group left the inn.
+- Jain consumed four bowls of grog before the group left the inn.
 - The party discovered five-toed footprints with no heel.
 - Ravenlost solved the inscription **"Come as one"** by crossing the doors while holding hands.
 - Bia screamed when a mechanical arm reached toward her.
-- Jayn put a metal-eating construct on a rope as though it were a pet.
+- Jain put a metal-eating construct on a rope as though it were a pet.
 - Cadric's lute attracted the animated body parts rather than calming them.
 - Two of the monsters that shattered the ceiling died upon impact.
 - The party chose to destroy the most dangerous of Glim's recordings.
@@ -56,7 +56,7 @@ By the time they returned, they were not yet friends, but they were beginning to
 - Henry walked through his desk and revealed that he, too, was a spirit.
 - The party received its gold and advanced to level 2.
 - The lively inn became a dusty, abandoned building when the office door opened.
-- Jayn still searched for grog.
+- Jain still searched for grog.
 - Eva entered without being invited.
 
 ---
@@ -97,7 +97,7 @@ A fortune teller who entered the abandoned Black Lantern Inn immediately after t
 
 ### Wolves
 
-A pack of four attacked Ravenlost shortly after Jayn answered a distant howl.
+A pack of four attacked Ravenlost shortly after Jain answered a distant howl.
 
 ### Animated mechanical remains
 
@@ -105,7 +105,7 @@ Separate arms, legs, and torsos that moved independently after the laboratory's 
 
 ### Metal-eating construct
 
-A small mechanical, animal-like creature attracted to metal and capable of damaging it. Jayn temporarily kept it on a rope.
+A small mechanical, animal-like creature attracted to metal and capable of damaging it. Jain temporarily kept it on a rope.
 
 ### Unknown toe-walking creatures
 
@@ -161,7 +161,7 @@ Five creatures crashed through the laboratory's stained-glass roof. Their highly
 
 We left the inn as strangers.
 
-Cadric talked Henry into paying us half before we went. Jayn drank four bowls of grog before we even reached the road. Elisandra watched everything and carried her own light into the dark. I carried my axe.
+Cadric talked Henry into paying us half before we went. Jain drank four bowls of grog before we even reached the road. Elisandra watched everything and carried her own light into the dark. I carried my axe.
 
 The footprints bothered me. Five toes, but no heel. I had never seen tracks like them, and I didn't like knowing that whatever made them was somewhere ahead of us.
 
@@ -173,7 +173,7 @@ We destroyed three recordings. I think it was the right choice. Knowledge that c
 
 The ghosts agreed with our story. That was fortunate.
 
-Henry was a ghost too. None of us noticed. Jayn noticed the moving pages, but apparently didn't think it worth mentioning until after Henry walked through the table.
+Henry was a ghost too. None of us noticed. Jain noticed the moving pages, but apparently didn't think it worth mentioning until after Henry walked through the table.
 
 We earned our gold. We are stronger now than when we left. I'm not sure whether that means we are ready for what comes next.
 
