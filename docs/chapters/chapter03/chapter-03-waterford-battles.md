@@ -1,4 +1,5 @@
-# Shaking things up in Waterford (Draft)
+# Shaking things up in Waterford 
+
 
 > *The road to Waterford began with a missing wagon. By midnight, Ravenlost was robbing a mausoleum.*
 

@@ -60,20 +60,22 @@ markdown_extensions:
 
 # Site navigation
 nav: 
-  - Chapter 1:
+  - Level 1:
     - Four strangers in the Mists: chapters/chapter01/chapter-01-the-black-lantern-inn.md
-  - Chapter 2:
+  - Level 2:
     - The Shadows of Crawford: chapters/chapter02/chapter-02-crawford-battles.md
-    - The Battle of Crawford Manor: notes/chapter02/chapter-02-crawford-manor-battle.md
-  - Chapter 3:
+    - The Battle of Crawford Manor: chapters/chapter02/chapter-02-crawford-manor-battle.md
+  - Level 3:
     - Shaking things up in Waterford: chapters/chapter03/chapter-03-waterford-battles.md
+    - Home is where the horrors are: chapters/chapter03/chapter-03-home-is-where-the-horrors-are.md
   - Notes:
-    - Chapter 1:
+    - Level 1:
        - Bia's notes - Four strangers in the Mists: notes/chapter01/chapter-01-session-notes.md
-    - Chapter 2:
+    - Level 2:
       - Bia's notes - The Shadows of Crawford: notes/chapter02/chapter-02-session-notes-01.md
       - Bia's notes - The Battle of Crawford Manor: notes/chapter02/chapter-02-session-notes-02.md
-    - Chapter 3:
-      - Bia's notes - Shaking things up in Waterford: notes/chapter03/chapter-03-session-notes.md
+    - Level 3:
+      - Bia's notes - Shaking things up in Waterford: notes/chapter03/chapter-03-session-notes-01.md
+      - Bia's notes - Home is where the horrors are: notes/chapter03/chapter-03-session-notes-02.md
   - Bia's character sheets: character-sheets/bia-character-sheets.md
 
