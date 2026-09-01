@@ -23,7 +23,7 @@ Our adventurers are:
 
 * **Bia Galene** — Orc Barbarian
 * **Cadric Veyl** — Halfling Bard
-* **Jayn Blight** — Lupin Ranger
+* **Jain Blight** — Lupin Ranger
 * **Elisandra Corvis** — Kalashtar Cleric
 
 Follow their adventures at **[The Adventures of Ravenlost](https://abartzgit.github.io/ravenlost/)**.
