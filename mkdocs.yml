@@ -2,6 +2,7 @@
 site_name: The Adventures of Ravenlost
 site_author: Angela Bartz
 site_url: https://abartzgit.github.io/ravenlost/
+site_description: The Adventures of Ravenlost, a Dungeons & Dragons campaign in Kirkland, Washington. Follow the Ravenlost party through session notes, chapters, characters, and adventures.
 
 # Copyright
 copyright: Copyright &copy; 2026 Angela Bartz
@@ -78,4 +79,3 @@ nav:
       - Bia's notes - Shaking things up in Waterford: notes/chapter03/chapter-03-session-notes-01.md
       - Bia's notes - Home is where the horrors are: notes/chapter03/chapter-03-session-notes-02.md
   - Bia's character sheets: character-sheets/bia-character-sheets.md
-
