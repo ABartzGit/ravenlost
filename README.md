@@ -4,7 +4,7 @@
 
 The campaign is played in Kirkland, Washington.
 
-🌐 **[Visit The Adventures of Ravenlost](https://abartzgit.github.io/ravenlost/)**
+🌐 To follow their adventures, **[visit The Adventures of Ravenlost](https://abartzgit.github.io/ravenlost/)**
 
 ## About the site
 
@@ -25,5 +25,3 @@ Our adventurers are:
 * **Cadric Veyl** — Halfling Bard
 * **Jain Blight** — Lupin Ranger
 * **Elisandra Corvis** — Kalashtar Cleric
-
-Follow their adventures at **[The Adventures of Ravenlost](https://abartzgit.github.io/ravenlost/)**.
