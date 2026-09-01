@@ -6,7 +6,12 @@
 
 ## Adventure at a glance
 
-**Starting point:** Black Lantern Inn**Destination:** Mordenshire, Mordent**Unexpected stop:** Crawford**Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.**Main suspect/location:** Crawford Mano**Other suspicious location:** Locust Branch Hospital
+**Starting point:** Black Lantern Inn
+**Destination:** Mordenshire, Mordent
+**Unexpected stop:** Crawford
+**Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.
+**Main suspect/location:** Crawford Mano
+**Other suspicious location:** Locust Branch Hospital
 
 ---
 
@@ -21,7 +26,7 @@ Madam Eva arrived at the abandoned Black Lantern Inn and performed a card readin
 | **Mists** | A journey ahead. The Mists may claim those who aren't careful. |
 | **Miser** | A lord rules from a mansion. He refuses to give in to something he fears more than death. |
 | **Dictator** | No interpretation given. |
-| **Beast** | Cadric pointed at Jayn. |
+| **Beast** | Cadric pointed at Jain. |
 | **Darklord** | No interpretation given. |
 
 ### Cards placed over the first reading
@@ -39,7 +44,7 @@ Cadric believes the cards represent people we already know or will eventually en
 - Who is the lord represented by the Miser?
 - Does the Ghost placed over the Miser relate to that lord?
 - Who are the Dictator and Darklord?
-- Is Jayn actually connected to the Beast card, or was Cadric just being Cadric?
+- Is Jain actually connected to the Beast card, or was Cadric just being Cadric?
 
 ---
 
@@ -64,10 +69,10 @@ Met **Parry**, a traveling potion merchant headed toward **Dementlieu**.
 Notable detail:
 
 - Wore a jeweled charm shaped like a mask.
-- Confirmed Jayn's red vials from the alchemy lab were **healing potions**.
+- Confirmed Jain's red vials from the alchemy lab were **healing potions**.
 - Sold us four additional healing potions.
 - Cadric negotiated a group discount.
-- We also purchased a **disguise potion for Jayn**.
+- We also purchased a **disguise potion for Jain**.
 
 Cadric considered leaving with Parry.
 
@@ -101,7 +106,7 @@ The hospital appears abandoned but is definitely not empty.
 
 ## Inside
 
-Jayn entered through a broken window.
+Jain entered through a broken window.
 
 She saw:
 
@@ -115,7 +120,7 @@ Result: **Bad idea.**
 
 Bia left.
 
-Jayn eventually did too.
+Jain eventually did too.
 
 ### Lavar
 
@@ -135,7 +140,7 @@ He told us:
 
 Lavar's dog.
 
-Jayn talked to him.
+Jain talked to him.
 
 Pablo says there are ghosts around the hospital.
 
@@ -285,11 +290,11 @@ Were these houses cleaned after the victims disappeared?
 
 ## The pond
 
-Jayn and Bia investigated the pond before nightfall.
+Jain and Bia investigated the pond before nightfall.
 
-### Jayn's discovery
+### Jain's discovery
 
-Near where the river current enters the pond, Jayn searched the silt and found:
+Near where the river current enters the pond, Jain searched the silt and found:
 
 - **Human skull**
 - Deep, uneven scrapes on the bone
@@ -324,7 +329,7 @@ Each contained **infant bones**.
 Because the Lemroys are halflings:
 
 - **Cadric:** Disguise himself as Mr. Lemroy and serve as "bait."
-- **Jayn:** Hide under the bed.
+- **Jain:** Hide under the bed.
 - **Elisandra:** Watch from the barn and telepathically warn Cadric.
 - **Bia:** Watch from the barn roof.
 
@@ -378,7 +383,7 @@ Elisandra heard:
 - Something nearby.
 - Water moving toward the creek/manor.
 
-Jayn saw:
+Jain saw:
 
 - A **black figure flying toward Crawford Mano**.
 
@@ -454,7 +459,7 @@ Evidence connecting the disappearances to the manor:
 1. A hooded figure attempted the same poisoned-tea method at the Lemroy house.
 1. The hooded figure was approximately Thema's size.
 1. After disappearing, something traveled through the water toward the manor.
-1. Jayn saw a black figure fly toward Crawford Mano.
+1. Jain saw a black figure fly toward Crawford Mano.
 1. Human and infant remains were found in the nearby pond.
 1. Sterling Crawford has isolated himself since his wife's illness and pregnancy.
 1. The Crawfords previously lost another pregnancy.

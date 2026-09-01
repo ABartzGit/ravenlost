@@ -14,10 +14,10 @@ One by one, the four strangers entered its taproom and asked about the advertise
 
 - **Bia Galene**, a six-foot-six female Orc barbarian
 - **Cadric Veyl**, a three-foot-tall Halfling bard with sandy hair and hazel eyes, weighing only thirty-two pounds
-- **Jayn Blight**, a six-foot-four female Lupine ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye
+- **Jain Blight**, a six-foot-four female Lupine ranger with gunmetal-colored fur, a purple left eye, and a scar crossing her right eye
 - **Elisandra Corvis**, a six-foot-tall Kalashtar cleric with pure white hair
 
-The bartender offered little explanation. He merely directed each of them toward a room off the bar, where their prospective employer waited. Jayn Blight was the last to join them. Before doing so, she remained at the bar long enough to drink two bowls of grog. 
+The bartender offered little explanation. He merely directed each of them toward a room off the bar, where their prospective employer waited. Jain Blight was the last to join them. Before doing so, she remained at the bar long enough to drink two bowls of grog. 
 
 Inside the office sat an older gentleman dressed in clothing that was fine but worn with age. A book rested in his hands, and he appeared absorbed in its pages until all four adventurers had gathered before him. He introduced himself as **Henry Loust**.
 
@@ -29,7 +29,7 @@ Henry then admitted that another group had accepted the same assignment. Three t
 
 The warning did not discourage Cadric. Instead, the bard turned his attention to the matter of payment. By the time the discussion ended, he had persuaded Henry to give each of them one hundred gold in advance.
 
-The four accepted the job. Before leaving the inn, Jayn drank two more bowls of grog. Then, at approximately two in the afternoon, the strangers set out together.
+The four accepted the job. Before leaving the inn, Jain drank two more bowls of grog. Then, at approximately two in the afternoon, the strangers set out together.
 
 ---
 
@@ -37,13 +37,13 @@ The four accepted the job. Before leaving the inn, Jayn drank two more bowls of 
 
 For the first several hours, the journey through the woods was quiet.
 
-The path climbed gradually toward the mountain while the trees crowded closer around them. Somewhere around the halfway point, Jayn heard a snap of branches, and she went off to investigate. Alone, she noticed tracks unlike any she had seen before. Each footprint showed five toes, but no heel. Coming back to the group, she said nothing.
+The path climbed gradually toward the mountain while the trees crowded closer around them. Somewhere around the halfway point, Jain heard a snap of branches, and she went off to investigate. Alone, she noticed tracks unlike any she had seen before. Each footprint showed five toes, but no heel. Coming back to the group, she said nothing.
 
 Darkness overtook them before they reached the church. Elisandra's mace began to shine, casting enough light for her to see the path ahead. The others relied on their natural night vision as they moved deeper into the forest.
 
 At last, the church emerged in the distance. Moonlight reflected from its stained-glass roof. Even from afar, the structure appeared enormous—far larger than the abandoned mountain chapel they might have expected to find. Then a howl broke the silence.
 
-Jayn answered it (presumably informing them that there was a nice, tasty, morsel of a halfling with her), and a wolf charged from the darkness, snarling as it came. Three more followed close behind.
+Jain answered it (presumably informing them that there was a nice, tasty, morsel of a halfling with her), and a wolf charged from the darkness, snarling as it came. Three more followed close behind.
 
 The four strangers fought together for the first time. Whatever uncertainty existed between them had to be set aside until all four wolves lay defeated. Once the forest fell quiet again, the party continued toward the waiting church.
 
@@ -55,7 +55,7 @@ The building loomed above them when they reached its entrance.
 
 Runic writing had been etched into the surrounding stone. Overhead, they could see two silver discs — each approximately fifteen feet across — on separate parts of the structure’s roof. Blood marked the ground outside. Its trail continued through the entrance.
 
-Cadric went in first and found two bodies lying on the floor, both covered in blood. Each appeared to have been killed by a long, sharp object. Elisandra examined the area and found some strange five-toed, heel-less footprints, the same that Jayn had seen but not disclosed.
+Cadric went in first and found two bodies lying on the floor, both covered in blood. Each appeared to have been killed by a long, sharp object. Elisandra examined the area and found some strange five-toed, heel-less footprints, the same that Jain had seen but not disclosed.
 
 Symbols had been carved throughout the entrance chamber. Farther inside stood a wooden door reinforced by decorative metal bands. The metal shone brightly enough to illuminate an inscription:
 
@@ -79,9 +79,9 @@ Bia entered another room and discovered a heap of mechanical body parts—arms, 
 
 Just then, an arm reached toward her. Startled, Bia screamed, retreated from the room, and slammed the door shut behind her.
 
-Jayn opened it again to investigate. This time, a mechanical torso lurched forward. She also found a small steampunk, animal-like creature among the parts. After observing it, she realized that it was attracted to metal and capable of damaging any metal it touched.
+Jain opened it again to investigate. This time, a mechanical torso lurched forward. She also found a small steampunk, animal-like creature among the parts. After observing it, she realized that it was attracted to metal and capable of damaging any metal it touched.
 
-Naturally, Jayn attached a rope to the creature and used it as a leash.
+Naturally, Jain attached a rope to the creature and used it as a leash.
 
 The group eventually opened the room fully and prepared to fight the animated pieces. Bia left her metal weapons behind, unwilling to risk having the strange creature destroy her greataxe or any of her handaxes. Cadric attempted to play his lute to see how the constructs might respond. The music only drew the crawling body parts toward him.
 
@@ -171,7 +171,7 @@ The answer was positive, so they continued toward their gold.
 
 The Black Lantern Inn was bustling when they returned.
 
-Two musicians played upon a stage while patrons filled the taproom. Cadric joined the performers for a song. Jayn ordered more bowls of grog. For a brief time, the dangers of the mountain gave way to music and merriment.
+Two musicians played upon a stage while patrons filled the taproom. Cadric joined the performers for a song. Jain ordered more bowls of grog. For a brief time, the dangers of the mountain gave way to music and merriment.
 
 Eventually, the party focused on the money that Henry still owed them. They entered his office and found him seated exactly as before, as though he had been waiting for their return.
 
@@ -191,11 +191,11 @@ Henry paid them the rest of their gold. Then he stood, walked directly through t
 
 For several moments, no one spoke.
 
-Finally, Jayn broke the silence. It now made sense, she observed, that during their first meeting Henry had turned the pages of his book without touching them.
+Finally, Jain broke the silence. It now made sense, she observed, that during their first meeting Henry had turned the pages of his book without touching them.
 
 Trust and communication, it seemed, remained areas in which the newly formed company could improve. Still, the gold was real.
 
-For completing the expedition and surviving what waited upon the mountain, **Bia, Cadric, Jayn, and Elisandra each advanced to level 2**.
+For completing the expedition and surviving what waited upon the mountain, **Bia, Cadric, Jain, and Elisandra each advanced to level 2**.
 
 ---
 
@@ -205,7 +205,7 @@ The four rose and opened the office door, expecting to return to the crowded tap
 
 The music was gone. So were the musicians, the bartender, and every patron. The entire bar beyond was dark and empty. Dust lay thick across the tables and floor, as though no one had entered the Black Lantern Inn in years.
 
-Jayn searched the abandoned bar for more grog.
+Jain searched the abandoned bar for more grog.
 
 Then someone knocked at the front door. The party hesitated. In a place such as this, a visitor after dark could easily be a vampire—or something worse. They chose not to open it.
 

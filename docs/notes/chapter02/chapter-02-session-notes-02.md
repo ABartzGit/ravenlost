@@ -18,7 +18,7 @@ After gathering what information they could, the group returned to the manor thr
 
 - We travel to **Crawford Manor**.
 - Cadric finds a section of fence that we can sneak through.
-- Jayn discovers a **cistern** that runs from the manor toward the creek.
+- Jain discovers a **cistern** that runs from the manor toward the creek.
 - We sneak through the fence onto the manor grounds.
 - We see a large **observatory**.
 - Inside the observatory, Cadric sees flower pots containing **small white flowers**.
@@ -39,7 +39,7 @@ After gathering what information they could, the group returned to the manor thr
 - We also find:
   - A **raven-feather brooch**
   - A **silver necklace with sapphires**
-- Jayn takes the brooch and necklace.
+- Jain takes the brooch and necklace.
 - Cadric extinguishes the light and climbs the ladder.
 - He quietly opens the door at the top and sees a room lit by candlelight.
 - He comes back down.
@@ -53,14 +53,14 @@ After gathering what information they could, the group returned to the manor thr
 - Bia hears floorboards creaking above her.
 - Someone is walking upstairs.
 - Cadric eventually follows Bia into the kitchen.
-- Jayn investigates several rooms on the first floor.
+- Jain investigates several rooms on the first floor.
 - She finds a **greenhouse**, but it does **not** contain the small white flowers seen in the observatory.
 - Another room contains a **dumbwaiter large enough to hold several people**.
-- Jayn goes to the second floor.
+- Jain goes to the second floor.
 - She finds:
   - A room with double doors
   - A room with a single door
-- Jayn hears faint crying coming from behind the single door.
+- Jain hears faint crying coming from behind the single door.
 
 ---
 
@@ -111,13 +111,13 @@ After gathering what information they could, the group returned to the manor thr
 
 ## Thema
 
-- Jayn enters the room with the single door.
+- Jain enters the room with the single door.
 - Inside is an elderly female gnome crying beside an **empty crib**.
-- She motions for Jayn to be quiet.
-- Jayn and the woman whisper to one another.
-- Jayn tells her that we want to save Crawford.
+- She motions for Jain to be quiet.
+- Jain and the woman whisper to one another.
+- Jain tells her that we want to save Crawford.
 - The woman says we **can't save it**.
-- She tells Jayn to jump out the window and leave.
+- She tells Jain to jump out the window and leave.
 - The woman's name is **Thema**.
 - Thema is the caretaker of Crawford Manor.
 - She has served there for **62 years**.
@@ -128,9 +128,9 @@ After gathering what information they could, the group returned to the manor thr
 - Ladna's child still hasn't arrived.
 - Thema says the child may **never arrive**.
 - Thema is trapped inside the house.
-- Jayn offers to lower Thema from the window so she can escape.
+- Jain offers to lower Thema from the window so she can escape.
 - Thema agrees.
-- Jayn lowers Thema out the window and then follows her down.
+- Jain lowers Thema out the window and then follows her down.
 
 ---
 
@@ -149,9 +149,9 @@ After gathering what information they could, the group returned to the manor thr
 - Bia attacks while Sterling is stuck.
 - She sinks her axe deep into his arm.
 - In the basement, Elisandra pulls the dumbwaiter lever.
-- Outside, Jayn attempts to pick the front door lock.
+- Outside, Jain attempts to pick the front door lock.
 - She fails.
-- Jayn rings the doorbell and waits around the corner.
+- Jain rings the doorbell and waits around the corner.
 - No one answers.
 - Sterling pulls his arm free from the wall.
 - Sterling kicks Cadric down the stairs.
@@ -162,8 +162,8 @@ After gathering what information they could, the group returned to the manor thr
 - Cadric tries to attack Sterling but misses.
 - In the basement, Elisandra sprinkles **holy water** on the surviving man.
 - He is too heavy for her to remove from the hook by herself.
-- Outside, Jayn sees Thema sprint away.
-- Jayn attempts to pick the lock again and fails.
+- Outside, Jain sees Thema sprint away.
+- Jain attempts to pick the lock again and fails.
 - She breaks a window and enters the basement.
 - Sterling struggles back to his feet.
 - He attacks Bia twice.
@@ -185,8 +185,8 @@ After gathering what information they could, the group returned to the manor thr
 
 - The dumbwaiter reaches the basement.
 - Elisandra notices **bloody footprints** inside it.
-- Jayn finds Elisandra and sees the room containing the hanging bodies.
-- Jayn and Elisandra enter the dumbwaiter and ride it upstairs.
+- Jain finds Elisandra and sees the room containing the hanging bodies.
+- Jain and Elisandra enter the dumbwaiter and ride it upstairs.
 - The entire party meets on the second floor in the room behind the **double doors**.
 - A very pregnant woman is lying on the bed.
 - She is connected to an IV.
@@ -206,9 +206,9 @@ After gathering what information they could, the group returned to the manor thr
 - If we kill Ladna, she will have **14 hours—until midnight—to be herself again**.
 - After that, she will have to take the **hallowed march to the house on Griffin Hill**.
 - Bia remembers having to kill severely wounded animals on the farm as acts of mercy. She never liked doing it.
-- Jayn approaches Ladna.
+- Jain approaches Ladna.
 - She gently kisses her on the forehead.
-- Jayn stabs Ladna through the stomach.
+- Jain stabs Ladna through the stomach.
 - Her weapon passes through **at least three layers of bone**.
 - Ladna dies.
 - Her stomach releases fluid.
@@ -226,9 +226,9 @@ After gathering what information they could, the group returned to the manor thr
 
 - The group returns to the basement.
 - Bia and Elisandra work together to remove the surviving man from the hook.
-- Jayn finds a tunnel leading toward the cistern.
+- Jain finds a tunnel leading toward the cistern.
 - She crawls into it headfirst.
-- Jayn follows the tunnel but finds only a **shoe**.
+- Jain follows the tunnel but finds only a **shoe**.
 - She returns to the basement.
 - Cadric uses healing magic on the surviving man.
 - The man cannot speak because his tongue has been removed.
@@ -240,7 +240,7 @@ After gathering what information they could, the group returned to the manor thr
 
 - Elisandra searches the room containing the bodies.
 - She finds a chest containing **everyone's belongings**.
-- Jayn also finds:
+- Jain also finds:
   - **17 gold**
   - **36 silver**
   - **12 copper**
@@ -274,7 +274,7 @@ After gathering what information they could, the group returned to the manor thr
 - The townspeople are sad because so many of their friends have died.
 - They are also grateful because they finally feel safe.
 - Cadric performs at the inn.
-- Jayn examines the items she took from the manor:
+- Jain examines the items she took from the manor:
   - **Raven-feather brooch:** Not magical
   - **Sapphire necklace:** There is something magical or unusual about it.
 - Cadric examines:
@@ -324,7 +324,7 @@ After gathering what information they could, the group returned to the manor thr
 - Said her existence was torture.
 - Warned us about **Wilfred Godfroy**.
 - Said she would have 14 hours after death before being forced to join the hallowed march.
-- Killed by Jayn as an act of mercy.
+- Killed by Jain as an act of mercy.
 - An unholy, many-eyed creature was found inside her.
 - Appeared at midnight in human form carrying a baby.
 
@@ -335,7 +335,7 @@ After gathering what information they could, the group returned to the manor thr
 - Has served at the manor for **62 years**.
 - Was found crying over an empty crib.
 - Helped explain what had happened to Sterling and Ladna.
-- Escaped through a second-floor window with Jayn's help.
+- Escaped through a second-floor window with Jain's help.
 - Claims she didn't know about the bodies hidden in the basement.
 
 ### Daverick
@@ -375,7 +375,7 @@ After gathering what information they could, the group returned to the manor thr
   - All missing their tongues
   - Most had their throats cut
 - **Tunnel to the cistern**
-  - Jayn found only a shoe inside
+  - Jain found only a shoe inside
 - **Ladna's unborn creature**
   - Multiple eyes
   - Tail

@@ -21,7 +21,7 @@ Then she produced a deck of cards. Her head tilted backward before snapping forw
 - **The Mists.** A journey lay ahead. The Mists might claim those who were not careful.
 - **The Miser.** A lord ruled from a mansion and refused to surrender to something he feared more than death.
 - **The Dictator.**
-- **The Beast.** Cadric immediately pointed at Jayn.
+- **The Beast.** Cadric immediately pointed at Jain.
 - **The Darklord.**
 
 Madam Eva drew four more cards, placing each over one already on the table: the Berserker over the Dictator, the Charlatan over the Darklord, the Shepherd over the Beast, and the Ghost over the Miser.
@@ -38,9 +38,9 @@ For the moment, however, there was nowhere to go.
 
 ## A night surrounded by Mists
 
-Jayn asked Cadric to play something, and the bard obliged. Eventually, Jayn and Elisandra went upstairs to explore the inn. A short while later, Elisandra screamed.
+Jain asked Cadric to play something, and the bard obliged. Eventually, Jain and Elisandra went upstairs to explore the inn. A short while later, Elisandra screamed.
 
-Bia and Cadric raced upstairs. As they hurried down the hall, Jayn suddenly leapt from one of the rooms, screamed at Cadric, grabbed him, and lifted him from the floor. She and Elisandra burst into laughter. Cadric didn't appreciate the joke.
+Bia and Cadric raced upstairs. As they hurried down the hall, Jain suddenly leapt from one of the rooms, screamed at Cadric, grabbed him, and lifted him from the floor. She and Elisandra burst into laughter. Cadric didn't appreciate the joke.
 
 Meanwhile, they determined that the rooms upstairs had looked abandoned for years. But their exploration revealed something more troubling. The Mists had pressed themselves against every window. Ravenlost was surrounded. With no obvious way out, they settled in for the night and took turns keeping watch.
 
@@ -48,7 +48,7 @@ By morning, sunlight had begun to break through, but the Mists remained. There w
 
 Cadric remembered the ghost from the laboratory mentioning Griffin Hill and recalled that it was located in Mordent, to the north. With no better destination, Ravenlost decided to head toward the city of Mordenshire in Mordent.
 
-Before entering the fog, they tied themselves together with rope. Then Jayn took the lead.
+Before entering the fog, they tied themselves together with rope. Then Jain took the lead.
 
 ---
 
@@ -56,17 +56,17 @@ Before entering the fog, they tied themselves together with rope. Then Jayn took
 
 The fog swallowed them almost immediately. It was so thick that even while tethered together, the companions could barely see one another.
 
-Along the way, Jayn spotted a body impaled upon a pike and decided that whatever lay in that direction was probably somewhere Ravenlost didn’t want to be.
+Along the way, Jain spotted a body impaled upon a pike and decided that whatever lay in that direction was probably somewhere Ravenlost didn’t want to be.
 
 She turned. One by one, however, each member of the party encountered the same body. Cadric stopped long enough to examine it and discovered a falcon branded into the victim's chest. 
 
-Somewhere in the fog, Jayn saw another light and heard the sound of wheels rolling across the ground. She called out.
+Somewhere in the fog, Jain saw another light and heard the sound of wheels rolling across the ground. She called out.
 
 The others caught up to find her speaking with a traveling salesman named Parry, proprietor of **Parry's Potables**. He wore a jeweled charm shaped like a mask around his neck, and his wagon carried an assortment of potions.
 
 Parry told them that was heading toward the metropolis of Dementlieu. More importantly, he had merchandise.
 
-Jayn showed him the red vials she had taken from Glim Brightstone's laboratory. Parry identified them as healing potions. He had four more available for fifty gold each. Cadric negotiated a group discount for the lot, and Ravenlost also purchased a disguise potion for Jayn.
+Jain showed him the red vials she had taken from Glim Brightstone's laboratory. Parry identified them as healing potions. He had four more available for fifty gold each. Cadric negotiated a group discount for the lot, and Ravenlost also purchased a disguise potion for Jain.
 
 When Parry continued on his way, Cadric briefly contemplated going with him. But he did not, and Ravenlost continued through the Mists.
 
@@ -76,7 +76,7 @@ Time became increasingly difficult to judge. Day seemed to become night and then
 
 ## Locust Branch Hospital
 
-Jayn emerged from the Mist first. From the sunlight, it appeared to be around nine in the morning, although even her compass seemed wrong.
+Jain emerged from the Mist first. From the sunlight, it appeared to be around nine in the morning, although even her compass seemed wrong.
 
 Ravenlost had arrived in a marsh. Beyond it stood a pond, woods, and an enormous building. Strange glowing lights—like softball-sized fireflies—floated nearby.
 
@@ -90,13 +90,13 @@ Closer inspection revealed the rest.
 
 The front entrance had been nailed shut, but a cracked window offered another way inside. There were no obvious signs of life.
 
-Naturally, Jayn climbed through the window. Bia followed, injuring her hand in the process. Cadric wisely remained near the fence.
+Naturally, Jain climbed through the window. Bia followed, injuring her hand in the process. Cadric wisely remained near the fence.
 
 Near the building, Elisandra consulted her Augury. Going inside, it informed her, was a bad idea. That was enough for Bia. She climbed back out.
 
-Jayn was now alone inside an abandoned hospital ward. Through a set of swinging doors, she noticed something shiny. Then a bandaged arm reached through and picked it up.
+Jain was now alone inside an abandoned hospital ward. Through a set of swinging doors, she noticed something shiny. Then a bandaged arm reached through and picked it up.
 
-A man with a dog approached the fence where Cadric stood. He introduced himself as Lavar and explained that he was a guard at the hospital. When Lavar learned that Jayn was inside, he immediately began banging on the fence and yelling for her to get out. Reluctantly, Jayn complied. Upon emerging, she peed near **Lavar**. 
+A man with a dog approached the fence where Cadric stood. He introduced himself as Lavar and explained that he was a guard at the hospital. When Lavar learned that Jain was inside, he immediately began banging on the fence and yelling for her to get out. Reluctantly, Jain complied. Upon emerging, she peed near **Lavar**. 
 
 Introductions were going well.
 
@@ -110,7 +110,7 @@ Lavar suggested Ravenlost visit the Raven's Claw Inn, where the townspeople were
 
 He also told them that Mordenshire remained approximately a day and a half away. As it was, they were outside the town of Crawford. The town was governed by **Sterling Crawford**, who had shut himself inside his manor several months earlier after his pregnant wife became ill.
 
-Jayn decided to ask Lavar's dog, **Pablo**, what he knew. 
+Jain decided to ask Lavar's dog, **Pablo**, what he knew. 
 
 Pablo knew quite a bit. Ghosts surrounded the hospital. Every night at eleven, for example, a ghost named Cynthia slammed herself against one of its windows. More troublingly, Pablo could not smell Daverick along his usual route to work. At the dock, however, he caught Daverick's scent.
 
@@ -144,9 +144,9 @@ There was also a troubling geographic pattern. Of the missing households, Lone F
 
 Before investigating the missing families, Ravenlost decided to check on Daverick. His house was different from the others. Rather than living near the manor, he lived on the same side of the river as the inn, church, dock, and hospital.
 
-Jayn knocked, but the door wasn't closed. Inside was a simple home with humble furnishings and an unmade cot. The back door also stood open. 
+Jain knocked, but the door wasn't closed. Inside was a simple home with humble furnishings and an unmade cot. The back door also stood open. 
 
-Then they noticed something that didn’t belong: a beautiful porcelain teapot and cup. Inside the teapot, the party found small white flowers that Bia couldn’t identify. And the remaining tea had a strong, astringent smell. Outside, near the river, Jayn discovered a large boot print that appeared to lead directly into the water. 
+Then they noticed something that didn’t belong: a beautiful porcelain teapot and cup. Inside the teapot, the party found small white flowers that Bia couldn’t identify. And the remaining tea had a strong, astringent smell. Outside, near the river, Jain discovered a large boot print that appeared to lead directly into the water. 
 
 They returned to the Raven's Claw Inn, where the clergyman identified the flowers: Hemlock**. **A paralytic. The plant was native only to Echo Island—an island that the townsfolk of Crawford wouldn’t typically venture to.
 
@@ -162,9 +162,9 @@ Ravenlost was becoming increasingly certain that something was wrong at Crawford
 
 ## The houses of the missing
 
-The Reynolds' house provided that evidence. Near the river, Jayn discovered two sets of footprints made by the same size boot. One set, however, had pressed much deeper into the ground than the other. 
+The Reynolds' house provided that evidence. Near the river, Jain discovered two sets of footprints made by the same size boot. One set, however, had pressed much deeper into the ground than the other. 
 
-Inside, the table had been set for three. Two places held empty cups, and there was no teapot. The cups contained residue carrying the remains of the same distinctive smell as the tea found in Daverick's house. Jayn also discovered three strands of hair: one medium-length and stark white, another medium-length and brown, and one long and blonde.
+Inside, the table had been set for three. Two places held empty cups, and there was no teapot. The cups contained residue carrying the remains of the same distinctive smell as the tea found in Daverick's house. Jain also discovered three strands of hair: one medium-length and stark white, another medium-length and brown, and one long and blonde.
 
 The party continued to the homes of the Peterbuilds and Lone Farmer John. Both houses were strangely clean and undisturbed. John's home was almost *too* pristine for such a humble dwelling. Neither house contained the tea service or any other obvious clue.
 
@@ -182,11 +182,11 @@ Two other families lived near Crawford Manor: the **Lemroys** and the **Darrons*
 
 Because **Earnest and Ella Lemroy** lived closest to the manor, Ravenlost asked permission to watch their house that night. The Lemroys agreed to let them stay in their barn.
 
-Before nightfall, however, Jayn and Bia had another place they wanted to investigate. The pond. Each borrowed—or, depending on one's definition, confiscated—a boat from the dock.
+Before nightfall, however, Jain and Bia had another place they wanted to investigate. The pond. Each borrowed—or, depending on one's definition, confiscated—a boat from the dock.
 
 From the water, they noticed a light briefly appear inside the hospital before going dark again. And at Crawford Manor, a single light burned.
 
-Jayn investigated the place where the river's current emptied into the pond. She plunged her hand into the silt and pulled out a human skull. Deep, uneven scrapes marked the bone. They didn’t appear to have been made by something metal. Whether the damage occurred before or after death was impossible to tell.
+Jain investigated the place where the river's current emptied into the pond. She plunged her hand into the silt and pulled out a human skull. Deep, uneven scrapes marked the bone. They didn’t appear to have been made by something metal. Whether the damage occurred before or after death was impossible to tell.
 
 Bia searched farther out. She dove into the middle of the pond and discovered a burlap sack weighted to the bottom with a rock. She removed the weight and brought the sack ashore.
 
@@ -204,7 +204,7 @@ Now they needed a plan.
 
 The Lemroys were halflings. Conveniently, so was Cadric. Therefore, Cadric would be the bait. He objected. The plan continued.
 
-Cadric would disguise himself as Earnest Lemroy and wait inside the house. Jayn would hide beneath the bed. Elisandra would remain in the open barn watching for anyone approaching from the direction of the manor. If she saw someone, she would warn Cadric telepathically. Bia would keep watch from the barn roof.
+Cadric would disguise himself as Earnest Lemroy and wait inside the house. Jain would hide beneath the bed. Elisandra would remain in the open barn watching for anyone approaching from the direction of the manor. If she saw someone, she would warn Cadric telepathically. Bia would keep watch from the barn roof.
 
 It was the perfect plan.
 
@@ -222,9 +222,9 @@ No answer. Cadric opened the door. The hooded figure held out a cup.
 
 Cadric drank. He couldn’t stop himself. The liquid tasted vile, and within moments, he was completely paralyzed.
 
-The figure entered the house and whistled. Bia jumped from the roof and attacked as it passed through the doorway. Her axe cut through the cloak and missed. There was nothing underneath. Jayn cast her Hunter’s Mark before emerging from under the bed.
+The figure entered the house and whistled. Bia jumped from the roof and attacked as it passed through the doorway. Her axe cut through the cloak and missed. There was nothing underneath. Jain cast her Hunter’s Mark before emerging from under the bed.
 
-Then the figure vanished. The kettle—still filled with poisoned tea—and a lantern dropped to the floor. Outside, Elisandra heard something nearby, followed by the sound of water moving toward the creek. Jayn rushed from the house and saw a black figure flying toward Crawford Manor.
+Then the figure vanished. The kettle—still filled with poisoned tea—and a lantern dropped to the floor. Outside, Elisandra heard something nearby, followed by the sound of water moving toward the creek. Jain rushed from the house and saw a black figure flying toward Crawford Manor.
 
 The trap had worked. Mostly.
 
