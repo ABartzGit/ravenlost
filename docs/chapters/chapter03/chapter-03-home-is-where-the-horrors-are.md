@@ -8,7 +8,7 @@
 
 Lady Waterford wanted to go home. That was the problem.
 
-Ravenlost had done what Farrow asked. They had entered the Waterford mausoleum and recovered both of the objects he wanted: Lord Waterford's jeweled walking stick and the portrait of Lady Waterford.
+Ravenlost had done what Farrow asked. They entered the abandoned ship and retrieved the portrait of Lady Waterford. They broke into the mausoleum and recovered Lord Waterford's jeweled walking stick.
 
 They could have returned to Farrow, collected their money, and moved on. But when Jain had taken the portrait, the woman inside it had spoken to her.
 
