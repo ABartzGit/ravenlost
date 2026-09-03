@@ -195,7 +195,7 @@ Finally, Jain broke the silence. It now made sense, she observed, that during th
 
 Trust and communication, it seemed, remained areas in which the newly formed company could improve. Still, the gold was real.
 
-For completing the expedition and surviving what waited upon the mountain, **Bia, Cadric, Jain, and Elisandra each advanced to level 2**.
+For completing the expedition and surviving what waited upon the mountain, **Bia, Cadric, ****Jain****, and Elisandra each advanced to level 2**.
 
 ---
 
