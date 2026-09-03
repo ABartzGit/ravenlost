@@ -36,15 +36,13 @@ Ravenlost knew it was empty. Now they had even more questions.
 
 Back in room 301, Jain received a visitor of her own.
 
-A scarred man entered the room and appeared just as surprised to see Jain as she was to see him.
-
-Before she could get much of an explanation, the man walked straight through the outer wall. 
+A scarred man peered through the window of the room and appeared just as surprised to see Jain as she was to see him. Before she could get much of an explanation, the man floated away. 
 
 Jain jumped over to the window and watched where he went.
 
 Toward the docks.
 
-Naturally, the Ravenlost would have to follow.
+Naturally, Ravenlost would have to follow.
 
 The rest of the team soon arrived back at room 301 and learned what Jain had seen. 
 
@@ -60,7 +58,7 @@ The more promising lead was Idlethorp.
 
 If Lady Waterford wanted to go home, perhaps she meant the home she'd had before she became Lady Waterford.
 
-So the Ravenlost packed up the portrait and headed out.
+So Ravenlost packed up the portrait and headed out.
 
 ---
 
@@ -82,7 +80,7 @@ Jain took hold of the wooden frame.
 
 Something popped inside her head. Warmth spread through her. And suddenly the painting knew exactly where it needed to be. The enormous manor overlooking Idlethorp was **home**. Having no control over her movements, Jain took off running. With the portrait. Without explaining anything to anyone.
 
-The rest of the Ravenlost watched dumbfounded for a moment before deciding to scramble after her. 
+The rest of Ravenlost watched dumbfounded for a moment before deciding to scramble after her. 
 
 They caught up with her just inside Idlethorp. Jain was able to let go of the painting, but had no recollection of how she ended up away from their camp.
 
@@ -92,7 +90,7 @@ They caught up with her just inside Idlethorp. Jain was able to let go of the pa
 
 Idlethorp wasn't entirely abandoned, as Dave had told them.
 
-Shapes emerged from the darkness, and the closer the Ravenlost looked, the worse they became. They were made from people. Or, at least, pieces of people.
+Shapes emerged from the darkness, and the closer Ravenlost looked, the worse they became. They were made from people. Or, at least, pieces of people.
 
 Limbs joined where limbs didn't belong. Bodies stitched and rearranged into shapes that should never have existed. Human parts assembled with no apparent concern for what a human body was supposed to look like. And they were ready to attack.
 
@@ -202,7 +200,7 @@ This was **Leon DeLawrence Pouchenelle**. Lady Waterford's brother. But Leon and
 
 The brain attacked with psychic force. One blast struck Bia directly, pain exploding through her head. 
 
-The laboratory erupted into battle as the Ravenlost fought Leon, the brain, and grotesque creations that came in and surrounded them.
+The laboratory erupted into battle as Ravenlost fought Leon, the brain, and grotesque creations that came in and surrounded them.
 
 The brain was clearly more than a specimen sitting on a shelf. Its power was tied to the horrors filling the manor. That made the solution fairly straightforward. 
 
@@ -226,7 +224,7 @@ Jain approached with Lady Waterford. The portrait fit perfectly. She placed it b
 
 The warmth Jain had felt since entering Idlethorp changed. It didn't disappear. It settled. The longing was gone. After decades away, Lady Waterford was exactly where she wanted to be. Home.
 
-Of course, the Ravenlost still had no idea where her actual body was. One mystery at a time.
+Of course, Ravenlost still had no idea where her actual body was. One mystery at a time.
 
 ---
 
@@ -269,7 +267,7 @@ For the first time in weeks, the road through Idlethorp was safe. Probably.
 
 ## Half a job, half the pay
 
-Eventually, the Ravenlost returned to Farrow to collect their reward, but there was a slight problem.  
+Eventually, Ravenlost returned to Farrow to collect their reward, but there was a slight problem.  
 
 They had been hired to retrieve two objects. They had returned with neither (as far as Farrow knew).
 
