@@ -6,12 +6,7 @@
 
 ## Adventure at a glance
 
-**Starting point:** Black Lantern Inn
-**Destination:** Mordenshire, Mordent
-**Unexpected stop:** Crawford
-**Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.
-**Main suspect/location:** Crawford Mano
-**Other suspicious location:** Locust Branch Hospital
+**Starting point:** Black Lantern Inn**Destination:** Mordenshire, Mordent**Unexpected stop:** Crawford**Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.**Main suspect/location:** Crawford Mano**Other suspicious location:** Locust Branch Hospital
 
 ---
 
@@ -36,7 +31,7 @@ Madam Eva arrived at the abandoned Black Lantern Inn and performed a card readin
 - **Shepherd** → Beast
 - **Ghost** → Miser
 
-Cadric believes the cards represent people we already know or will eventually encounter. He’s a smart one.
+Cadric believes the cards represent people we already know or will eventually encounter. 
 
 ### Questions
 
