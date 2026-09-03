@@ -21,7 +21,7 @@
 
 ## Waterford
 
-- Still trying to figure out what Lady Waterford meant when she told Jain she wanted to go **home**.
+- Woke up still trying to figure out what Lady Waterford meant when she told Jain she wanted to go **home**.
 - Jain stayed in room 301 with the portrait.
 - Cadric questioned Edgar.
 - Elisandra and I talked to **Renee**, who owns the Globe Inn.
