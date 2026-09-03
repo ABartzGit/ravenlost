@@ -65,7 +65,7 @@
 - Attacked by creatures made from stitched-together human body parts.
 - Cadric used **Daylight**.
 - The creatures hated it and fled.
-- They all ran toward the DeLawrence Pouchenelle manor.
+- They all ran toward Idlethorp manor.
 
 ---
 
