@@ -8,7 +8,9 @@
 
 Lady Waterford wanted to go home. That was the problem.
 
-Ravenlost had done what Farrow asked. They entered the abandoned ship and retrieved the portrait of Lady Waterford. They broke into the mausoleum and recovered Lord Waterford's jeweled walking stick. They could have returned to Farrow, collected their money, and moved on. But when Jain had taken the portrait, the woman inside it had spoken to her.
+Ravenlost had done what Farrow asked. They entered the abandoned ship and retrieved the portrait of Lady Waterford. They broke into the mausoleum and recovered Lord Waterford's jeweled walking stick. 
+
+They could have returned to Farrow, collected their money, and moved on. But when Jain had taken the portrait, the woman inside it had spoken to her.
 
 She wanted to go home.
 
@@ -18,7 +20,7 @@ And Jain wasn't about to hand her over until they knew what that meant.
 
 Jain stayed behind in room 301 while Cadric was questioning Edgar, and Elisandra and Bia questioned Renee, the proprietor of the Globe Inn. 
 
-They learned that the Lord Waterford and his wife had died sixty-four years earlier in a carriage accident while traveling toward Mordenshire for a gala at Godfroy's Manor. The old Waterford manor had burned years later, and the Waterford family had been gone from the town for decades.
+They learned that the Lord Waterford and his wife had died sixty-four years earlier in a carriage accident while traveling toward Mordenshire for a gala at Godfroy's Manor. They learned that the old Waterford manor had burned years later, and the Waterford family had been gone from the town for decades.
 
 But Lady Waterford hadn't always been a Waterford. Before her marriage, she had been a **DeLawrence Pouchenelle**. And her family had lived in **Idlethorp**.
 
