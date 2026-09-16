@@ -224,7 +224,9 @@ Jain approached with Lady Waterford. The portrait fit perfectly. She placed it b
 
 The warmth Jain had felt since entering Idlethorp changed. It didn't disappear. It settled. The longing was gone. After decades away, Lady Waterford was exactly where she wanted to be. Home.
 
-Of course, Ravenlost still had no idea where her actual body was. One mystery at a time.
+But Cadric saw to it that “home” was short-lived. He removed the portrait from the wall. Collecting the reward was top of mind.
+
+And of course, Ravenlost still had no idea where her actual body was. One mystery at a time.
 
 ---
 
@@ -269,7 +271,7 @@ For the first time in weeks, the road through Idlethorp was safe. Probably.
 
 Eventually, Ravenlost returned to Farrow to collect their reward, but there was a slight problem.  
 
-They had been hired to retrieve two objects. They had returned with neither (as far as Farrow knew).
+They had been hired to retrieve two objects. They had returned with only Lady Waterford’s portrait.
 
 Ravenlost informed Farrow that Lady Waterford's portrait was hanging exactly where it belonged - in Idlethorp.
 
