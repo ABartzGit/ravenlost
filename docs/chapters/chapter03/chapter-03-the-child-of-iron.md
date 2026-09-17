@@ -2,7 +2,7 @@
 
 > *Ten years after Elisandra fled Candle Cross, the Child of Iron came home.*
 
-![Ravenlost at the DeLawrence Pouchenelle manor](../../images/chapter-03-home-is-where-the-horrors-are.png)
+![Ravenlost at the DeLawrence Pouchenelle manor](../../images/chapter-03-the-child-of-iron.png)
 
 ---
 
