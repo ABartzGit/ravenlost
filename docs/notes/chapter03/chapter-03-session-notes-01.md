@@ -85,7 +85,7 @@ The sisters intended to continue searching the surrounding woods to make sure no
 
 The conversation produced several potentially important leads.
 
-Jennifer and Lori recommended **Rudolf Fanbreaking**, an herbalist in **Mordenshire** who supplies equipment useful for hunting monsters.
+Jennifer and Lori recommended **Rudolf von Richten**, an herbalist in **Mordenshire** who supplies equipment useful for hunting monsters.
 
 They also mentioned rumors of a **druidic group near Glaston attempting to find a way through the Mists**.
 
