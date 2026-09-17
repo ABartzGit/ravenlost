@@ -1,4 +1,4 @@
-# Home is where the horrors are (Draft)
+# Home is where the horrors are
 
 > *They gave the painting what she wanted. She should have asked for more.*
 
@@ -245,7 +245,7 @@ Throughout Mordent, there are careful, scholarly methods for identifying unknown
 - A potion of fire breathing
 - A potion of animal friendship
 - A potion of resistance
-- The scent of the mists
+- The scent of the Mists
 
 Ravenlost sorted out the collection.
 
