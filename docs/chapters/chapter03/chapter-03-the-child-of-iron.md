@@ -1,4 +1,4 @@
-# The child of iron
+# The Child of Iron
 
 > *Ten years after Elisandra fled Candle Cross, the Child of Iron came home.*
 
