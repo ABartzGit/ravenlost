@@ -2,13 +2,13 @@
 
 > *Ten years after Elisandra fled Candle Cross, the Child of Iron came home.*
 
-![Ravenlost at the DeLawrence Pouchenelle manor](../../images/chapter-03-the-child-of-iron.png)
+![Cadric helping Elisandra disguise herself](../../images/chapter-03-the-child-of-iron.png)
 
 ---
 
 The road north was supposed to take Ravenlost through Candle Cross on their way to Mordenshire. Instead, the party found themselves trapped inside a walled town that worshipped one of their own, surrounded by impossible mist and confronting a secret buried beneath the keep.
 
-By the time they left, Candle Cross had lost its god, its vicar, and a rather large glass orb.
+By the time they left, Candle Cross had lost a rather large glass orb, its vicar, and its god.
 
 ## On the road again
 
@@ -308,7 +308,7 @@ Bia helped sell it. While he disguised himself, she ran back to Elisandra’s be
 
 It was nighttime. Bia could lower the Cadric-Elisandra form down on a rope for all the townspeople to see.
 
-From his rope, Cadric exclaimed to the crowd below. **“Lo! I return to you, your child of iron. I have freed you from the danger of the Mists. Your Vicar and his elders lie to you. They are not your friends. They must be stopped.”**
+From his rope, Cadric exclaimed to the crowd below. **“Lo! I return to you, your Child of Iron. I have freed you from the danger of the Mists. Your Vicar and his elders lie to you. They are not your friends. They must be stopped.”**
 
 From atop the roof, Bia continued to try to sell the story.
 
