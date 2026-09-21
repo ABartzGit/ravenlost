@@ -2,7 +2,7 @@
 
 > *The road to Waterford began with a missing wagon. By midnight, Ravenlost was robbing a mausoleum.*
 
-![Ravenlost in Waterford](../../images/chapter-03-waterford.png)
+<img src="../../../images/chapter-03-waterford.png" class="chapter-art" alt="Ravenlost in Waterford">
 
 ---
 
