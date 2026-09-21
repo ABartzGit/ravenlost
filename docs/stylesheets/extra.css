@@ -42,3 +42,122 @@
     height: 4.8rem;  /* Default is usually 2.4rem. Increase this to your preference */
     width: auto;     /* Maintains the aspect ratio of your logo */
 }
+
+
+/* =========================================
+   RAVENLOST ATMOSPHERE
+   ========================================= */
+
+/* Give major page headings a subtle Ravenlost accent */
+.md-typeset h1 {
+  position: relative;
+}
+
+/* Use burgundy for section headings in light mode */
+[data-md-color-scheme="default"] .md-typeset h2 {
+  color: var(--ravenlost-burgundy);
+}
+
+/* Purple works better against the dark background */
+[data-md-color-scheme="slate"] .md-typeset h2 {
+  color: #b69bc4;
+}
+
+/* Give horizontal rules a more atmospheric treatment */
+.md-typeset hr {
+  border: 0;
+  border-top: 1px solid var(--ravenlost-brass);
+  opacity: 0.55;
+  margin: 2rem auto;
+  width: 70%;
+}
+
+/* =========================================
+   SUBTLE MIST
+   ========================================= */
+
+.md-content {
+  position: relative;
+}
+
+.md-content::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -2rem;
+  right: -2rem;
+  height: 11rem;
+  pointer-events: none;
+  z-index: 0;
+
+  background:
+    radial-gradient(
+      ellipse at 15% 30%,
+      rgba(128, 98, 143, 0.16) 0%,
+      transparent 45%
+    ),
+    radial-gradient(
+      ellipse at 50% 10%,
+      rgba(181, 154, 98, 0.10) 0%,
+      transparent 40%
+    ),
+    radial-gradient(
+      ellipse at 85% 35%,
+      rgba(113, 61, 72, 0.14) 0%,
+      transparent 45%
+    );
+
+  filter: blur(12px);
+}
+
+.md-content__inner {
+  position: relative;
+  z-index: 1;
+}
+
+/* Remove background behind the in-page TOC heading */
+.md-nav--secondary .md-nav__title {
+  background: transparent;
+  box-shadow: none;
+}
+
+
+/* =========================================
+   CAMPAIGN STATUS
+   ========================================= */
+
+.campaign-status {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.25rem;
+  border-left: 3px solid var(--ravenlost-brass);
+  background: rgba(128, 98, 143, 0.06);
+  border-radius: 0.2rem;
+}
+
+[data-md-color-scheme="slate"] .campaign-status {
+  background: rgba(128, 98, 143, 0.12);
+}
+
+.campaign-status p:first-child {
+  margin-top: 0;
+}
+
+.campaign-status p:last-child {
+  margin-bottom: 0;
+}
+
+
+/* =========================================
+   CHAPTER ARTWORK
+   ========================================= */
+
+.chapter-art {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin: 1.5rem auto 2rem;
+
+  border: 1px solid var(--ravenlost-brass);
+  border-radius: 3rem;
+  padding: 3px;
+}
