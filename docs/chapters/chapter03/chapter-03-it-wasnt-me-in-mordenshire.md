@@ -1,6 +1,7 @@
-# Mordenshire
+# "It wasn't me" in Mordenshire
 
-> *Ravenlost finally reached Mordenshire. Between a monster hunter, a murder investigation, an undercover assignment, and a job from a dreadlord, they quickly found plenty of reasons to stay.*
+> *Ravenlost finally reached Mordenshire. Between a monster hunter, a murder investigation, an undercover assignment, and a job from a dread
+lord, they quickly found plenty of reasons to stay.*
 
 ![Bia and Jain examining a body on the ground](../../images/chapter-03-it-wasnt-me-in-mordenshire.png)
 
