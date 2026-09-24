@@ -7,7 +7,7 @@ description: Follow the Adventures of Ravenlost, a Dungeons & Dragons campaign i
 
 *Four strangers. One very bad mist problem.*
 
-<img src="images/ravenlost.png" class="chapter-art">
+<img src="images/ravenlost.png" class="chapter-art" alt="Ravenlost group">
 
 Bia, Cadric, Jain, and Elisandra were strangers when they arrived at the Black Raven Inn, each responding to the same job offer.
 

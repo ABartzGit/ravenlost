@@ -3,7 +3,7 @@
 > *Ravenlost finally reached Mordenshire. Between a monster hunter, a murder investigation, an undercover assignment, and a job from a dread
 lord, they quickly found plenty of reasons to stay.*
 
-![Bia and Jain examining a body on the ground](../../images/chapter-03-it-wasnt-me-in-mordenshire.png)
+<img src="../../../images/chapter-03-it-wasnt-me-in-mordenshire.png" class="chapter-art" alt="Jain and Bia examining a body on the ground">
 
 ---
 
