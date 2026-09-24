@@ -1,12 +1,12 @@
 # Mordenshire
 
-> *Ravenlost finally reached Mordenshire. Between a monster hunter, amurder investigation, an undercover assignment, and a job from a dreadlord, they quickly found plenty of reasons to stay.*
+> *Ravenlost finally reached Mordenshire. Between a monster hunter, a murder investigation, an undercover assignment, and a job from a dreadlord, they quickly found plenty of reasons to stay.*
 
 ![Bia and Jain examining a body on the ground](../../images/chapter-03-it-wasnt-me-in-mordenshire.png)
 
 ---
 
-The road north from Candle Cross finally brought Ravenlost to Mordenshire, a large coastal town built around a busy harbor. The party already had a reason for coming: Henry Loust had given them an invitation to the House on Griffin Hill, where Lord Godfroy was in needof "mortal hands."
+The road north from Candle Cross finally brought Ravenlost to Mordenshire, a large coastal town built around a busy harbor. The party already had a reason for coming: Henry Loust had given them an invitation to the House on Griffin Hill, where Lord Godfroy was in need of "mortal hands."
 
 But Godfroy would have to wait.
 
