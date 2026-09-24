@@ -2,7 +2,7 @@
 
 > *The Mists had delivered Ravenlost somewhere new. Crawford, unfortunately, already had problems of its own.*
 
-<img src="../../../images/chapter-02-fortune.png" class="chapter-art" alt="Ravenlost fortunes">
+![Ravenlost fortunes](../../images/chapter-02-fortune.png)
 
 ---
 

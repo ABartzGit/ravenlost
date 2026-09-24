@@ -2,7 +2,7 @@
 
 > *Ten years after Elisandra fled Candle Cross, the Child of Iron came home.*
 
-<img src="../../../images/chapter-03-the-child-of-iron.png" class="chapter-art" alt="Cadric helping Elisandra disguise herself">
+![Cadric helping Elisandra disguise herself](../../images/chapter-03-the-child-of-iron.png)
 
 ---
 

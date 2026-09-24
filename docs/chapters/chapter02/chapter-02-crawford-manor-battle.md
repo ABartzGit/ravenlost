@@ -2,7 +2,7 @@
 
 > *The mystery of Crawford had led Ravenlost to the manor. Getting inside was the easy part.*
 
-<img src="../../../images/chapter-02-crawford-manor.png" class="chapter-art" alt="Crawford Manor battle">
+![Ravenlost fortunes](../../images/chapter-02-crawford-manor.png)
 
 ---
 

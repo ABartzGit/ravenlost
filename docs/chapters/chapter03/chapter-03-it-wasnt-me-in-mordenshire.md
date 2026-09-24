@@ -1,15 +1,12 @@
-# "It wasn't me" in Mordenshire (Draft)
+# Mordenshire
 
-> *Ravenlost finally reached Mordenshire. Between a monster hunter, a
-murder investigation, an undercover assignment, and a job from a dread
-lord, they quickly found plenty of reasons to stay.*
+> *Ravenlost finally reached Mordenshire. Between a monster hunter, amurder investigation, an undercover assignment, and a job from a dreadlord, they quickly found plenty of reasons to stay.*
 
-<img src="../../../images/chapter-03-it-wasnt-me-in-mordenshire.png" class="chapter-art" alt="Jain and Bia examining a body on the ground">
+![Bia and Jain examining a body on the ground](../../images/chapter-03-it-wasnt-me-in-mordenshire.png)
 
 ---
 
-The road north from Candle Cross finally brought Ravenlost to Mordenshire, a large coastal town built around a busy harbor. The party already had a reason for coming: Henry Loust had given them an invitation to the House on Griffin Hill, where Lord Godfroy was in need
-of "mortal hands."
+The road north from Candle Cross finally brought Ravenlost to Mordenshire, a large coastal town built around a busy harbor. The party already had a reason for coming: Henry Loust had given them an invitation to the House on Griffin Hill, where Lord Godfroy was in needof "mortal hands."
 
 But Godfroy would have to wait.
 
@@ -27,9 +24,9 @@ There were three choices. The Blackcard sat in the center of town and catered la
 
 Jain heard “sanatorium.” Her decision was made.
 
-Jain and Elisandra headed for the Salty Dog, where under the false name “Jainisandra,” they rented Room 213 from an innkeeper named Menda. 
+Jain and Elisandra headed for the Salty Dog, where under the false name “Jainisandra,” they rented Room 213 from an innkeeper named **Menda**. 
 
-Bia and Cadric chose the Blackcard, which was conveniently located next to a bakery. An elderly Gnome innkeeper named Alenta sat behind the front desk with an old grimoire. They took Room 304, and Cadric arranged to perform at the inn from eight until nine that evening in exchange for their room and board.
+Bia and Cadric chose the Blackcard, which was conveniently located next to a bakery. An elderly Gnome innkeeper named **Alenta **sat behind the front desk with an old grimoire. They took Room 304, and Cadric arranged to perform at the inn from eight until nine that evening in exchange for their room and board.
 
 ---
 
@@ -73,9 +70,7 @@ Then Ravenlost went to visit Rudolph Van Richten, the herbalist that Jennifer an
 
 ## Something in the herbalist shop
 
-Ravenlost arrived at Van Richten's Herbalist and found Beatrice, one of Rudolph Van Richten's employees, wounded outside.
-
-She had arrived early that afternoon to open the shop and had been attacked by something inside.
+Ravenlost arrived at Van Richten's Herbalist and found **Beatrice**, one of Rudolph Van Richten's employees, wounded outside. She had arrived early that afternoon to open the shop and had been attacked by something inside.
 
 Elisandra went in to investigate. Whatever had attacked Beatrice was still there.
 
@@ -173,7 +168,7 @@ Among those in the crowd watching the performance was Henry Loust. More specific
 
 “Henry.”
 
-That was all that was said until the end of the set, when Henry made it clear that Lord Godfroy already knew the party was in Mordenshire and suggested that Ravenlost make time for him.
+That was all that was said until the end of the set, when Henry reminded her that Lord Godfroy was waiting for them. He knew the party was in Mordenshire and suggested that Ravenlost make time for him.
 
 Bia went outside for some air and noticed a fog rolling into town. It grew thick enough to swallow streets and buildings. Back inside the bar, she asked about it. The locals had a name for it.
 
@@ -189,7 +184,7 @@ Then Jain smelled blood.
 
 “Nope”
 
-Elisandra quickly returned to the Blackcard. Bia then joined Jain, and the two followed the smell toward the docks.
+Elisandra reconsidered and returned to the Blackcard. Bia then joined Jain, and the two followed the smell toward the docks.
 
 They found a body.
 
