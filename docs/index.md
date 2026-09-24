@@ -23,12 +23,13 @@ It all began at the Black Raven Inn, with four strangers and a job from a man na
 
 <div class="campaign-status">
 
-<p><strong>📍 Candle Cross</strong> &nbsp;&nbsp; <strong>⚔️ Level 3</strong></p>
+<p><strong>📍 Mordenshire</strong> &nbsp;&nbsp; <strong>⚔️ Level 4</strong></p>
 
 <p>
-The party has discovered that Elisandra is the <strong>Child of Iron</strong>,
-who fled Candle Cross ten years ago. After a less-than-inconspicuous visit to
-town, they're preparing to continue north.
+Ravenlost has reached Mordenshire, where a murder investigation has led to an
+undercover assignment inside the town's sanatorium. In three days, they'll go
+undercover. In one week, Lord Godfroy expects them to begin searching for
+<strong>Glim Brightstone</strong> and a more powerful Glim battery.
 </p>
 
 <p><strong>Next:</strong> House on Griffin Hill — meet Lord Godfrey.</p>
