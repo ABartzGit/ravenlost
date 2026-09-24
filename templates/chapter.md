@@ -2,7 +2,7 @@
 
 > *{{chapter_tagline}}*
 
-![{{image_alt}}](../../images/{{image_filename}})
+<img src="../../images/{{image_filename}}" alt="{{image_alt}}" class="chapter-art">
 
 ---
 
