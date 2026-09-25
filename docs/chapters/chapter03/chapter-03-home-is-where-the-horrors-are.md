@@ -2,7 +2,7 @@
 
 > *They gave the painting what she wanted. She should have asked for more.*
 
-<img src="../../../images/chapter-03-home-is-where-the-horrors-are.png" class="chapter-art" alt="Ravenlost at the DeLawrence Pouchenelle manor">
+<img src="../../../images/chapter-03-home-is-where-the-horrors-are.png" alt="Ravenlost at the DeLawrence Pouchenelle manor" class="chapter-art">
 
 ---
 
