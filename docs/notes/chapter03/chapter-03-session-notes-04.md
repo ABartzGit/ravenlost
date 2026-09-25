@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# Bia's notes - “It wasn't me” in Mordenshire
-=======
 # Bia's notes - "It wasn't me" in Mordenshire
 
 
-
 ---
->>>>>>> ed65befa7bc3029d2f83ebc0170cc3a1ade22601
 
 ## Adventure at a Glance
 
@@ -24,11 +19,7 @@ Ravenlost reached **Level 4**.
 
 Mordenshire is a large, busy coastal town with a harbor.
 
-<<<<<<< HEAD
-We attracted some attention when we arrived. Apparently a halfling, an orc, a Lupine, and a Kalashtar walking into town together is unusual.
-=======
 We attracted some attention when we arrived. Apparently a halfling, an orc, a Lupine, and a Kalashtar walking into town together is “unusual.”
->>>>>>> ed65befa7bc3029d2f83ebc0170cc3a1ade22601
 
 The guards told us about three inns:
 
@@ -456,11 +447,7 @@ Elisandra ordered a utility belt with a holster for her EC Light.
 
 ## Items in progress
 
-<<<<<<< HEAD
-| Item | For | Ready | Notes |
-=======
 | **Item** | **For** | **Ready** | **Notes** |
->>>>>>> ed65befa7bc3029d2f83ebc0170cc3a1ade22601
 | --- | --- | --- | --- |
 | Silver canine caps | Jain | 2-3 days | Being made by Rudolph Van Richten |
 | Utility belt | Cadric | ~3 days | EC Light holster and special Eversmoking Bottle pouch |
@@ -668,15 +655,9 @@ One of Godfroy's leads for locating Glim or learning more about his work.
 
 - **In 2-3 days:** Jain's silver canine caps should be ready from Van Richten.
 - **In 3 days:** Begin the undercover operation at the sanatorium.
-<<<<<<< HEAD
-  - Jain and Elisandra: patients
-  - Bia: janitor
-  - Cadric: groundskeeper
-=======
 - Jain and Elisandra: patients
 - Bia: janitor
 - Cadric: groundskeeper
->>>>>>> ed65befa7bc3029d2f83ebc0170cc3a1ade22601
 - **In ~3 days:** Cadric's and Elisandra's utility belts should be ready.
 - **In 1 week:** Jain's silver-imbued shortsword should be ready.
 - **Within 1 week:** Cadric's and Elisandra's EC Lights should be ready.
