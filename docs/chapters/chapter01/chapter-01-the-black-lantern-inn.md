@@ -2,7 +2,7 @@
 
 > *The Mists have a way of gathering those who were never meant to meet*
 
-<img src="../../../images/chapter-01-black-lantern-inn.png" class="chapter-art" alt="Ravenlost outside the Black Lantern Inn">
+<img src="../../../images/chapter-01-black-lantern-inn.png" alt="Ravenlost group" class="chapter-art">
 
 ---
 
