@@ -1,15 +1,14 @@
-# "It wasn't me" in Mordenshire (Draft)
+# “It wasn’t me” in Mordenshire
 
-> *Ravenlost finally reached Mordenshire. Between a monster hunter, a murder investigation, an undercover assignment, and a job from a dread
-lord, they quickly found plenty of reasons to stay.*
+> *Ravenlost finally reached Mordenshire. Between a monster hunter, a murder investigation, an undercover assignment, and a job from a dreadlord, they quickly found plenty of reasons to stay.*
 
-<img src="../../../images/chapter-03-it-wasnt-me-in-mordenshire.png" class="chapter-art" alt="Jain and Bia examining a body on the ground">
+<img src="../../../images/chapter-03-it-wasnt-me-in-mordenshire.png" alt="Bia and Jain examining a body on the ground" class="chapter-art">
 
 ---
 
 The road north from Candle Cross finally brought Ravenlost to Mordenshire, a large coastal town built around a busy harbor. The party already had a reason for coming: Henry Loust had given them an invitation to the House on Griffin Hill, where Lord Godfroy was in need of "mortal hands."
 
-But Godfroy would have to wait.
+But Godfroy would have to wait for now.
 
 Ravenlost had rooms to find, treasure to sell, and a certain herbalist to visit.
 
@@ -137,11 +136,19 @@ He explained more about traveling through the Mists. Talismans associated with p
 
 Jain was a Mist Wanderer.
 
-The party also described the strange machine on the rooftop in Candle Cross. This caught Van Richten's attention. He thought the device on the rooftop might be connected to **Glim Brightstone**. More specifically, it might have contained a **Glim battery**.  
+The party also described the strange machine beneath Candle Cross. This caught Van Richten's attention.
 
-Ravenlost had seen Glim's technology before. They told him about laboratory near the Black Lantern Inn contained damaged machinery, possible batteries, and Sedgwick, the automaton they had left behind. Van Richten seemed excited to go at his next opportunity. Suddenly, that laboratory seemed considerably more important.
+He thought the device might be connected to **Glim Brightstone**. More specifically, it might have contained a **Glim battery**.
 
-Van Richten had also heard rumors about the apparatus Lord Godfroy was seeking. Depending on which stories were true, the apparatus might allow someone to travel safely through the Mists. Others believe the apparatus might be capable of removing a soul from one body and placing it into another. Or it might be capable of doing something similar on a much larger scale.
+Ravenlost had seen Glim's technology before. The laboratory near the Black Lantern Inn contained damaged machinery, possible batteries, and Sedgwick, the automaton they had left behind.
+
+Suddenly, that laboratory seemed considerably more important.
+
+Van Richten had also heard rumors about the apparatus Lord Godfroy was seeking. Depending on which stories were true, the apparatus might allow someone to travel safely through the Mists. 
+
+Others believe the apparatus might be capable of removing a soul from one body and placing it into another.
+
+Or it might be capable of doing something similar on a much larger scale.
 
 None of those possibilities made Ravenlost more eager to help Godfroy.
 
@@ -177,7 +184,7 @@ Then Jain smelled blood.
 
 “Nope”
 
-Elisandra reconsidered and returned to the Blackcard. Bia then joined Jain, and the two followed the smell toward the docks. 
+Elisandra reconsidered and returned to the Blackcard. Bia then joined Jain, and the two followed the smell toward the docks.
 
 They found a body.
 
@@ -185,9 +192,13 @@ It was **Madeline**, one of the Blackcard's barmaids who had been serving them t
 
 Madeline had fought back.
 
-The wounds were clean, and it appeared that her attacker had grabbed her from behind. Jain noticed a trail of blood that led away from the docks toward the sanatorium before disappearing into the grass.
+The wounds were clean, and it appeared that her attacker had grabbed her from behind. 
 
-Bia ran to the Salty Dog for help and then to the garrison in the center of town. When she returned with the guards, Jain was gone.
+Jain noticed a trail of blood that led away from the docks toward the sanatorium before disappearing into the grass.
+
+Bia ran to the Salty Dog for help and then to the garrison in the center of town.
+
+When she returned with the guards, Jain was gone.
 
 Of course she was.
 
@@ -195,7 +206,11 @@ Of course she was.
 
 ## **Jain investigates**
 
-Jain had followed the trail of blood, never missing an opportunity to get close to a sanatorium. A guard there told her that he had recently heard something moving in the bushes. Jain decided that noise was probably the murderer. She announced that she was going into the bushes to investigate.
+Jain had followed the trail of blood, never missing an opportunity to get close to a sanatorium.
+
+A guard there told her that he had recently heard something moving in the bushes.
+
+Jain decided that was probably the murderer. She announced that she was going into the bushes to investigate.
 
 Two more sanatorium guards eventually joined her. Together they searched the area and found footprints leading from pavement up to the grass, where the tracks disappeared. But Jain found something considerably more useful. A bloody dagger, about six inches long.
 
@@ -217,17 +232,19 @@ Jain was sent back to the docks.
 
 ## "You understand how you look, right?"
 
-By the time Jain returned, several guards were gathered around Madeline's body with Bia nearby. 
+By the time Jain returned, several guards were gathered around Madeline's body with Bia nearby.
 
 One asked Jain to explain what had happened.
 
-Jain provided a concise "Jain" summary.
+Jain provided a concise summary.
 
 "Smell blood, body dark, body dead, blood, blood trail, follow blood trail, find weapon."
 
 The guards were particularly interested in that last part.
 
-Jain had arrived in Mordenshire the day before. She had discovered a murder victim. She had followed the evidence away from the scene without waiting for the guards. She had announced to a sanatorium guard that she was going into the bushes. Then she had been found in those bushes near a bloody murder weapon.
+Jain had arrived in Mordenshire the day before. She had discovered a murder victim. She had followed the evidence away from the scene without waiting for the guards. She had announced to a sanatorium guard that she was going into the bushes.
+
+Then she had been found in those bushes near a bloody murder weapon.
 
 It was late, and the guards were confused. Jain agreed to answer questions the next day.
 
@@ -249,13 +266,15 @@ The guards requested that Jain follow her to the garrison, where they could ques
 
 So Jain and two guards walked together through town and to the garrison. They escorted her into an interrogation room with one window, and left her there until **Captain Kilm O'Connell** arrived.
 
-Jain tried pleading her innocence again. 
+Jain tried pleading her innocence again.
 
 "Let me tell my story, please."
 
 She explained that she and a friend had found Madeline. Bia had gone for help. Jain had investigated the scene because that was what she did.
 
-She had a nose. She had ears. She had found a blood trail. The trail led toward the sanatorium, where a guard told her he had heard something in the bushes. 
+She had a nose. She had ears. She had found a blood trail.
+
+The trail led toward the sanatorium, where a guard told her he had heard something in the bushes.
 
 "Well, fuck, that's the murderer."
 
@@ -281,7 +300,9 @@ Fortunately, O'Connell already knew that. Madeline was, in fact, the town’s **
 
 “Yes.”
 
-That was another reason, though she still looked "suspicious as shit." But Captain O'Connell wasn't just interested in questioning Jain. He had a job for Ravenlost.
+That was another reason, though she still looked "suspicious as shit."
+
+But Captain O'Connell wasn't just interested in questioning Jain. He had a job for Ravenlost.
 
 ---
 
@@ -347,7 +368,7 @@ The room was strangely dusty compared with the immaculate grounds outside. Elisa
 
 Then Jain heard a metallic scraping or digging sound beneath the floor, while Cadric could feel vibrations through it.
 
-Something was happening beneath Griffin Hill. 
+Something was happening beneath Griffin Hill.
 
 Before they could learn what, Lord Godfroy arrived.
 
