@@ -20,11 +20,11 @@ After Jain destroyed the orb, the Mists disappeared and the people of Candle Cro
 - The party **did not give Farrow Lord Waterford's jeweled cane**.
 - Farrow had already paid each party member **90 gp** for completing one of his two tasks.
 - Ravenlost continued north toward **Mordenshire**.
-- Beyond Mordenshire is **Abbey Point**, where Glyn reportedly went with the mysterious draft.
+- Beyond Mordenshire is **Abbey Point**, where Glim reportedly went with the mysterious draft.
 
 ### Cooper
 
-On the road, the party encountered **Cooper**, whose wagon needed repairs.
+On the road, we encountered **Cooper**, whose wagon needed repairs.
 
 - Cooper was transporting empty barrels south toward Waterford.
 - Bia helped make a temporary repair to his wagon.
@@ -36,7 +36,7 @@ On the road, the party encountered **Cooper**, whose wagon needed repairs.
 
 ## Candle Cross
 
-Ravenlost reached **Candle Cross**, a fortified town surrounded by farmland, a river, a moat, high walls, and a drawbridge. A large keep overlooked the town.
+We reached **Candle Cross**, a fortified town surrounded by farmland, a river, a moat, high walls, and a drawbridge. A large keep overlooked the town.
 
 Before entering, Elisandra used her necklace to disguise herself. She changed her white hair to black and altered her nose.
 
@@ -67,7 +67,7 @@ Elisandra finally explained some of her history.
 
 ## Florence's Inn
 
-The party stayed at an inn run by **Florence**.
+We stayed at an inn run by **Florence**.
 
 Elisandra remained hidden in the room.
 
@@ -90,7 +90,7 @@ The Mists had formed immediately outside Candle Cross, surrounding the town and 
 
 At the morning sermon, the townspeople were reassured that the **Child of Iron would protect them**.
 
-Ravenlost decided to investigate.
+We decided to investigate.
 
 ### Pupert and Mr. Meeples
 
@@ -125,25 +125,25 @@ Cadric convinced Jain to turn back, and they made it safely over the wall.
 
 Jain wanted to try again.
 
-This time, Bia went with her while Cadric stayed with Elisandra.
+This time, I went with her while Cadric stayed with Elisandra.
 
-Bia remained on the wall and slowly lowered Jain on the rope until she was just inside the Mists.
+I remained on the wall and slowly lowered Jain on the rope until she was just inside the Mists.
 
 Jain saw the female Lupine again. The figure was badly wounded and again said:
 
 **"I found you."**
 
-Bia felt a hard pull on the rope and immediately hauled Jain back up. Jain hit her head during the trip back and was injured.
+I felt a hard pull on the rope and immediately hauled Jain back up. Jain hit her head during the trip back and was injured.
 
 Jain tried **one more time**.
 
-Bia lowered her into the Mists again. The figure appeared directly in front of Jain.
+I lowered her into the Mists again. The figure appeared directly in front of Jain.
 
 Another pull came through the rope.
 
-This time, Bia pulled up a nearly lifeless Jain.
+This time, I pulled up a nearly lifeless Jain.
 
-Bia carried Jain to Elisandra, who healed her.
+I carried Jain to Elisandra, who healed her.
 
 Important
 
@@ -155,7 +155,7 @@ We still don't know who the female Lupine is or why she keeps telling Jain, **"I
 
 ## Investigating the Keep
 
-The party agreed that the **keep** was the most likely place to find answers.
+We agreed that the **keep** was the most likely place to find answers.
 
 Cadric applied makeup to Elisandra so she could move around outside without immediately being recognized.
 
@@ -167,7 +167,7 @@ Elisandra refused to enter the keep.
 
 ### Elder Pubert
 
-Inside, Bia and Cadric met **Elder Pubert**, one of the town's priests.
+Inside, Cadric and I met **Elder Pubert**, one of the town's priests.
 
 He is presumably the father of Pubert, the guard on the wall.
 
@@ -175,13 +175,13 @@ Elder Pubert seemed much more helpful than some of Candle Cross's other religiou
 
 ### Henry Loust
 
-Bia and Cadric also unexpectedly encountered **Henry Loust** inside the keep.
+Cadric and I also unexpectedly encountered **Henry Loust** inside the keep.
 
 Henry had a meeting with Vicar Kellan.
 
-Bia and Cadric spoke briefly with Henry before his meeting.
+We spoke briefly with Henry before his meeting.
 
-Henry already knew Ravenlost was traveling with someone who looked remarkably like the Child of Iron. We don't know what Henry told Kellan during their private meeting.
+Henry already knew we were traveling with someone who looked remarkably like the Child of Iron. We don't know what Henry told Kellan during their private meeting.
 
 ---
 
@@ -208,19 +208,19 @@ Adelaid could also get into the basement of the keep.
 
 ## Vicar Kellan
 
-Bia and Cadric eventually met with **Vicar Kellan**.
+Candric and I eventually met with **Vicar Kellan**.
 
 Kellan claimed that the Mists were a test of faith.
 
 He knew Ravenlost was looking for Henry but did not provide useful answers about what was happening.
 
-Kellan wanted Bia and Cadric to accompany him.
+Kellan wanted Cadric and me to accompany him.
 
-They refused.
+We refused.
 
-He insisted that they remain in the library.
+He insisted that we remain in the library.
 
-Then he **locked them in**.
+Then he **locked us in**.
 
 Outside, Jain and Elisandra continued investigating the keep. Jain heard three robed men discussing the need to guard the building.
 
@@ -234,7 +234,7 @@ Elisandra cast **Silence**.
 
 Cadric picked the lock.
 
-The party entered a stairway and encountered a guard.
+We entered a stairway and encountered a guard.
 
 The guard was knocked unconscious **nonlethally**.
 
@@ -275,7 +275,7 @@ Nothing happened.
 
 ## The Second Floor of the Keep
 
-While Jain, Elisandra, and Adelaid investigated below, Bia and Cadric searched upstairs.
+While Jain, Elisandra, and Adelaid investigated below, Cadric and I searched upstairs.
 
 ### Elisandra's Room
 
@@ -303,9 +303,9 @@ By the end of the session, Ravenlost had collected **three iron crowns**:
 
 ## The Orb
 
-Bia headed directly to the roof.
+I headed directly to the roof.
 
-There she found the glass sphere Adelaid had described.
+There I found the glass sphere Adelaid had described.
 
 The device included:
 
@@ -315,9 +315,9 @@ The device included:
 - red, yellow, and green buttons;
 - a slot containing a power source or battery.
 
-The technology looked similar to equipment Ravenlost had previously encountered in **Glyn's laboratory**.
+The technology looked similar to equipment we had previously encountered in **Glim's laboratory**.
 
-Cadric joined Bia on the roof and began experimenting with the controls.
+Cadric joined me on the roof and began experimenting with the controls.
 
 He pulled the lever and pressed the red button.
 
@@ -339,9 +339,9 @@ Cadric cast **Disguise Self**.
 
 Because Cadric is only three feet tall and the spell can only change his height so much, he couldn't disguise himself as the six-foot-tall adult Elisandra.
 
-Instead, he disguised himself as an approximately **14-year-old Elisandra**.
+Instead, he disguised himself as an approximately **14-year-old Elisandra**, and I lowered him down from the roof on a rope.
 
-Bia helped convince the crowd.
+I helped convince the crowd that he was Elisandra.
 
 The message was simple:
 
@@ -351,7 +351,7 @@ The crowd believed it.
 
 Unfortunately, they decided they wanted to kill Vicar Kellan.
 
-Ravenlost stopped them.
+We stopped them.
 
 Elder Pubert and others helped restrain Kellan, and approximately ten villagers agreed to guard the keep.
 
@@ -359,21 +359,21 @@ Elder Pubert and others helped restrain Kellan, and approximately ten villagers 
 
 ## Searching the Keep
 
-Bia returned the young Elisandra’s clothes to her room.
+I returned the young Elisandra’s clothes to her room.
 
-She then searched the room and found a **bedazzled Bag of Holding**.
+I then searched the room and found a **bedazzled Bag of Holding**.
 
 It was labeled:
 
 **Eli**
 
-Bia kept it overnight and gave it to Elisandra the following morning.
+I kept it overnight and gave it to Elisandra the following morning.
 
 ---
 
 ## Destroying the Orb
 
-The party needed to decide what to do with the sphere.
+We needed to decide what to do with the sphere.
 
 Elisandra cast **Augury** to determine whether destroying it was a good idea.
 
@@ -401,11 +401,11 @@ Something dark escaped upward.
 
 The Mists disappeared.
 
-Bia ran to the roof and looked down in the moat for Jani.
+I ran to the roof and looked down in the moat for Jain.
 
 Jain was floating motionless in the moat.
 
-Bia went down and pulled her from the water.
+I went down and pulled her from the water.
 
 Jain was fine.
 
@@ -447,7 +447,7 @@ The town's walls were not magically protecting anyone.
 
 Elder Pubert began encouraging the people of Candle Cross to reconsider their beliefs and understand that they could leave the town safely.
 
-Ravenlost took a long rest.
+We took a long rest.
 
 ---
 
@@ -463,23 +463,23 @@ People were discussing:
 
 Adelaid was packed and apparently ready to do exactly that.
 
-Bia gave Elisandra the bedazzled **"Eli" Bag of Holding** she had found in Elisandra's old room.
+I gave Elisandra the bedazzled **"Eli" Bag of Holding** I had found in Elisandra's old room.
 
-Ravenlost left Candle Cross and continued north.
+We left Candle Cross and continued north.
 
 ---
 
 ## Henry Loust and the House on Griffin Hill
 
-Outside Candle Cross, Ravenlost encountered **Henry Loust** again.
+Outside Candle Cross, we encountered **Henry Loust** again.
 
-Henry gave **Bia a letter**.
+Henry gave **me a letter**.
 
 The letter grants Ravenlost access to the **House on Griffin Hill**, where Henry wants the party to meet his master, **Lord Godfrey**.
 
 The party plans to continue north toward **Mordenshire** and eventually visit the House on Griffin Hill.
 
-Henry also pointed the party toward Mordenshire's market square for supplies.
+Henry also pointed us toward Mordenshire's market square for supplies.
 
 ### Cadric's Coin
 
@@ -529,11 +529,11 @@ Man transporting empty barrels toward Waterford. Bia helped repair his wagon.
 
 Ravenlost's original employer. Met twice during this session: first inside the Candle Cross keep and again after the party left town.
 
-He gave Bia the letter for the House on Griffin Hill.
+He gave me the letter for the House on Griffin Hill.
 
 ### Lord Godfrey
 
-Henry Loust's master. Ravenlost has been invited to meet him at the **House on Griffin Hill**.
+Henry Loust's master. We have been invited to meet him at the **House on Griffin Hill**.
 
 ### Rudolf von Richten
 
@@ -626,7 +626,7 @@ Did Henry reveal that Ravenlost was traveling with someone who looked like the C
 
 Why does Lord Godfrey want to meet Ravenlost?
 
-What does Henry's master need Ravenlost to do?
+What does Henry's master need us to do?
 
 ### Cadric's Coin
 
@@ -636,8 +636,8 @@ Why does it seem to move when Cadric looks away?
 
 What is the significance of the black feather?
 
-### Glyn
+### Glim
 
-Is Glyn still heading toward **Abbey Point**?
+Is Glim still heading toward **Abbey Point**?
 
-Is there a connection between Glyn's work and the device Ravenlost found in Candle Cross?
+Is there a connection between Glim's work and the device Ravenlost found in Candle Cross?
