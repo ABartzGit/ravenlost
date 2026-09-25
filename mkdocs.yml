@@ -56,9 +56,6 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-markdown_extensions:
-  - attr_list
-
 # Site navigation
 nav: 
   - Level 1:
@@ -70,7 +67,7 @@ nav:
     - Shaking things up in Waterford: chapters/chapter03/chapter-03-waterford-battles.md
     - Home is where the horrors are: chapters/chapter03/chapter-03-home-is-where-the-horrors-are.md
     - The Child of Iron: chapters/chapter03/chapter-03-the-child-of-iron.md
-    - “It wasn't me” in Mordenshire (Draft): chapters/chapter03/chapter-03-it-wasnt-me-in-mordenshire.md
+    - “It wasn't me” in Mordenshire: chapters/chapter03/chapter-03-it-wasnt-me-in-mordenshire.md
   - Notes:
     - Level 1:
        - Bia's notes - Four strangers in the Mists: notes/chapter01/chapter-01-session-notes.md
@@ -81,6 +78,7 @@ nav:
       - Bia's notes - Shaking things up in Waterford: notes/chapter03/chapter-03-session-notes-01.md
       - Bia's notes - Home is where the horrors are: notes/chapter03/chapter-03-session-notes-02.md
       - Bia's notes - The Child of Iron: notes/chapter03/chapter-03-session-notes-03.md
+      - Bia's notes - “It wasn't me” in Mordenshire: notes/chapter03/chapter-03-session-notes-04.md
   - Reference:
     - People & beings: reference/people-and-beings.md
     - Places: reference/places.md
