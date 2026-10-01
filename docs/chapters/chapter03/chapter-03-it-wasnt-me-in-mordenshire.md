@@ -58,11 +58,19 @@ With rooms secured, identities thoroughly muddled, and at least one mysterious m
 
 At Pyrite's Booty, they sold their accumulated bounty, including Lord Waterford's jeweled walking stick, for 4,000 gold. Thankfully, the owner didn’t ask too many questions.
 
-At Hammerbarn’s Blacksmoth, Bia sold her extra greataxe for 27 gold. Jain left her shortsword to be imbued with silver, a process that would take a week. Cadric considered doing the same, but the blacksmith could only work on one weapon at a time. His sword wouldn't be finished until a week after Jain's, so Cadric decided to keep it.
+At Hammerbarn’s Blacksmith, Bia sold her extra greataxe for 27 gold. Jain left her shortsword to be imbued with silver, a process that would take a week. Cadric considered doing the same, but the blacksmith could only work on one weapon at a time. His sword wouldn't be finished until a week after Jain's, so Cadric decided to keep it.
 
-At Atom's Arcana, the party found plenty of magical items they couldn't afford.
+At Atim's Arcana, the party found plenty of magical items they couldn't afford:
 
-Cadric found one he could. He purchased an Eversmoking Bottle for 950 gold.
+- Slippers of spider walking: 5,000 gold
+- Silver gauntlets of Ogre strength: 8,000 gold
+- Cloak of protection: 3,500 gold
+- A circle of thinking, scorching gray metal that adds +5 to HP: 1,500 gold
+- A pair of green boots of elven kind: 2,500 gold
+- A pair of bracers that add +2 to AC: 6,000 gold
+- A gold necklace with orange beads: 1,600 gold
+
+Cadric found one item he could afford. He purchased an Eversmoking Bottle. Originally priced at 1000 gold, he negotiated the price down to 950 gold and also received a punch card for 10% off after 5 punches. 1 down, 4 to go.
 
 Then Ravenlost went to visit Rudolph Van Richten, the herbalist that Jennifer and Lori recommended they go see when they got to Mordenshire.
 
