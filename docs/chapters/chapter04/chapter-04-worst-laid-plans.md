@@ -2,7 +2,7 @@
 
 > *I love it when a plan comes together! But with Ravenlost, it rarely does.*
 
-<img src="../../../images/chapter-04-secret-seasoning.png" alt="Cadric spreading some hemlock in a bowl of stew" class="chapter-art">
+<img src="../../../images/chapter-04-secret-seasoning.png" alt="Cadric sprinkling some hemlock in a bowl of stew" class="chapter-art">
 
 --- 
 
