@@ -32,7 +32,9 @@ The mayor already had employee badges for Cadric and Elisandra. The plan:
 
 We left our weapons and armor at the garrison before going in the next day.
 
-We had one goal. Investigate what was happening at the sanatorium.
+We had one goal. **Investigate what was happening at the sanatorium**.
+
+What could go wrong?
 
 ---
 
