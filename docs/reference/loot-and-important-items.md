@@ -23,7 +23,7 @@ A quick-reference list of significant loot, magic items, valuables, quest object
 | **Lute** | Cadric | DeLawrence Pouchenelle manor | Magic lute recovered before the manor was burned. |
 | **Boots** | Bia | DeLawrence Pouchenelle manor | Magic boots recovered before the manor was burned. |
 | **Contacts** | Elisandra | DeLawrence Pouchenelle manor | Magic contacts recovered before the manor was burned. |
-| **Potion of Growth** | Used | DeLawrence Pouchenelle manor | Cadric drank it inside the Mordenshire Sanatorium so he could grow to approximately Dr. Caroline's height before casting Disguise Self. |
+| **Potion of Growth** | Used | DeLawrence Pouchenelle manor | Recovered with the manor's magic items and potions.<br>Cadric drank it inside the Mordenshire Sanatorium so he could grow to approximately Dr. Caroline's height before casting Disguise Self. |
 | **Potion of Giant Strength** | Bia | DeLawrence Pouchenelle manor | Recovered with the manor's magic items and potions. |
 | **Potion of Fire Breathing** | Elisandra | DeLawrence Pouchenelle manor | Recovered with the manor's magic items and potions. |
 | **Potion of Animal Friendship** | Jain | DeLawrence Pouchenelle manor | Recovered from the manor. |
@@ -44,5 +44,5 @@ A quick-reference list of significant loot, magic items, valuables, quest object
 | **Silver-imbued shortsword** | Jain / at Hammerbarn | Hammerbarn's Blacksmith | Jain's shortsword was left to be imbued with silver. Expected to take about one week. |
 | **EC Lights** | Cadric and Elisandra / commissioned | Hammerbarn's Blacksmith | Reusable magical lights designed by Cadric and Elisandra using *Continual Flame*, with removable caps. |
 | **+1 shortsword** | Cadric / borrowed | House on Griffin Hill | Loaned by Lord Godfroy. Godfroy can scry on Cadric through the sword. |
-| **Atim's Arcana punch cards** | Cadric | Atim's Arcana / Mordenshire | Cadric received a store punch card after purchasing the Eversmoking Bottle and later received another punch card worth 25% off a future item. |
+| **Atim's Arcana punch cards** | Cadric | Atim's Arcana / Mordenshire | Cadric received a store punch card worth 10% off a future item after purchasing the Eversmoking Bottle and later received another punch card worth 25% off a future item from the Captain in Mordenshire. |
 | **Jordan's tarnished silver coin** | Cadric | Connected to Jordan's disappearance | Found wrapped in a black feather. Bears an engraved symbol that seems to shift when Cadric looks away. |
