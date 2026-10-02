@@ -14,6 +14,8 @@ The captain also provided Cadric with one more valuable item. Another punch card
 
 The party left their weapons and armor behind at the garrison. If they were going to learn what was happening inside the sanatorium, they would have to do it without looking like adventurers. Then they all stayed at the Salty Dog for the night.
 
+They had one goal: **Investigate what was happening at the sanatorium**.
+
 A plan was in place. And Jain would go first.
 
 ## The ruckus at the docks
