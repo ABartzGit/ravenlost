@@ -18,6 +18,8 @@ They had one goal: **Investigate what was happening at the sanatorium**.
 
 A plan was in place. And Jain would go first.
 
+What could go wrong?
+
 ## The ruckus at the docks
 
 The next morning at 6:00 AM, Jain arrived at the docks. She began stumbling around, groaning and clutching her head. When a concerned sailor approached, Jain grabbed his arm and shrieked, "She's coming!" She made herself appear more wolf-like and continued howling.
