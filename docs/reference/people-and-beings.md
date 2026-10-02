@@ -4,7 +4,7 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 
 | **Name** | **Type** | **First encountered** | **Notes** |
 | --- | --- | --- | --- |
-| **Henry Loust** | Spirit | Black Lantern Inn | Ravenlost's original employer. Initially hired the party on behalf of Lady Estella Godfroy. Later encountered in Candle Cross and gave Bia a letter granting Ravenlost access to the House on Griffin Hill to meet Lord Godfrey. |
+| **Henry Loust** | Spirit | Black Lantern Inn | Ravenlost's original employer. Initially hired the party on behalf of Lady Estella Godfroy. Later encountered in Candle Cross and gave Bia a letter granting Ravenlost access to the House on Griffin Hill to meet Lord Godfroy. |
 | **Lady Estella Godfroy** | Human / patroness | Black Lantern Inn | Henry Loust's patroness and a member of the Mordent Godfroy family. Wanted Glim Brightstone's journal recovered. |
 | **Glim Brightstone** | Dwarf alchemist | Glim Brightstone's laboratory | Disappeared about 65 years ago. Developed an apparatus that could chart a path through the Mists and potentially interfere with a dreadlord's control. A clockwork ballerina at the DeLawrence Pouchenelle manor suggests someone in that family knew him personally. |
 | **Cedgewick** | Automaton | Glim Brightstone's laboratory | Butler automaton created by Glim. Stored Glim's journal entries on wax recording tubes. Portions of his memory were deliberately erased. |
@@ -31,8 +31,8 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 | **Lori** | Human / monster hunter | Cave between Crawford and Waterford | Jennifer's quieter sister and fellow monster hunter. Daughter of Alice. |
 | **Joan** | Dog | Cave between Crawford and Waterford | One of Jennifer and Lori's hunting dogs. Has silver caps fitted over the teeth. |
 | **Tiron** | Dog | Cave between Crawford and Waterford | One of Jennifer and Lori's hunting dogs. Has silver caps fitted over the teeth. |
-| **Alice** | Human | Heard of near Waterford | Jennifer and Lori's mother and mayor of Mordenshire. |
-| **Rudolf von Richten** | Human / monster hunter and herbalist | Heard of near Waterford | Monster hunter and occult expert in Mordenshire. Henry later suggested Cadric take Jordan's strange coin to him. |
+| **Alice Heatherman** | Human | Mordenshire | Mayor of Mordenshire and mother of Jennifer and Lori. Working with Captain Kilm O'Connell on Ravenlost's investigation of the sanatorium. |
+| **Rudolph Van Richten** | Human / monster hunter and herbalist | Van Richten's Herbalist, Mordenshire | Monster hunter and occult expert in Mordenshire. Helped Ravenlost contain a creature released from a mummified cat and shared information about the Mists, Lord Godfroy, and Glim Brightstone. |
 | **Farrow** | Human | Waterford | Operates Farrow and Thorn. Hired Ravenlost to recover Lady Waterford's portrait and Lord Waterford's jeweled cane. |
 | **Lord Waterford** | Spirit | Waterford family mausoleum | Ghost who guided Ravenlost through the family mausoleum. Husband of Lady Waterford. |
 | **Lady Waterford** | Spirit / portrait | Waterford / Argent River | Born a DeLawrence Pouchenelle. Her portrait communicated with Jain and wanted to go "home." |
@@ -47,7 +47,26 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 | **Elder Pubert** | Human / priest | Candle Cross keep | Priest who helped Ravenlost during the confrontation with Vicar Kellan and its aftermath. |
 | **Vicar Kellan** | Human / priest | Candle Cross keep | Religious leader involved in the Child of Iron religion. Eventually placed in the stocks. |
 | **Adelaid** | Human | Candle Cross | Elisandra's childhood friend, companion, and "it's complicated." Helped Elisandra escape Candle Cross ten years earlier. |
-| **Lord Godfrey** | Unknown | Heard of outside Candle Cross | Henry Loust's master. Ravenlost has been invited to meet him at the House on Griffin Hill. |
+| **Lord Godfroy** | Dreadlord | House on Griffin Hill | Hired Ravenlost to investigate three leads connected to Glim Brightstone and locate a larger Glim battery. Offered 15,000 gp to each party member. |
+| **Alenta** | Gnome | Blackcard, Mordenshire | Elderly innkeeper at the Blackcard. Keeps an old grimoire behind the front desk. |
+| **Menda** | Human | Salty Dog, Mordenshire | Innkeeper at the Salty Dog. Jain and Elisandra initially registered with her under the name "Jainisandra." |
+| **Beatrice** | Human | Van Richten's Herbalist | Rudolph Van Richten's employee. Ravenlost found her injured outside the shop after she was attacked by something inside. |
+| **Madeline** | Human, deceased | Blackcard, Mordenshire | Barmaid at the Blackcard and fourth known victim of Mordenshire's murderer. Her body was found near the docks. |
+| **Captain Kilm O'Connell** | Human | Mordenshire garrison | Mordenshire captain. Questioned Jain about Madeline's murder and recruited Ravenlost to investigate the sanatorium. |
+| **Dr. Caroline Resdonna** | Human | Mordenshire Sanatorium | Currently controls the sanatorium. Arrived with Dr. Dave about 18 months ago and remodeled part of the former high-security wing into the ICU. |
+| **Dr. Dave** | Human | Mordenshire Sanatorium | Doctor who arrived with Dr. Caroline about 18 months ago. One of the few people known to work in the ICU. |
+| **Dr. Van Larder** | Human | Mordenshire Sanatorium | Elderly doctor who has worked at the sanatorium for 43 years. Does not work in the ICU. |
+| **Peter** | Human | Mordenshire Sanatorium | Night watchman and Cadric's supervisor while Cadric is undercover as the groundskeeper. |
+| **Helen** | Human | Mordenshire Sanatorium | Nighttime janitor who trained Elisandra on her duties while undercover. |
+| **Cookie** | Human | Mordenshire Sanatorium | Sanatorium cook. Befriended Cadric and helped him learn Dr. Caroline's eating habits. |
+| **Belinda** | Human | Mordenshire Sanatorium | Intake nurse who handled Jain's admission and placed her in Wendel's old room. |
+| **Randolph** | Human | Mordenshire Sanatorium | Lower-security patient from Mordent who has been at the sanatorium about two years. |
+| **Janice** | Human | Mordenshire Sanatorium | Lower-security patient from Mordent who has been at the sanatorium about three years. Told Bia about the ICU and changes made by Dr. Caroline. |
+| **Robert** | Human | Mordenshire Sanatorium | Lower-security patient originally from Barovia. Says he became lost in the Mists and eventually arrived in Mordent. |
+| **Wendel** | Human | Heard of at Mordenshire Sanatorium | Former occupant of Jain's room. Taken to the ICU about a week before Ravenlost arrived and has not returned. |
+| **Trashcan** | Unknown | Mordenshire Sanatorium | High-security patient who likes to stay inside a trashcan. |
+| **Mikhail Hatsamamous** | Human | Heard of at House on Griffin Hill | Established a hospital in Falkovnia for people suffering from the region's undead affliction. One of Lord Godfroy's leads concerning Glim Brightstone. |
+| **Mist Horror** | Creature | Heard of from Van Richten | Incorporeal predator that uses fear to lure victims and can take forms meaningful to them. Van Richten believes Jain may have encountered one outside Candle Cross. |
 | **Glyn** | Unknown | Heard of during Ravenlost's travels | Connected to the mysterious draft and reportedly headed toward Abbey Point. |
 | **Jordan** | Unknown | Heard of through Cadric | Missing person connected to Cadric's tarnished silver coin and black feather. |
 | **Korath** | Unknown | Bia's past | Name connected to Bia's childhood attack. Identity and significance remain unknown. |

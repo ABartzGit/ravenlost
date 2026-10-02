@@ -27,9 +27,21 @@ A quick-reference list of places Ravenlost has visited or heard about.
 | **Candle Cross keep** | Keep | Visited | Seat of Vicar Kellan. Contained Elisandra's preserved room, hidden cavern, and Mist-controlling orb. |
 | **Florence's inn** | Inn | Visited | Ravenlost's lodging in Candle Cross. |
 | **Arden River** | River | Visited / passed | Candle Cross is built beside it. |
-| **Mordenshire** | City / town | Heard of; current destination | Home of Alice and Rudolf von Richten. Ravenlost is traveling toward it. |
+| **Mordenshire** | City / town | Visited / current location | Large coastal town and harbor in Mordent. Home of Rudolph Van Richten, the House on Griffin Hill, and a sanatorium Ravenlost is investigating. |
+| **Blackcard** | Inn | Visited | Merchant-oriented inn in central Mordenshire. Bia and Cadric stayed here, and Cadric performed in the tavern. |
+| **Salty Dog** | Inn | Visited | Inn near the sanatorium. Jain and Elisandra stayed here under the name "Jainisandra." |
+| **The Seventh Sea** | Inn | Heard of | Coastal inn in Mordenshire. |
+| **Pyrite's Booty** | Shop | Visited | Mordenshire shop where Ravenlost sold much of its accumulated treasure. |
+| **Hammerbarn's Blacksmith** | Blacksmith | Visited | Mordenshire smith where Jain left her shortsword to be silvered and Cadric and Elisandra commissioned their EC Lights. |
+| **Atim's Arcana** | Magic shop | Visited | Mordenshire magic shop where Cadric purchased an Eversmoking Bottle. |
+| **Van Richten's Herbalist** | Herbalist / residence | Visited | Rudolph Van Richten's shop and residence. Contains his research and a basement ritual chamber. |
+| **Mordenshire garrison** | Garrison | Visited | Headquarters of Captain Kilm O'Connell. Ravenlost left its weapons and armor here before infiltrating the sanatorium. |
+| **Mordenshire Sanatorium** | Sanatorium | Current / infiltrating | Three-story facility with a basement. Dr. Caroline controls it with little town oversight. Ravenlost is investigating the ICU, restricted third floor, and possible connection to the Mordenshire murders. |
 | **Glaston** | Settlement / region | Heard of | Rumors say druids near Glaston are trying to find a way through the Mists. |
 | **Abbey Point** | Location | Heard of | Glyn reportedly traveled there with the mysterious draft. |
-| **House on Griffin Hill** | Manor / house | Heard of; planned destination | Henry gave Bia a letter granting Ravenlost access to meet Lord Godfrey here. |
+| **House on Griffin Hill** | Manor / house | Visited | Lord Godfroy's estate outside Mordenshire. Ravenlost noticed apparently spectral groundskeepers, disturbed earth, and strange sounds and vibrations beneath the manor. Godfroy hired Ravenlost here to investigate three leads connected to Glim Brightstone. |
+| **Welkspring House** | House | Heard of | Located on Echo Island. One of Lord Godfroy's leads concerning Glim; strange blue writing there reportedly prevents ghosts from entering. |
+| **Cauldron of Tepist** | Location | Heard of | Contains fountains associated with resurrection. Godfroy believes they may have inspired part of Glim's apparatus. |
+| **Falkovnia** | Domain | Heard of | Location of Mikhail Hatsamamous and his hospital. One of Godfroy's three leads concerning Glim. |
 | **Griffin Hill** | Region / landmark | Heard of | Associated with Mordent and the Godfroys. |
 | **Godfroy's Manor** | Manor | Heard of | Lord and Lady Waterford were traveling toward a gala there when they died. |
