@@ -32,7 +32,7 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 | **Joan** | Dog | Cave between Crawford and Waterford | One of Jennifer and Lori's hunting dogs. Has silver caps fitted over the teeth. |
 | **Tiron** | Dog | Cave between Crawford and Waterford | One of Jennifer and Lori's hunting dogs. Has silver caps fitted over the teeth. |
 | **Alice Heatherman** | Human | Mordenshire | Mayor of Mordenshire and mother of Jennifer and Lori. Working with Captain Kilm O'Connell on Ravenlost's investigation of the sanatorium. |
-| **Rudolph Van Richten** | Human / monster hunter and herbalist | Van Richten's Herbalist, Mordenshire | Monster hunter and occult expert in Mordenshire. Helped Ravenlost contain a creature released from a mummified cat and shared information about the Mists, Lord Godfroy, and Glim Brightstone. |
+| **Rudolf von Richten** | Human / monster hunter and herbalist | Van Richten's Herbalist, Mordenshire | Monster hunter and occult expert in Mordenshire. Helped Ravenlost contain a creature released from a mummified cat and shared information about the Mists, Lord Godfroy, and Glim Brightstone. |
 | **Farrow** | Human | Waterford | Operates Farrow and Thorn. Hired Ravenlost to recover Lady Waterford's portrait and Lord Waterford's jeweled cane. |
 | **Lord Waterford** | Spirit | Waterford family mausoleum | Ghost who guided Ravenlost through the family mausoleum. Husband of Lady Waterford. |
 | **Lady Waterford** | Spirit / portrait | Waterford / Argent River | Born a DeLawrence Pouchenelle. Her portrait communicated with Jain and wanted to go "home." |
@@ -47,7 +47,7 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 | **Elder Pubert** | Human / priest | Candle Cross keep | Priest who helped Ravenlost during the confrontation with Vicar Kellan and its aftermath. |
 | **Vicar Kellan** | Human / priest | Candle Cross keep | Religious leader involved in the Child of Iron religion. Eventually placed in the stocks. |
 | **Adelaid** | Human | Candle Cross | Elisandra's childhood friend, companion, and "it's complicated." Helped Elisandra escape Candle Cross ten years earlier. |
-| **Lord Godfroy** | Dreadlord | House on Griffin Hill | Hired Ravenlost to investigate three leads connected to Glim Brightstone and locate a larger Glim battery. Offered 15,000 gp to each party member. |
+| **Lord Godfroy** | Dreadlord | Heard of outside Candle Cross | Henry Loust's master. Hired Ravenlost to investigate three leads connected to Glim Brightstone and locate a larger Glim battery. Offered 15,000 gp to each party member. |
 | **Alenta** | Gnome | Blackcard, Mordenshire | Elderly innkeeper at the Blackcard. Keeps an old grimoire behind the front desk. |
 | **Menda** | Human | Salty Dog, Mordenshire | Innkeeper at the Salty Dog. Jain and Elisandra initially registered with her under the name "Jainisandra." |
 | **Beatrice** | Human | Van Richten's Herbalist | Rudolph Van Richten's employee. Ravenlost found her injured outside the shop after she was attacked by something inside. |
@@ -67,6 +67,5 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 | **Trashcan** | Unknown | Mordenshire Sanatorium | High-security patient who likes to stay inside a trashcan. |
 | **Mikhail Hatsamamous** | Human | Heard of at House on Griffin Hill | Established a hospital in Falkovnia for people suffering from the region's undead affliction. One of Lord Godfroy's leads concerning Glim Brightstone. |
 | **Mist Horror** | Creature | Heard of from Van Richten | Incorporeal predator that uses fear to lure victims and can take forms meaningful to them. Van Richten believes Jain may have encountered one outside Candle Cross. |
-| **Glyn** | Unknown | Heard of during Ravenlost's travels | Connected to the mysterious draft and reportedly headed toward Abbey Point. |
 | **Jordan** | Unknown | Heard of through Cadric | Missing person connected to Cadric's tarnished silver coin and black feather. |
 | **Korath** | Unknown | Bia's past | Name connected to Bia's childhood attack. Identity and significance remain unknown. |
