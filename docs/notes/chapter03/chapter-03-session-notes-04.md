@@ -227,7 +227,7 @@ We told Van Richten about the strange machine beneath Candle Cross.
 
 He thought it might be connected to **Glim Brightstone** and may have contained a **Glim battery**.
 
-This sounds similar to the technology we found in the laboratory near the Black Lantern Inn, where we left **Sedgwick**.
+This sounds similar to the technology we found in the laboratory near the Black Lantern Inn, where we left **Cedgewick**.
 
 Van Richten has also heard rumors about the apparatus Godfroy is seeking.
 
@@ -723,7 +723,7 @@ Was the machine beneath Candle Cross powered by one?
 
 How is the laboratory near the Black Lantern Inn connected?
 
-Is Sedgwick still there?
+Is Cedgewick still there?
 
 ### Godfroy's apparatus
 
