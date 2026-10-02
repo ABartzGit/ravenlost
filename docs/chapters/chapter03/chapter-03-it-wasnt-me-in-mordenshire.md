@@ -148,7 +148,7 @@ The party also described the strange machine beneath Candle Cross. This caught V
 
 He thought the device might be connected to **Glim Brightstone**. More specifically, it might have contained a **Glim battery**.
 
-Ravenlost had seen Glim's technology before. The laboratory near the Black Lantern Inn contained damaged machinery, possible batteries, and Sedgwick, the automaton they had left behind.
+Ravenlost had seen Glim's technology before. The laboratory near the Black Lantern Inn contained damaged machinery, possible batteries, and Cedgewick, the automaton they had left behind.
 
 Suddenly, that laboratory seemed considerably more important.
 
@@ -444,7 +444,7 @@ Something was happening beneath Griffin Hill.
 
 The strange light Jain had seen moving through the fog remained unexplained.
 
-Sedgwick was still somewhere in Glim's old laboratory.
+Cedgewick was still somewhere in Glim's old laboratory.
 
 And Ravenlost still didn't know what Lord Godfroy intended to do if they actually brought him the apparatus he wanted.
 
