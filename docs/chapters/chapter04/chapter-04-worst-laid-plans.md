@@ -320,8 +320,6 @@ Perfect.
 
 Cookie prepared her bowl of stew. Cadric made sure it was seasoned with something extra.
 
-Hemlock.
-
 ---
 
 ## Dinner with Dr. Caroline
@@ -363,3 +361,5 @@ Dr. Dave had no interest in trying to figure out what was going on. Instead he r
 Fireball.
 
 And everything went to hell.
+
+> **Last updated: **
