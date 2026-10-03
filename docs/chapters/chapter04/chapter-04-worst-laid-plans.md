@@ -361,5 +361,3 @@ Dr. Dave had no interest in trying to figure out what was going on. Instead he r
 Fireball.
 
 And everything went to hell.
-
-> **Last updated: **
