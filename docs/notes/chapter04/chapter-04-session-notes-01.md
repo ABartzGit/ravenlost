@@ -184,10 +184,14 @@ Previous occupant of Jain's room.
 
 ### Trashcan
 
-Patient in the high-security area.
-
-- Apparently likes being inside a trashcan.
-- Responded to Jain's attempts to communicate with the other patients.
+- A patient who lives inside a trashcan and has apparently been at the sanatorium for more than two years.
+- Jain discovered that she could communicate with him by asking yes-or-no questions:
+  - Trash = yes
+  - Can = no
+- Trashcan confirmed that he had been at the sanatorium for more than two years and that he collects trash.
+- Jain told him that she wanted to escape and asked if he could help her get out. Trashcan shuffled closer to her cell. After Jain unsuccessfully tried to pick her lock without tools, Trashcan said, "Trash," reached inside his trashcan, and produced a lock. It wasn't particularly useful, but he appeared to understand what Jain wanted and attempted to help.
+- Dr. Dave later told Sandra that the staff have been trying for years to get Trashcan out of the trashcan, but that he becomes "a different being" when outside it.
+- Still unclear: What exactly Trashcan is, why he refuses to leave the trashcan, and how freely he can move around the sanatorium.
 
 ---
 
