@@ -6,11 +6,13 @@
 
 ---
 
-After leaving Lord Godfroy's, the party stopped at a courier for Bia to send two letters and one platinum piece back home. They then returned to the mayor's residence and agreed to begin their investigation of the sanatorium the following morning.
+After leaving Lord Godfroy's, the party stopped at a courier for Bia to send two letters and one platinum piece back home. The cost for sending a courier through the Mists with two letters was 4 gold.
+
+Ravenlost then returned to the mayor's residence and agreed to begin their investigation of the sanatorium the following morning.
 
 The mayor was already prepared: she had employee badges ready for Cadric and Elisandra, who would enter as a groundskeeper and janitor. Getting Bia and Jain inside required a little more creativity. Together with the mayor and the captain, the party worked out a plan for each of them to cause a separate public disturbance serious enough to get themselves committed to the sanatorium.
 
-The captain also provided Cadric with one more valuable item. Another punch card for Atim’s Arcana worth 25% off of a future item!
+The captain also provided Cadric with one more valuable item: another punch card for Atim’s Arcana worth 25% off a future item!
 
 The party left their weapons and armor behind at the garrison. If they were going to learn what was happening inside the sanatorium, they would have to do it without looking like adventurers. Then they all stayed at the Salty Dog for the night.
 
@@ -38,7 +40,7 @@ Inside the sanatorium, Jain did little to convince anyone that there had been a 
 
 As Jain got closer, the orderly grabbed his stick tighter. Seeing this, Jain returned to her corner.
 
-"Put her in **Wendel's **old room," Belinda instructed.
+"Put her in **Wendel's** old room," Belinda instructed.
 
 "My name is Wendel!" said Jain.
 
@@ -68,7 +70,7 @@ They also got their first look at the sanatorium's enormous, bald orderlies. Nea
 
 And both new employees learned one particularly interesting rule:
 
-**The third floor was off limits.**
+**The third floor was off limits.** That was Dr. Caroline's quarters.
 
 ---
 
@@ -104,6 +106,12 @@ Elisandra examined the corpse and discovered that the skull had been opened. The
 
 Elisandra couldn't determine exactly what had been done to the woman or why.
 
+Cadric also made a new friend in the kitchen: **Cookie**, the sanatorium's cook. While learning the staff's routines, Cadric began spending time talking with him and offered to help out in the kitchen. Cookie mentioned that he wanted to do some baking but needed butter, something Cadric could easily pick up in town after finishing his work for the day.
+
+Cadric happily volunteered.
+
+The friendship also gave him another useful source of information. Cookie knew the sanatorium's meal routines, including when and where Dr. Caroline ate.
+
 ---
 
 ## Isolation
@@ -124,29 +132,15 @@ The elevator door opened. Jain ran out and ran straight into two orderlies, one 
 
 ## The other patients
 
-Bia soon met three of the sanatorium's other patients: **Randal**, **Janice**, and **Robert**. Randal had been there for about two years, Janice for three, and Robert for six months. Randal and Janice were Mordent citizens. Robert was originally from Barovia and claimed that he had become lost in the Mists before eventually finding himself here.
+From her cell on the first floor, Bia was able to chat with three of the sanatorium's other patients: **Randal**, **Janice**, and **Robert**. Randal had been there for about two years, Janice for three, and Robert for six months. Randal and Janice were Mordent citizens. Robert was originally from Barovia and claimed that he had become lost in the Mists before eventually finding himself here.
 
-They described to Bia that life in the lower-security wing wasn't particularly bad, as long as you didn't cause too much trouble. They had access to a nice common room with books and games, there was arts and crafts time, and if you were lucky enough, you could work on the farm or in the garden. But Bia's behavior had already caught the staff's attention, and the other patients warned her that if they believed she might become a threat to herself or others, she could end up in intensive care.
+They explained that life in the lower-security wing wasn't particularly bad, as long as you didn't cause too much trouble. They had access to a nice common room with books and games, there was arts and crafts time, and if you were lucky enough, you could work on the farm or in the garden. But Bia's behavior had already caught the staff's attention, and the other patients warned her that if they believed she might become a threat to herself or others, she could end up in intensive care.
 
 When Bia asked what was so bad about the ICU, their answer was simple:
 
 "You generally don't come back."
 
 They had a particularly recent example. Wendel had been taken to the ICU a week earlier and still hadn't returned. Janice also explained that the area had once simply been the high-security wing. Dr. Caroline had begun remodeling it after taking over the sanatorium, turning part of it into the intensive care unit.
-
-Dr. Caroline arrived shortly after to check on Bia, and Bia continued her story about the approaching undead army. Dr. Caroline eventually offered to take her upstairs and prove that the town was safe.
-
-On the second floor, she seated Bia beside a large window overlooking Mordenshire. From there, Bia had a clear view of the town and the surrounding area. Dr. Caroline assured her that nothing was coming and told her she could stay there and keep watch as long as she wanted.
-
-Bia happily accepted the assignment and remained there with an orderly. While there, she also met Dr. Van Larder. She learned that he had worked at the sanatorium for 43 years, but he didn't work in the ICU.
-
-"Only Dr. Caroline and **Dr. Dave** go in there."
-
-He also told her that Dr. Dave had arrived with Dr. Caroline 18 months ago, and the two were old friends.
-
-Before leaving, Dr. Caroline unlocked the door to the ICU and stepped inside. Bia caught a brief glimpse through the open door. Unlike the sterile linoleum and hospital-like appearance of the rest of the sanatorium, this room looked more like a private therapist's office, with oak paneling, a leather chaise and a chair beside it. Another door on the far side led deeper into the ICU.
-
-It wasn't much, but after what the other patients had told her about people going into intensive care and never returning, Bia now knew where the ICU was and had seen at least a little of what was waiting inside.
 
 ---
 
@@ -160,9 +154,9 @@ Curious, Elisandra crumpled up a piece of paper and offered it as tribute. The l
 
 The trashcan then began slowly shuffling across the floor.
 
-When Elisandra asked the nurse what his deal was, she learned that **Trashcan** had been at the sanatorium longer than the nurse had worked there. Later, Elisandra asked Dr. Dave about him. Dr. Dave explained that the staff had been trying for years to coax Trashcan out of his chosen home, but there was a complication.
+When Elisandra asked the nurse what his deal was, she learned that **Trashcan** had been at the sanatorium longer than the nurse had worked there. Later, Elisandra asked Dr. Dave about him.Dr. Dave explained that the staff had been trying for years to get Trashcan out of the trashcan, but there was a complication.
 
-"He is a different being if he’s outside of the trashcan."
+"He's a different being if he’s outside of the trashcan."
 
 Elisandra pointed out the obvious flaw in the sanatorium's treatment plan: if they wanted him to stop believing he was a trashcan, perhaps letting him continue living inside one wasn't helping.
 
@@ -172,9 +166,9 @@ Elisandra pointed out the obvious flaw in the sanatorium's treatment plan: if th
 
 Jain woke to a nurse bringing cold stew to her cell. She took the bowl of stew and threw it at the cell bars. The nurse, who had a black eye, just sighed. This wasn't the response Jain was looking for, so she peed on the wall. That's when she noticed she wasn't the first to do so. Not wanting to be outdone by Wendel or others, Jain then pooped on the drain.
 
-The nurse sent Elisandra in to clean it. Elisandra appeared in Jain’s cell a few moments later. After cleaning several areas of the hospital, Elisandra couldn't help but notice that Jain's room was much more disgusting than the others. After cleaning the cell, she inquired about this to the nurse, and the nurse blamed Wendel.
+The nurse sent Elisandra in to clean it. Elisandra appeared in Jain’s cell a few moments later. After cleaning several areas of the hospital, Elisandra couldn't help but notice that Jain's room was much more disgusting than the others. After cleaning the cell, she asked the nurse why it was in such bad condition, and the nurse blamed Wendel.
 
-Now that her room was free from urine and feces, Jain took a closer look around. Her cell was badly damaged with chipping paint and loose, shifting floorboards. She also saw writing on some of the walls and part of the floor. As she removed more parts of the wall and floorboards, she found the messages continued there as well.
+Now that her room was free from urine and feces, Jain took a closer look around. Her cell was badly damaged, with chipping paint and loose, shifting floorboards. She also saw writing on some of the walls and part of the floor. As she removed more parts of the wall and floorboards, she found the messages continued there as well.
 
 The writing repeated the same two unsettling phrases:
 
@@ -184,9 +178,39 @@ The writing repeated the same two unsettling phrases:
 
 Who "she" and "he" were remained unclear.
 
-Jain howled. A doctor who looked to be in his 60s or 70s walked by. The doctor introduced himself as Dr. Van Larder, though he seemed remarkably unconcerned by the state of Jain's room.
+Jain howled. Eventually, an elderly doctor carrying a cane came to investigate.
 
-"No he won't!" she screamed, and the doctor left.
+"Oh, hello. Nice to meet you. How can I help you?"
+
+"No, he won't. No, he won't. No, he won't," Jain repeated.
+
+The doctor seemed remarkably unconcerned by the state of her room.
+
+"I don't understand what that means," he said. "What can **Dr. Van Larder** do for you?"
+
+Jain offered no further explanation and only repeated "No he won't!" Dr. Van Larder eventually hobbled away.
+
+---
+
+## Keeping watch
+
+Dr. Caroline arrived shortly after to check on Bia, and Bia continued her story about the approaching undead army. Dr. Caroline eventually offered to take her upstairs and prove that the town was safe.
+
+On the second floor, she seated Bia beside a large window overlooking Mordenshire. From there, Bia had a clear view of the town and the surrounding area. Dr. Caroline assured her that nothing was coming and told her she could stay there and keep watch as long as she wanted.
+
+Bia happily accepted the assignment and remained there with an orderly.
+
+Before leaving, Dr. Caroline unlocked the door to the ICU and stepped inside. Bia caught a brief glimpse through the open door. Unlike the sterile linoleum and hospital-like appearance of the rest of the sanatorium, this room looked more like a private therapist's office, with oak paneling, a leather chaise and a chair beside it. Another door on the far side led deeper into the ICU.
+
+It wasn't much, but after what the other patients had told her about people going into intensive care and never returning, Bia now knew where the ICU was and had seen at least a little of what was waiting inside.
+
+A short while later, she met Dr. Van Larder. She learned that he had worked at the sanatorium for 43 years, but he didn't work in the ICU.
+
+"Only Dr. Caroline and **Dr. Dave** go in there."
+
+He also told her that Dr. Dave had arrived with Dr. Caroline 18 months ago, and the two were old friends.
+
+More pieces for this puzzle.
 
 ---
 
@@ -194,13 +218,15 @@ Jain howled. A doctor who looked to be in his 60s or 70s walked by. The doctor i
 
 Being separated made exchanging information difficult, but the party found ways around it.
 
-Cadric and Elisandra managed to meet in the garden. They compared what they had discovered and discussed what Cadric had planned.
+Cadric and Elisandra managed to meet outside near the garden and compare what they had discovered. Elisandra told him about Trashcan, while Cadric shared what he had learned about Dr. Caroline's routines and the ICU. They also compared notes on the strange orderlies, who seemed to be everywhere but never appeared to eat, sleep, or behave much like normal employees.
 
-On the second floor, Bia met Dr. Dave and formed an idea of how to get outside.
+If something was happening inside the sanatorium, Cadric suspected that the answers were either in the ICU or somewhere within Dr. Caroline's quarters on the third floor. He was already beginning to form a plan for getting her out of the way long enough to investigate.
 
-As a low-security patient, she could work on the most important problem facing the sanatorium. If an undead army really was coming, the town clearly needed better defenses. She discussed this with Dr. Dave. Dr. Dave agreed this was a good plan and introduced her to the groundskeeper.
+While still keeping watch on the second floor, Bia encountered Dr. Dave. She could see Elisandra and Cadric speaking in the garden and formed an idea of how to get outside.
 
-Now outside, Bia seized her opportunity to check in with Cadric. "This bed is all wrong," she said. Then she began offering advice to Cadric about improving their farming techniques.
+As a low-security patient, she could work on the most important problem facing the sanatorium: defenses. If an undead army really was coming, the town clearly needed better defenses. She discussed this with Dr. Dave, who agreed this was a good plan and introduced her to the groundskeeper.
+
+Now outside, Bia seized her opportunity to check in. She pointed to a flowerbed. "This bed is all wrong," she said to the groundskeeper. Then she began offering advice to Cadric about improving their farming techniques.
 
 At least, that's what anyone listening assumed they were talking about.
 
@@ -272,7 +298,7 @@ Jain screamed and scratched herself. A nurse came and saw her bleeding.
 
 As she continued screaming, three orderlies came into her cell along with Dr. Dave, who told her she was going to the ICU.
 
-On the second floor, Cadric, who was laying new flower pots around the second floor intake area, heard what was happening near Jain's cell.
+On the second floor, Cadric, who was placing new flower pots around the area, heard what was happening near Jain's cell.
 
 As the orderlies pinned her down, Jain teleported and dashed to Cadric.
 
@@ -280,11 +306,21 @@ As the orderlies pinned her down, Jain teleported and dashed to Cadric.
 
 Cadric immediately went for the elevator, but it was too slow. The warning didn't buy her much time. The orderlies caught up with Jain, and Cadric saw them inject her.
 
-Soon after, as the patients' dinner ended, Cadric went down and met Bia in the first-floor entryway. Once again, the two switched to Halfling as Cadric explained the plan to drug Dr. Caroline's dinner.
+---
 
-Cadric then went to Cookie, where Dr. Caroline's stew was being prepared.
+## Stew and molasses cookies
 
-Cadric secretly added the hemlock.
+Cadric went downstairs and met Bia in the first-floor entryway. Once again, the two switched to Halfling as Cadric explained his plan to drug Dr. Caroline's dinner as well as three of the molasses cookies for the staff.
+
+Cadric then returned to the kitchen, where Cookie was preparing dinner and making good on his promise to bake molasses cookies. Cadric stayed to help.
+
+As the meals went out, a nurse poked her head into the kitchen with one important piece of information: Dr. Caroline would be eating alone that night. Her food could be sent up whenever it was ready.
+
+Perfect.
+
+Cookie prepared her bowl of stew. Cadric made sure it was seasoned with something extra.
+
+Hemlock.
 
 ---
 
@@ -292,9 +328,9 @@ Cadric secretly added the hemlock.
 
 Jain awoke restrained in the ICU. Dr. Caroline sat nearby, eating her stew.
 
-She questioned Jain. Jain refused to answer. Dr. Caroline continued eating.
+She questioned Jain. Jain refused to answer. Dr. Caroline continued eating, telling Jain that she was joining "a sort of club" and referring ominously to an upcoming surgery.
 
-Eventually, the hemlock did its work. Dr. Caroline passed out.
+Eventually, the hemlock did its work. Dr. Caroline stood up from her chair and then passed out.
 
 Jain wasn't interested in waiting around for the rest of the party's carefully timed nighttime plan. She dislocated her thumb and worked herself free of the restraints.
 
@@ -318,7 +354,7 @@ For a moment, the party had found something that could control them.
 
 Cadric decided to make the situation even more confusing. He drank his Potion of Growth, increasing his size until he was approximately as tall as Dr. Caroline. Then he cast Disguise Self.
 
-Now there were two Dr. Carolines. One was battered and being choked by Jain. The other was Cadric. On the second floor, he commanded the two orderlies drop their keys. He took a set to unlock the ICU door. 
+Now there were two Dr. Carolines. One was battered and being choked by Jain. The other was Cadric. On the second floor, he commanded the two orderlies to drop their keys. He took a set to unlock the ICU door.
 
 Dr. Dave emerged from a room deep in the ICU just as Cadric unlocked the main door to the ICU. He looked at Jain. He looked at a Dr. Caroline being choked. He looked at the other Dr. Caroline.
 
