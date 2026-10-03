@@ -150,21 +150,29 @@ It wasn't much, but after what the other patients had told her about people goin
 
 ---
 
+## Trashcan man
+
+While cleaning the restrictive-care area, Elisandra noticed what appeared to be an ordinary trashcan sitting in the corner. As she approached, however, the lid snapped shut.
+
+Curious, Elisandra crumpled up a piece of paper and offered it as tribute. The lid opened and a hand emerged to accept it.
+
+"**Trash**."
+
+The trashcan then began slowly shuffling across the floor.
+
+When Elisandra asked the nurse what his deal was, she learned that **Trashcan** had been at the sanatorium longer than the nurse had worked there. Later, Elisandra asked Dr. Dave about him. Dr. Dave explained that the staff had been trying for years to coax Trashcan out of his chosen home, but there was a complication.
+
+"He is a different being if he’s outside of the trashcan."
+
+Elisandra pointed out the obvious flaw in the sanatorium's treatment plan: if they wanted him to stop believing he was a trashcan, perhaps letting him continue living inside one wasn't helping.
+
+---
+
 ## The writing on the wall ... and floors
 
 Jain woke to a nurse bringing cold stew to her cell. She took the bowl of stew and threw it at the cell bars. The nurse, who had a black eye, just sighed. This wasn't the response Jain was looking for, so she peed on the wall. That's when she noticed she wasn't the first to do so. Not wanting to be outdone by Wendel or others, Jain then pooped on the drain.
 
-The nurse went to get a janitor.
-
-Elisandra appeared a few moments later. After cleaning several areas of the hospital, Elisandra couldn't help but notice that Jain's room was much more disgusting than the others. She inquired about this, and the nurse blamed Wendel.
-
-With the feces and urine cleaned up, Elisandra left the cell and returned to the nurse’s station. While there, as she threw away a piece of paper, a hand emerged from the bin.
-
-“Trashcan!” said a voice from the bin.
-
-Confused, a nurse informed her that one of the high-security patients likes to stay in the bin. After everything she’s seen over the last couple of weeks, Elisandra just shrugged.
-
-“Trashcan!” the bin said again.
+The nurse sent Elisandra in to clean it. Elisandra appeared in Jain’s cell a few moments later. After cleaning several areas of the hospital, Elisandra couldn't help but notice that Jain's room was much more disgusting than the others. After cleaning the cell, she inquired about this to the nurse, and the nurse blamed Wendel.
 
 Now that her room was free from urine and feces, Jain took a closer look around. Her cell was badly damaged with chipping paint and loose, shifting floorboards. She also saw writing on some of the walls and part of the floor. As she removed more parts of the wall and floorboards, she found the messages continued there as well.
 
@@ -234,6 +242,32 @@ Jain decided to reach out to her neighbors to see if she could learn more. She l
 
 "Play hopscotch on your chest!"
 
+Jain decided to see how far she could get with Trashcan.
+
+"Could we come up with something where you say ‘trash’ for yes, ‘can’ for no?"
+
+"Trash."
+
+It worked.
+
+Jain learned that Trashcan had been at the sanatorium for more than two years and, unsurprisingly, that he collected trash. She tried asking whether he had ever found a way out, but the conversation became less productive. Finally, Jain explained that she wanted to escape and asked whether he could help her.
+
+Trashcan began slowly shuffling toward her cell.
+
+Jain tried picking her own lock, but without tools she couldn't manage it. From nearby came another response.
+
+"Trash."
+
+A hand emerged from the trashcan holding...a lock.
+
+Not a key. Not a lockpick. A lock.
+
+"Oh, you sly dog!"
+
+Then the hand and the lock disappeared back inside.
+
+Jain decided she needed a different plan.
+
 Jain screamed and scratched herself. A nurse came and saw her bleeding.
 
 As she continued screaming, three orderlies came into her cell along with Dr. Dave, who told her she was going to the ICU.
@@ -284,7 +318,7 @@ For a moment, the party had found something that could control them.
 
 Cadric decided to make the situation even more confusing. He drank his Potion of Growth, increasing his size until he was approximately as tall as Dr. Caroline. Then he cast Disguise Self.
 
-Now there were two Dr. Carolines. One was battered and being choked by Jain. The other was Cadric.
+Now there were two Dr. Carolines. One was battered and being choked by Jain. The other was Cadric. On the second floor, he commanded the two orderlies drop their keys. He took a set to unlock the ICU door. 
 
 Dr. Dave emerged from a room deep in the ICU just as Cadric unlocked the main door to the ICU. He looked at Jain. He looked at a Dr. Caroline being choked. He looked at the other Dr. Caroline.
 
