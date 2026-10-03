@@ -354,7 +354,7 @@ Cadric didn’t know what was happening in the ICU. Worried that Jain was in tro
 
 Now there were two Dr. Carolines. One was battered and being choked by Jain. The other was Cadric. On the second floor, he commanded the two orderlies to drop their keys. He took a set to unlock the ICU door.
 
-Dr. Dave emerged from a room deep in the ICU just as Cadric unlocked the main door to the ICU. He looked at Jain. He looked at a Dr. Caroline being choked. He looked at the other Dr. Caroline.
+Dr. Dave emerged from a room deep in the ICU just as Cadric unlocked the main door. He looked at Jain. He looked at a Dr. Caroline being choked. He looked at the other Dr. Caroline.
 
 Dr. Dave had no interest in trying to figure out what was going on. Instead he raised his hand. A small orange mote, no larger than a marble, appeared in his palm before streaking toward the doorway.
 
