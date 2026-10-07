@@ -1,10 +1,14 @@
-# Somehow we survived (WIP)
+# It's been a long week
+
+> *A little murder, a little sailing, and some exquisite grass. Somehow, this all counts as progress.*
+
+<img src="../../../images/chapter-04-its-been-a-long-week.png" alt="Cadric sprinkling some hemlock in a bowl of stew" class="chapter-art">
 
 ---
 
 ## Everything went to hell
 
-Everything went to hell. (Have I mentioned that?)
+Everything went to hell. (This bears repeating.)
 
 Fire spread across the floor of the ICU as Dr. Dave turned and ran deeper into the sanatorium. Trashcan emerged from the high-risk patient area and headed toward the stairs. And Jain was still holding Dr. Caroline. 
 
@@ -212,7 +216,7 @@ Cadric broke the arrow and pulled it free. The sailor screamed, then relaxed a b
 
 "Who shot me?"
 
-Cadric did what he could for the wound and introduced himself. The sailor introduced himself as Jethro Fletcher, captain of a small sloop called The Fletcher.
+Cadric did what he could for the wound and introduced himself. The sailor introduced himself as **Jethro Fletcher**, captain of a small sloop called **The Fletcher**.
 
 Cadric filed that information away. "I might come and ask you for a favor someday."
 
@@ -509,5 +513,451 @@ And he wasn't finished. Ravenlost would be staying in Mordenshire for several mo
 
 Cadric had more performances scheduled. And, apparently, more verses to write.
 
+---
+
+## Three quiet days
+
+For the next three days, Ravenlost remained in Mordenshire.
+
+Nothing caught fire. No one was murdered. Nobody infiltrated a sanatorium. Nobody robbed a mausoleum.
+
+It was surprisingly pleasant.
+
+Bia checked in on Randal, Janice, and Robert and discovered that all three had already found work. One was working at the Blackard, another had found a job as a runner in the marketplace, and the third was working in a nearby wheat field.
+
+The gold Bia had given them had helped them get started. They were doing fine from there.
+
+Jain spent some of her free time climbing the cliffs around Mordenshire. Getting up was considerably easier than getting down, but that didn't stop her.
+
+One day, after reaching the top, she looked out toward the water. Far offshore, a trash barge was slowly disappearing toward the horizon. Sitting proudly in the middle of it was a familiar trashcan.
+
+Jain watched until it disappeared from view. Trashcan was fine. Probably.
+
+She did't tell the others.
+
+Elisandra, meanwhile, had acquired a raven. She spent part of the next few days hanging out with her  companion and trying to teach it to talk. Progress was slow, but Elisandra was committed.
+
+Cadric had considerably more public plans. He continued performing at the Blackard each night. His first performance had gone well. The next three went even better. By the end of his run, Cadric had earned 16 gold worth of silver from his performances.
+
+More importantly, people kept coming back to hear him.
+
+For a few days, Ravenlost almost looked like a group of ordinary travelers enjoying some downtime in Mordenshire.
+
+Almost.
+
+They still had three assignments from Lord Godfroy, a suspiciously useful sword sitting inside a Bag of Holding, equipment waiting to be collected, and a researcher at Old Books who had been spending the last several days investigating Osgood Escar.
+
+Eventually, the quiet days ran out. Cadric returned to see Gilda.
+
+--- 
+
+## Back to Old Books
+
+Four days after his first visit, Cadric returned to Old Books. 
+
+Gilda was ready for him. Mostly.
+
+She was moving frantically through the shop, gathering books and notes.
+
+"Oh, you made it back! I've been working at this for days."
+
+She'd found considerably more information about Osgood Escar than she'd found about poisons.
+Osgood was a botanist of some renown who had traveled through the Mists studying unusual plants and botanical creatures. He'd eventually acquired Welkspring House on Echo Island and extensively remodeled the grounds.
+
+That had happened 73 years ago. There was one problem with that. Osgood was human, but Gilda hadn't found any record of his death. She had, however, found several of his books. One was an Encyclopedia of Poisons of Ravenloft. Others covered his botanical research.
+
+And several were dedicated to the same person. Glim Brightstone.
+
+The dedications described Glim affectionately: a friend, a helper, and someone who was always at Osgood's side when he needed them. Apparently, Osgood and Glim had first met in Borca, a domain known for its unusual plant life—and its two dreadlords. The more Cadric read, the more the relationship between Osgood and Glim sounded like it might have been considerably closer than professional colleagues.
+
+Gilda hadn't found anything connecting Osgood to Lord Godfroy. That was probably good. But she had found enough to make Welkspring House considerably more interesting.
+
+Ravenlost had been looking for Glim Brightstone. Now they had a human botanist who had known Glim personally, had written about Glim repeatedly, had purchased a house 73 years ago, and apparently had never died.
+
+And, conveniently, he lived on the one island where Cadric could replenish his supply of hemlock.
+Echo Island was looking better all the time.
 
 ---
+
+## Choosing a direction
+
+Ravenlost had three leads and, thanks to Gilda, considerably more information about one of them.
+
+There was the Cauldron of Tempest, somewhere beyond the Mists and associated with stories of resurrection.
+
+There was Mikhail Hatzimvas in Falkovnia, who ran a hospital for people suffering from the region's undead affliction.
+
+And there was Welkspring House on Echo Island, home to a human botanist who had purchased the property 73 years ago, had apparently never died, and had known Glim Brightstone well enough to dedicate multiple books to them.
+
+Echo Island also had one other advantage. They could get there without traveling through the Mists.
+
+That made the decision considerably easier. Welkspring House would be first.
+
+Before leaving Mordenshire, Ravenlost collected the various things they'd commissioned around town.
+
+Jain picked up the silver canine caps Van Richten had made for her. They fit over her teeth, giving her a new option the next time she encountered something that didn't respond particularly well to ordinary weapons.
+
+Jain had also left her shortsword with the blacksmith to be silvered. That process took considerably longer. Only one weapon could be done at a time, and it would take about a week. That was a problem Cadric had narrowly avoided. He'd considered having his own shortsword silvered, but instead he'd accepted the magical +1 shortsword Lord Godfroy had loaned him.
+
+Of course, that sword also allowed Godfroy to scry on him. But it remained safely inside the Bag of Holding whenever Cadric wasn't using it.
+
+Cadric and Elisandra also picked up their EC Lights from the blacksmith. Then they picked up their belts and Cadric's pouch from the leatherworker.
+
+By the morning of the fourth day of quiet, Ravenlost gathered the rest of their equipment, finished their errands, and prepared to leave Mordenshire.
+
+Now they just needed transportation.
+
+---
+
+## A ride to Echo Island
+
+Fortunately, Ravenlost already knew a sailor with a boat.
+
+Unfortunately, Jain had shot him.
+
+They found The Fletcher tied up at the docks, but its captain was nowhere to be seen. Eventually, they tracked Jethro Fletcher to The Seventh Sea.
+
+He was face-down on the bar, hands still wrapped around a mug. Beside him, a small goblin was happily spinning himself around on a barstool. This was Gobbo, Jethro's first mate.
+
+Ravenlost asked Gobbo about the proper procedure for waking his captain. Gobbo swung himself sideways, raised both feet, and kicked Jethro as hard as he could.
+
+Jethro hit the floor. He was awake.
+
+Ravenlost had found their captain.
+
+"Where are you trying to go?"
+
+"Echo Island."
+
+Jethro could do that. Better yet, reaching Echo Island didn't require traveling through the Mists.
+
+When Ravenlost mentioned Welkspring House, however, Jethro drew a line. He would take them to the docks on the southern side of the island. He wasn't going anywhere near that house.
+
+That worked for Ravenlost.
+
+Jethro initially offered to take them there for free. After all, he owed them.
+
+Ravenlost, who had recently shot him in the leg, had a somewhat different understanding of who owed whom.
+
+They offered to pay.
+
+Jethro asked for three cases of liquor. Ravenlost offered six.
+
+Negotiations were going extremely well.
+
+Eventually, they settled on six cases, costing 36 silver. Jethro would get one case before they left, two more when they reached Echo Island, and the final three after Ravenlost returned.
+
+That gave him a reason to wait for them. It also gave him two cases of liquor while he waited.
+
+Everyone seemed satisfied with this arrangement.
+
+Jethro estimated that the trip would take about twelve hours, assuming the weather cooperated. Leaving that morning would put them at Echo Island sometime around 8:30 that night.
+
+Arriving at a mostly wilderness-covered island after dark sounded like an excellent plan. At least they had lights.
+
+Before boarding, Bia made one final trip to the bakery and bought a box of pastries for the journey.
+
+Then Ravenlost boarded The Fletcher. Gobbo scrambled around the rigging preparing the sail, Jethro got them underway, and Mordenshire slowly disappeared behind them. 
+
+Everything seemed to be going swimmingly.
+
+---
+
+## Weather permitting
+
+For the first half of the trip to Echo Island, everything went surprisingly well. The weather was pleasant. The water cooperated. The Fletcher made good time.Ravenlost had apparently found a form of transportation that wasn't going to try to kill them.
+
+Then the weather turned.
+
+As they approached Echo Island, the wind picked up and the waves grew rougher. Jethro struggled with the rudder as the boat began fighting against him.
+
+He started shouting orders.
+
+"Strong one! Take the main line!"
+
+Bia looked at him. "What's the main line?"
+
+They were off to an excellent start. Apparently Bia needed to have spent her down time taking sailing lessons.
+
+Jethro pointed to the large rope coming off the sail. "That! Hold it! Don't let it go!"
+
+Bia grabbed the line. Gobbo joined her, although "joined her" mostly meant hanging from the rope while the wind whipped him around.
+
+Jethro put Jain and Elisandra on the rudder. Together, they fought to keep it steady as the waves tried to knock The Fletcher off course.
+
+Cadric had an equally important job. He sang a sea shanty.
+
+It wasn't one of his better performances.
+
+Fortunately, everyone else's work made up for it.
+
+Bia kept control of the sail. Jain and Elisandra held the rudder steady. Jethro somehow kept the boat pointed toward Echo Island.
+
+Eventually, through the darkness and the storm, land appeared.
+
+The island was mostly surrounded by cliffs. On its southern shore was something that could generously be described as a port. It had one dock. Jethro brought The Fletcher alongside it.
+
+Ravenlost had made it to a stormy Echo Island. Alive. Again.
+
+---
+
+## Exquisite grass
+
+The southern shore of Echo Island wasn't much of a settlement. There was a single dock with another small fishing boat and a few buildings clustered near the water. Beyond them was mostly wilderness.
+
+As The Fletcher pulled in, the door of one of the houses opened. An older, weathered man in a canvas raincoat emerged carrying a shielded lantern. He hurried down to help secure the boat.
+
+"Are you all right? You make port okay?"
+
+Technically, yes.
+
+The man introduced himself as Chauncey and invited everyone inside to get out of the storm and dry off.
+
+Once they were settled, he had a reasonable question. What exactly had brought them to Echo Island?
+
+"Just sightseeing."
+
+Chauncey looked confused.
+
+"What sights?"
+
+"The trees. The rocks. The whole island."
+
+Jain considered this. "Grass. I'm a fan of grass, and I've heard there's exquisite grass here."
+
+This didn't appear to answer Chauncey's question.
+
+Ravenlost tried another explanation. They were a traveling troupe of circus performers.
+
+That worked considerably better. Cadric was the entertainer. Jain could climb pretty much anything. Elisandra was new, and she was still teaching her bird to talk. And Bia could toss logs. 
+
+Chauncey was delighted. He wanted to see an act. Ravenlost had just survived a twelve-hour boat ride that ended in a storm, but Chauncey had given them shelter.
+
+So Cadric performed. He even gave Chauncey the second verse of his new song.
+
+Whatever doubts Chauncey might have had about the strange group that had arrived on his doorstep disappeared. By the end of the evening, he was a Cadric fan.
+
+Ravenlost spent the night at his house. Everyone was tired, and no one bothered keeping watch. Thankfully, nothing happened. And for once, that was actually true.
+
+By morning, the storm had passed. When Ravenlost asked about Welkspring House, Chauncey told them it was roughly a two-hour journey inland. He didn't go that way himself anymore.
+
+"The woods are weird now."
+
+That was useful information. 
+
+More useful was a name. Ava had once worked as the groundskeeper at Welkspring House. She lived nearby and knew the property. If Ravenlost wanted to know what they were walking into, they should talk to her.
+
+--- 
+
+## The former groundskeeper
+
+Before setting out, Ravenlost took advantage of Chauncey's hospitality for breakfast.
+Chauncey supplied the small settlement with fish and offered everyone one smoked fish for free. There were also some pastries left over from the previous day.
+
+Then Ravenlost went looking for Ava. They found her near her log cabin, felling a tree.
+
+Ava was muscular, with short brown hair, and looked entirely capable of taking care of herself. More importantly, she'd once been the groundskeeper at Welkspring House.
+
+She didn't work there anymore. According to Ava, she'd been told to stay away for her own safety. She'd even been given approximately a year's wages when she left.
+
+That got Ravenlost's attention.
+
+For about the last six months, Ava had occasionally noticed strange figures moving through the woods at the edge of her vision. She could never get a good look at them. Sometimes they appeared small. Sometimes tall and thin. Sometimes somewhere in between, but broader. They never stayed around long enough for her to determine what they were, and they didn't leave tracks behind.
+
+Ava hadn't returned to Welkspring House since leaving. She could, however, tell Ravenlost how to get there. There were two options.
+
+They could follow the established route through the woods. It would take longer, but it was safer.
+
+Or they could take a more direct route through the forest. 
+
+It was faster. It was also considerably more likely to put them in the path of whatever had been moving through the trees.
+
+Ravenlost considered these options.
+
+They decided to take the shortcut.
+
+Of course they did.
+
+---
+
+## The shortcut
+
+The shortcut began pleasantly enough. Echo Island was covered in a thick, temperate forest. Sunlight filtered through the trees as Ravenlost worked their way north toward Welkspring House.
+
+After a while, Jain noticed something. Or more accurately, she noticed nothing. The forest was silent. No birds. No animals moving through the undergrowth. Nothing except the wind through the trees.
+
+Then Jain caught a glimpse of something humanoid peeking around a tree ahead of them. It disappeared almost immediately.
+
+Ava's warning suddenly seemed considerably more relevant.
+
+Cadric tried a bird call. It was actually quite good.
+
+Something answered him. With a thorn.
+
+The projectile buried itself in the side of Cadric's neck. So much for the birds.
+
+More figures then emerged from the trees. Some were smaller humanoid shapes covered in needles and thorns. Others were larger creatures formed from twisting vines.
+
+Ravenlost fought back.
+
+The smaller creatures fired volleys of needles from the surrounding woods. One of the larger creatures lashed Elisandra with vines. Bia struck another hard enough to sever its arm. The vines immediately began slowling growing back.
+
+"Guys, I just cut off one's arm and it's growing back."
+
+That was useful information.
+
+The fight continued as more of the creatures emerged from the trees. Ravenlost killed several of them, and eventually the survivors decided that whatever they'd hoped to accomplish wasn't worth dying for.
+
+They scattered back into the forest. Ravenlost let them go.
+
+About half an hour later, they finally reached a clearing.
+
+Twenty feet ahead stood an eight-foot wrought-iron fence, with tall, carefully maintained hedges rising behind it.
+
+They'd found Welkspring House.
+
+"I think we made it, guys," said Jain. Aren't you glad we took the shortcut?"
+
+Cadric pulled the three-inch thorn out of his neck and put it in his bag.
+
+"We've all gotten a splinter before."
+
+Apparently, the shortcut had been a success.
+
+---
+
+## A familiar design
+
+Beyond the wrought-iron fence, Ravenlost found an open gate. That was either welcoming or concerning.
+
+Inside, a winding path led through immaculate gardens toward an enormous estate. The manor itself was impressive, but beside it stood something even larger: a massive greenhouse packed with greenery.
+
+Off to one side was a carefully maintained topiary garden filled with animals. Ravenlost considered investigating it. They also considered whether the topiary animals might come alive and attack them.
+
+They decided to leave the topiaries alone. For once, restraint won.
+
+They followed the path to the manor instead. The front entrance stood above a raised porch reached by two staircases. Ravenlost climbed the steps and knocked on the large French doors.
+
+From inside came a voice. "Just a minute." Then came the unmistakable whirring of machinery.A small figure slowly opened the door.
+
+It was an automaton, only about three and a half feet tall, with a humanoid upper body mounted on a ball instead of legs. 
+
+Every member of Ravenlost had the same thought.
+
+Cedgewick.
+
+It obviously wasn't Cedgewick. But the construction was familiar enough to immediately remind them of the automaton they'd found in Glim's laboratory.
+
+"How can I hel hel help you?" it stuttered.
+
+Ravenlost explained that they were there to see Osgood Escar.
+
+"Mmm master is up up upstairs." 
+
+The automaton told them it would be right back. Then it rolled over to the staircase.
+And ran directly into the bottom step.
+
+Thump.
+
+It tried again.
+
+Thump.
+
+And again.
+
+Thump.
+
+The metal ball beneath it was extremely effective for moving across a flat floor. It was less effective at stairs. 
+
+Eventually, a voice called down from above. 
+
+"Just give me a moment."
+
+The automaton stopped trying to climb. Ravenlost waited.
+
+After several minutes, they heard a cane strike the floor upstairs. Then a footstep. Then the cane again. Someone was coming down.
+
+---
+
+## Laying the cards on the table
+
+The man coming down the stairs introduced himself as Osgood Escar. He couldn't have been older than his late fifties. He had salt-and-pepper hair, an eye patch, and clothes that looked like they'd seen considerably more gardening than laundry. His left leg was badly gnarled, forcing him to walk with a cane.
+
+His right hand was missing. In its place was a bright silver mechanical hand. Ravenlost noticed that.
+
+They also noticed that Gilda's research said Osgood Escar had purchased Welkspring House 73 years ago. Osgood looked nowhere near old enough for that to be possible. Nobody mentioned it.
+
+"Somebody summoned me. How can I help you?"
+
+Everyone looked at Cadric.
+
+"Why are you all looking at me?"
+
+"You're the talker."
+
+Cadric sighed.
+
+"Yes, we were sent here by Lord Godfroy."
+
+Osgood's demeanor changed immediately. This was going well.
+
+Cadric decided honesty was probably their best option.
+
+Ravenlost had found one of Glim's laboratories. They knew Godfroy was interested in Glim's inventions. And they had come to Welkspring because Godfroy wanted them to find an augmented version of the battery systems Glim had designed for his automatons. 
+
+They also strongly suspected that giving Godfroy what he wanted would be a terrible idea.
+
+Osgood had a question.
+
+Did Ravenlost actually intend to help him?
+
+That was harder to answer.
+
+Ravenlost explained that working for a dreadlord was complicated. They weren't particularly interested in helping Godfroy, but they also weren't particularly interested in becoming his enemies. They mostly winged it.
+
+Osgood wasn't reassured. He summarized the situation back to them.
+
+Ravenlost had come at the request of a dreadlord to gather information about a friend Osgood hadn't seen in decades, and they couldn't tell him whether they intended to give that information to the dreadlord afterward.
+
+That was, unfortunately, accurate.
+
+So Ravenlost kept talking.
+
+They told him about the Glim-related device beneath Candle Cross, capable of releasing the Mists around the town. They told him about the machinery in Glim's laboratory that appeared capable of charging batteries. They explained that despite repeatedly finding things Godfroy might want, they had never been particularly successful at actually giving him those things.
+
+This was somehow part of their argument in favor of trusting them.
+
+They also told Osgood something he hadn't known. Godfroy's attention was already fixed on Welkspring House. If Ravenlost returned with nothing, Godfroy could simply send someone else.
+
+Someone more capable. And possibly considerably less honest.
+
+They weren't threatening Osgood. They were trying very hard to make that clear.
+
+Eventually, Cadric offered something more concrete.
+
+Godfroy had loaned him a magical shortsword. Ravenlost had discovered that Godfroy could use it to scry on Cadric. So they kept it inside the Bag of Holding.
+
+"If we really, truly were working for the Lord, we would probably have that out."
+
+Then came the closest thing Ravenlost had to a straightforward answer.
+
+Did they work for Lord Godfroy? Yes. In the sense that Godfroy had sent them here. Did they want to help him return to life so he could inflict death and misery on everyone around him? No. They were fairly certain that was exactly what he intended to do with whatever he was building.
+
+They just hadn't figured out how to stop him yet.
+
+Osgood took a long breath.
+
+Then he stepped aside.
+
+"Come inside."
+
+Ravenlost had apparently passed.
+
+"But don't touch anything."
+
+That seemed fair.
+
+Ravenlost entered Welkspring House.
+
+And for now, this was a victory.
+
