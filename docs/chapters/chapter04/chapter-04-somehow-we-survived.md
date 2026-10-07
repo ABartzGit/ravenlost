@@ -348,7 +348,7 @@ With the meeting concluded, Mayor Alice asked them to meet her at her home, Weat
 
 ---
 
-## Saying goodbyes at the sanatorium
+## The sanatorium in daylight
 
 After Ravenlost left the Mayor's office, they returned to the sanatorium, finally seeing it in daylight. It was still standing. Mostly.
 
@@ -469,5 +469,45 @@ Bia looked at the three magical rewards that had just been distributed among the
 Apparently, solving the murders, helping expose a brain-control operation, chasing Peter into the water, getting stabbed, and punching him unconscious against a dock piling didn't come with a magical item. 
 
 It still wasn't lost on Bia that none of them had been arrested for manslaughter. Considering how the investigation had gone, she was willing to count that as her reward.
+
+And another reward was Cadric's upcoming gig. 
+
+---
+
+## A paying gig
+
+After leaving Weathermay House, Ravenlost returned to the Blackard.
+
+Cadric had a gig.
+
+He'd been working on a new song for several days. The chorus was finished. He had a second verse. The first verse was still a work in progress, but eventually a bard had to stop writing and start performing.
+
+Cadric took the stage.
+
+His song followed the adventures of a wandering halfling who could find a home anywhere—and generally leave that home with more money than he'd arrived with.
+
+The chorus was catchy:
+
+<i>With the wandering halfling, wherever he may roam,<br>
+He'll find a warm fire and he'll call it his home.<br>
+With a song in his heart and a coin in his shoe,<br>
+He'll steal your heart first and all of your silver too.</i>
+
+One verse featured an orc with an axe six feet long who was extremely confident that no thief could get the better of her. But the halfling got the better of her.
+
+Bia listened.
+
+Apparently, Ravenlost was becoming material.
+
+Cadric accompanied the song with magical images, creating a little cottage and then bringing the audience inside as the story unfolded.
+
+It went over well. Very well, in fact.
+
+Cadric had already performed at the Blackard before, but this time he was beginning to look less like a traveler who happened to own a lute and more like part of the evening's regular entertainment.
+
+And he wasn't finished. Ravenlost would be staying in Mordenshire for several more days.
+
+Cadric had more performances scheduled. And, apparently, more verses to write.
+
 
 ---
