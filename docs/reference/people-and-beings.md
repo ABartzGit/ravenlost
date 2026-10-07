@@ -31,7 +31,7 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 | **Lori** | Human / monster hunter | Cave between Crawford and Waterford | Jennifer's quieter sister and fellow monster hunter. Daughter of Alice. |
 | **Joan** | Dog | Cave between Crawford and Waterford | One of Jennifer and Lori's hunting dogs. Has silver caps fitted over the teeth. |
 | **Tiron** | Dog | Cave between Crawford and Waterford | One of Jennifer and Lori's hunting dogs. Has silver caps fitted over the teeth. |
-| **Alice Heatherman** | Human | Mordenshire | Mayor of Mordenshire and mother of Jennifer and Lori. Working with Captain Kilm O'Connell on Ravenlost's investigation of the sanatorium. |
+| **Alice Weathermay** | Human | Mordenshire | Mayor of Mordenshire and mother of Jennifer and Lori. Working with Captain Kilm O'Connell on Ravenlost's investigation of the sanatorium. |
 | **Rudolf von Richten** | Human / monster hunter and herbalist | Van Richten's Herbalist, Mordenshire | Monster hunter and occult expert in Mordenshire. Helped Ravenlost contain a creature released from a mummified cat and shared information about the Mists, Lord Godfroy, and Glim Brightstone. |
 | **Farrow** | Human | Waterford | Operates Farrow and Thorn. Hired Ravenlost to recover Lady Waterford's portrait and Lord Waterford's jeweled cane. |
 | **Lord Waterford** | Spirit | Waterford family mausoleum | Ghost who guided Ravenlost through the family mausoleum. Husband of Lady Waterford. |
