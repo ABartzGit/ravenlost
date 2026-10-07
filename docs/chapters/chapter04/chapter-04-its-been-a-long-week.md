@@ -290,7 +290,7 @@ While the rest of Ravenlost was still asleep, Cadric went downstairs at the Blac
 
 "You called?"
  
-Cadric got one for himself and sat down. He had something Henry needed to know. Dr. Caroline was dead.
+Cadric got one for himself and sat down. He had indeed called and had something Henry needed to know. Dr. Caroline was dead.
 
 More specifically, Cadric expected that Dr. Caroline might eventually become one of the ghosts at the House on Griffin Hill. If she did, Ravenlost wanted information from her about what had been happening at the sanatorium.
 
@@ -326,7 +326,7 @@ Peter remembered going to work the previous evening. After that, nothing. He did
 
 "That went faster than I thought," Mayor Alice said to them. She was now beginning to understand how Ravenlost worked.
 
-Ravenlost showed Captain O'Connell and the Mayor Edgar Iskander's journal. His research described ways of manipulating the brain to affect memory, aggression, and susceptibility to commands. Peter's behavior looked disturbingly similar to the effects described in the journal.
+Ravenlost showed Dr. Edgar Iskander's journal to Captain O'Connell and the Mayor. The doctor's research described ways of manipulating the brain to affect memory, aggression, and susceptibility to commands. Peter's behavior looked disturbingly similar to the effects described in the journal.
 
 The orderlies offered even more evidence. Captain O'Connell confirmed that they didn't speak. More importantly, every one of them had identical scarring around the top of the skull. 
 
@@ -364,7 +364,7 @@ When Bia had first arrived, Randal, Janice, and Robert had explained that patien
 
 Wendel wasn't leaving.
 
-He had moved permanently into Dr. Caroline's quarters, and this morning he was digging in the garden. A dark-eyed doctor whom Ravenlost had taken to calling Dr. Goth was keeping an eye on him. And she was wearing plain clothes. 
+He had moved permanently into Dr. Caroline's quarters, and this morning he was digging in the garden. A dark-eyed doctor whom Ravenlost had taken to calling **Dr. Goth** was keeping an eye on him. And she was wearing plain clothes. 
 
 Wendel seemed perfectly happy digging beside someone who wasn't wearing a doctor's coat. Apparently, after everything Dr. Caroline had tried to do to him, what Wendel really needed was a garden, regular clothes, a comfy bed in a room that didn't have a surgical table, and someone willing to leave him alone for a while. 
 
@@ -406,9 +406,9 @@ At Mayor Alice's suggestion, Cadric then headed to Old Books, a bookstore near t
 
 Eventually, a young blonde woman with wiry hair emerged from somewhere behind the stacks.
 
-“Welcome. My name is Gilda.”
+“Welcome. My name is **Gilda**.”
 
-“Cadric Veyl.” Cadric waited. Gilda didn't recognize the name.
+“Cadric Veyl.” Cadric waited for a response. Gilda didn't recognize the name.
 
 “Gilda Haywood.”
 
@@ -420,7 +420,7 @@ She was gone for about fifteen minutes. Cadric used the time to work on his song
 
 Eventually, Gilda returned.
 
-She hadn't found anything useful about Mikhail Hatzimvas, but she'd had better luck with Echo Island. She found a record of the ownership of Welkspring House and a botanical guide written by its most recent owner, Osgood Escar.
+She hadn't found anything useful about Mikhail Hatzimvas, but she'd had better luck with Echo Island. She found a record of the ownership of Welkspring House and a botanical guide written by its most recent owner, **Osgood Escar**.
 
 The house had belonged to the Welkspring family before Osgood acquired it. More interestingly for Cadric, Osgood's botanical guide included information about hemlock, which grew naturally along the northwestern coast of Echo Island.
 
@@ -456,9 +456,9 @@ Yes, there'd been some fire damage, but Dr. Dave had started that.
 
 Unfortunately, Alice explained to them that Mordenshire didn't have enough money available to properly reward Ravenlost for everything they'd uncovered and also rebuild the burned parts of the sanatorium. Instead, Mayor Alice offered them something else. She had three magical items.
 
-The first was a Periapt of Health, a necklace that protected its wearer from disease. That went to Jain.
+The first was a **Periapt of Health**, a necklace that protected its wearer from disease. That went to Jain.
 
-The second was a Pearl of Power, which could restore some of a spellcaster's expended magical energy. This would be useful to Elisandra.
+The second was a **Pearl of Power**, which could restore some of a spellcaster's expended magical energy. This would be useful to Elisandra.
 
 Then Alice opened a case containing two matching daggers, one gold and one silver.
 
@@ -617,7 +617,7 @@ Unfortunately, Jain had shot him.
 
 They found The Fletcher tied up at the docks, but its captain was nowhere to be seen. Eventually, they tracked Jethro Fletcher to The Seventh Sea.
 
-He was face-down on the bar, hands still wrapped around a mug. Beside him, a small goblin was happily spinning himself around on a barstool. This was Gobbo, Jethro's first mate.
+He was face-down on the bar, hands still wrapped around a mug. Beside him, a small goblin was happily spinning himself around on a barstool. This was **Gobbo**, Jethro's first mate.
 
 Ravenlost asked Gobbo about the proper procedure for waking his captain. Gobbo swung himself sideways, raised both feet, and kicked Jethro as hard as he could.
 
@@ -711,7 +711,7 @@ As The Fletcher pulled in, the door of one of the houses opened. An older, weath
 
 Technically, yes.
 
-The man introduced himself as Chauncey and invited everyone inside to get out of the storm and dry off.
+The man introduced himself as **Chauncey** and invited everyone inside to get out of the storm and dry off.
 
 Once they were settled, he had a reasonable question. What exactly had brought them to Echo Island?
 
@@ -745,7 +745,7 @@ By morning, the storm had passed. When Ravenlost asked about Welkspring House, C
 
 That was useful information. 
 
-More useful was a name. Ava had once worked as the groundskeeper at Welkspring House. She lived nearby and knew the property. If Ravenlost wanted to know what they were walking into, they should talk to her.
+More useful was a name. **Ava** had once worked as the groundskeeper at Welkspring House. She lived nearby and knew the property. If Ravenlost wanted to know what they were walking into, they should talk to her.
 
 --- 
 
