@@ -600,7 +600,7 @@ Brings in outside researchers and staff and operates with little town oversight.
 
 ### Lord Godfroy
 
-Dread lord at the **House on Griffin Hill**.
+Dreadlord at the **House on Griffin Hill**.
 
 Hired Ravenlost to investigate three leads connected to Glim Brightstone and retrieve a larger Glim battery.
 
