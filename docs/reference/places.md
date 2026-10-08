@@ -42,6 +42,6 @@ A quick-reference list of places Ravenlost has visited or heard about.
 | **House on Griffin Hill** | Manor / house | Visited | Lord Godfroy's estate outside Mordenshire. Ravenlost noticed apparently spectral groundskeepers, disturbed earth, and strange sounds and vibrations beneath the manor. Godfroy hired Ravenlost here to investigate three leads connected to Glim Brightstone. |
 | **Welkspring House** | House | Heard of | Located on Echo Island. One of Lord Godfroy's leads concerning Glim; strange blue writing there reportedly prevents ghosts from entering. |
 | **Cauldron of Tepist** | Location | Heard of | Contains fountains associated with resurrection. Godfroy believes they may have inspired part of Glim's apparatus. |
-| **Falkovnia** | Domain | Heard of | Location of Mikhail Hatsamamous and his hospital. One of Godfroy's three leads concerning Glim. |
+| **Falkovnia** | Domain | Heard of | Location of Mikhail Hatzimvas and his hospital. One of Godfroy's three leads concerning Glim. |
 | **Griffin Hill** | Region / landmark | Heard of | Associated with Mordent and the Godfroys. |
 | **Godfroy's Manor** | Manor | Heard of | Lord and Lady Waterford were traveling toward a gala there when they died. |
