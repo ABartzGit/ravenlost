@@ -30,7 +30,7 @@ A quick-reference list of places Ravenlost has visited or heard about.
 | **Mordenshire** | City / town | Visited / departed | Coastal town and harbor in Mordent. Ravenlost investigated murders and the sanatorium, reported findings to Mayor Alice and Captain O’Connell, received rewards, commissioned equipment, and departed by boat for Echo Island. |
 | **Blackcard** | Inn | Visited | Merchant-oriented inn in central Mordenshire. Bia and Cadric stayed here, and Cadric performed in the tavern. |
 | **Salty Dog** | Inn | Visited | Inn near the sanatorium. Jain and Elisandra stayed here under the name "Jainisandra." |
-| **Seven Seas** | Inn / sailors’ tavern | Visited | Coastal tavern in Mordenshire where Ravenlost found Jethro Fletcher unconscious at the bar and met Gobbo, his first mate. Earlier notes call it the Seventh Sea. |
+| **The Seventh Sea** | Inn / sailors’ tavern | Visited | Coastal tavern in Mordenshire where Ravenlost found Jethro Fletcher unconscious at the bar and met Gobbo, his first mate. Earlier notes call it the Seventh Sea. |
 | **Pyrite's Booty** | Shop | Visited | Mordenshire shop where Ravenlost sold much of its accumulated treasure. |
 | **Hammerbarn's Blacksmith** | Blacksmith | Visited | Mordenshire smith where Jain left her shortsword to be silvered and Cadric and Elisandra commissioned their EC Lights. |
 | **Atim's Arcana** | Magic shop | Visited | Mordenshire magic shop where Cadric purchased an Eversmoking Bottle. |
