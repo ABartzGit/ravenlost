@@ -46,6 +46,7 @@ A quick-reference list of places Ravenlost has visited or heard about.
 | **Griffin Hill** | Region / landmark | Heard of | Associated with Mordent and the Godfroys. |
 | **Godfroy's Manor** | Manor | Heard of | Lord and Lady Waterford were traveling toward a gala there when they died. |
 | **Old Books** | Bookshop / research | Visited | Mordenshire bookshop where Gilda Haywood researched Osgood Escar and his relationship with Glim Brightstone. |
+| **Weathermay Manor** | Manor / residence | Visited | Home of Mayor Alice Weathermay. Located outside of Mordenshire. Ravenlost met with the mayor here to retrieve their reward items. |
 | **The Fletcher** | Sailing vessel | Traveled aboard | Jethro Fletcher’s approximately 30-foot, single-masted boat, crewed with Gobbo. Ferried Ravenlost from Mordenshire to Echo Island through a storm. |
 | **Chauncey’s home** | House / shelter | Visited | Near the southern dock on Echo Island. Ravenlost sheltered here overnight after the storm. |
 | **Ava’s cabin** | Cabin | Visited | Log cabin on Echo Island where Ravenlost met Welkspring’s former groundskeeper and learned about the two forest routes. |
