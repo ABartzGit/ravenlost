@@ -117,7 +117,7 @@ The records contained numerous names, many crossed out or marked as failed exper
 
 Dr. Caroline had apparently identified Jain as a potential subject almost immediately after her admission.
 
-### **Lord Godfroy's involvement**
+### Lord Godfroy's involvement
 
 The party discovered architectural plans for the sanatorium's remodeled wing, including the restricted ICU.
 
@@ -315,7 +315,7 @@ Whether the raven would eventually become conversational remained to be seen.
 
 Four days after commissioning research into Welkspring House, Ravenlost returned to **Old Books** to see what Gilda Haywood had discovered.
 
-### **Gilda's research**
+### Gilda's research
 
 Gilda had collected a considerable amount of information about **Osgood Escar**, the owner of Welkspring House.
 
