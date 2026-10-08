@@ -40,9 +40,18 @@ A quick-reference list of significant loot, magic items, valuables, quest object
 | **Six vials of holy water** | Party | Van Richten's Herbalist | Given to Ravenlost by Rudolph Van Richten. |
 | **Four wooden stakes** | Party | Van Richten's Herbalist | Given to Ravenlost by Rudolph Van Richten. |
 | **Tarokka deck** | Party | Van Richten's Herbalist | Given to Ravenlost by Rudolph Van Richten. |
-| **Silver canine caps** | Jain / commissioned | Van Richten's Herbalist | Van Richten agreed to make silver caps for Jain's canine teeth. |
+| **Silver canine caps** | Jain / collected | Van Richten’s Herbalist | Commissioned from Rudolph Van Richten and obtained before Ravenlost departed Mordenshire. |
 | **Silver-imbued shortsword** | Jain / at Hammerbarn | Hammerbarn's Blacksmith | Jain's shortsword was left to be imbued with silver. Expected to take about one week. |
 | **EC Lights** | Cadric and Elisandra / commissioned | Hammerbarn's Blacksmith | Reusable magical lights designed by Cadric and Elisandra using *Continual Flame*, with removable caps. |
-| **+1 shortsword** | Cadric / borrowed | House on Griffin Hill | Loaned by Lord Godfroy. Godfroy can scry on Cadric through the sword. |
+| **+1 shortsword** | Cadric / borrowed; stored in Bag of Holding | House on Griffin Hill | Loaned by Lord Godfroy. Ravenlost learned he could scry on Cadric through the sword and put it inside the Bag of Holding to block surveillance. |
 | **Atim's Arcana punch cards** | Cadric | Atim's Arcana / Mordenshire | Cadric received a store punch card worth 10% off a future item after purchasing the Eversmoking Bottle and later received another punch card worth 25% off a future item from the Captain in Mordenshire. |
 | **Jordan's tarnished silver coin** | Cadric | Connected to Jordan's disappearance | Found wrapped in a black feather. Bears an engraved symbol that seems to shift when Cadric looks away. |
+| **Periapt of Health** | Jain | Mayor Alice, Mordenshire | Magical reward for Ravenlost’s investigation; protects the wearer from disease. |
+| **Pearl of Power** | Elisandra | Mayor Alice, Mordenshire | Magical reward for Ravenlost’s investigation; can restore an expended spell slot according to the item’s rules. |
+| **Arum and Argentum** | Cadric | Mayor Alice, Mordenshire | Paired +1 shortswords. When dual-wielded, allow ability modifier on the second attack’s damage; if both hit the same target, deal an extra 1d4 piercing damage and prevent the target from taking reactions until the end of the turn. |
+| **Control: A Roadmap** | Ravenlost / exact current holder unclear | Dr. Caroline’s quarters, Mordenshire Sanatorium | Dr. Edgar Iskander’s journal on surgical manipulation of memory, aggression, and susceptibility to commands. Shown to Mordenshire authorities; whether the original was retained is unclear. |
+| **Dr. Edgar Iskander’s robes** | Found / current holder unclear | Dr. Caroline’s quarters, Mordenshire Sanatorium | Old doctor’s robes embroidered with Edgar’s name, associated with Locust Branch Hospital in Crawford. |
+| **“To my dear star” pencil sketch** | Found / current holder unclear | Dr. Caroline’s quarters, Mordenshire Sanatorium | Drawing of a man holding a child, inscribed “To my dear star, I’ll make the world a safer place for you.” Handwriting matches Edgar’s journal. Possible evidence of a family relationship with Caroline. |
+| **Sanatorium remodeling plans** | Found / current holder unclear | Dr. Caroline’s quarters, Mordenshire Sanatorium | Plans for the restricted wing and ICU show private funding from Lord Godfroy; do not establish exactly what he knew of the experiments. |
+| **Three-inch thorn** | Cadric | Forest shortcut to Welkspring House | Fired into Cadric’s neck by an unknown plant-like creature. Cadric removed it and kept it for possible later use. |
+| **Six cases of liquor (passage agreement)** | Payment commitment to Jethro | Mordenshire / *The Fletcher* | Ferry arrangement for Echo Island: one case before departure, two on arrival, and three upon return pickup. At 6 sp each, total 36 sp; not all cases delivered at once. |
