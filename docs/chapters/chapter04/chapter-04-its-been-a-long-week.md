@@ -900,7 +900,7 @@ Osgood had a question.
 
 “And are you intending to help him? Because you didn't say you weren't. You just said you were working for him.”
 
-Cadric continued. “My research has told me that you are in fact a friend of Glen's.”
+Cadric continued. “My research has told me that you are in fact a friend of Glim’s.”
 
 Osgood's lips curled up at the corners. “You can say that.”
 
@@ -908,7 +908,7 @@ Osgood's lips curled up at the corners. “You can say that.”
 
 “Yes, he has been for quite some time.” 
 
-“And we know, based on what we uncovered, that he was heading to north of Abbey Point.”
+“And we know, based on what we uncovered, that he was heading north of Abbey Point.”
 
 Again, Osgood questioned whether Ravenlost actually intended to help Lord Godfroy.
 
@@ -920,13 +920,13 @@ Ravenlost explained that working for a dreadlord was complicated. They weren't p
 
 Osgood wasn't reassured. He summarized the situation back to them.
 
-“So I'm going to repeat as I understand. You are here at the behest of the dread lord, to gather information about a friend of mine that I haven't seen in decades, and you aren't confirming or denying whether you intend to work with that dread lord for whatever his purposes may be. Am I incorrect?”
+“So I'm going to repeat as I understand. You are here at the behest of the dreadlord, to gather information about a friend of mine that I haven't seen in decades, and you aren't confirming or denying whether you intend to work with that dreadlord for whatever his purposes may be. Am I incorrect?”
 
 That was, unfortunately, accurate. Then Cadric remembered another detail. 
 
 “His interest is specifically in an augmented version of the battery systems that are used to power the automatons that Glim designed. We’ve seen this before.”
 
-They told him about the Glim-related device beneath Candle Cross, capable of releasing the Mists around the town. They told him about the machinery in Glim's laboratory that appeared capable of charging batteries. They explained that despite repeatedly finding things Godfroy might want, they had never been particularly successful at actually giving him those things.
+They told him about the Glim-related device at Candle Cross, capable of releasing the Mists around the town. They told him about the machinery in Glim's laboratory that appeared capable of charging batteries. They explained that despite repeatedly finding things Godfroy might want, they had never been particularly successful at actually giving him those things.
 
 “So again, we've never really successfully given Lord Godfrey everything that he was hoping for.”
 
