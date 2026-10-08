@@ -492,7 +492,10 @@ His song followed the adventures of a wandering halfling who could find a home a
 
 The chorus was catchy:
 
-> **With the wandering halfling, wherever he may roam,He'll find a warm fire and he'll call it his home.With a song in his heart and a coin in his shoe,He'll steal your heart first and all of your silver too.**
+*With the wandering halfling, wherever he may roam,*
+*He'll find a warm fire and he'll call it his home.*
+*With a song in his heart and a coin in his shoe,*
+*He'll steal your heart first and all of your silver too.*
 
 One verse featured an orc with an axe six feet long who was extremely confident that no thief could get the better of her. But the halfling got the better of her.
 
