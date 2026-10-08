@@ -31,7 +31,7 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 | **Lori** | Human / monster hunter | Cave between Crawford and Waterford | Jennifer's quieter sister and fellow monster hunter. Daughter of Alice. |
 | **Joan** | Dog | Cave between Crawford and Waterford | One of Jennifer and Lori's hunting dogs. Has silver caps fitted over the teeth. |
 | **Tiron** | Dog | Cave between Crawford and Waterford | One of Jennifer and Lori's hunting dogs. Has silver caps fitted over the teeth. |
-| **Alice Heatherman** | Human | Mordenshire | Mayor of Mordenshire and mother of Jennifer and Lori. Working with Captain Kilm O'Connell on Ravenlost's investigation of the sanatorium. |
+| **Alice Weathermay** | Human | Mordenshire | Mayor of Mordenshire and mother of Jennifer and Lori. Working with Captain Kilm O'Connell on Ravenlost's investigation of the sanatorium. |
 | **Rudolf von Richten** | Human / monster hunter and herbalist | Van Richten's Herbalist, Mordenshire | Monster hunter and occult expert in Mordenshire. Helped Ravenlost contain a creature released from a mummified cat and shared information about the Mists, Lord Godfroy, and Glim Brightstone. |
 | **Farrow** | Human | Waterford | Operates Farrow and Thorn. Hired Ravenlost to recover Lady Waterford's portrait and Lord Waterford's jeweled cane. |
 | **Lord Waterford** | Spirit | Waterford family mausoleum | Ghost who guided Ravenlost through the family mausoleum. Husband of Lady Waterford. |
@@ -65,7 +65,7 @@ A quick-reference list of named people and beings Ravenlost has encountered or h
 | **Robert** | Human | Mordenshire Sanatorium | Lower-security patient originally from Barovia. Says he became lost in the Mists and eventually arrived in Mordent. |
 | **Wendel** | Human | Heard of at Mordenshire Sanatorium | Former occupant of Jain's room. Taken to the ICU about a week before Ravenlost arrived and has not returned. |
 | **Trashcan** | Unknown | Mordenshire Sanatorium | High-security patient who likes to stay inside a trashcan. |
-| **Mikhail Hatsamamous** | Human | Heard of at House on Griffin Hill | Established a hospital in Falkovnia for people suffering from the region's undead affliction. One of Lord Godfroy's leads concerning Glim Brightstone. |
+| **Mikhail Hatzimvas** | Human | Heard of at House on Griffin Hill | Established a hospital in Falkovnia for people suffering from the region's undead affliction. One of Lord Godfroy's leads concerning Glim Brightstone. |
 | **Mist Horror** | Creature | Heard of from Van Richten | Incorporeal predator that uses fear to lure victims and can take forms meaningful to them. Van Richten believes Jain may have encountered one outside Candle Cross. |
 | **Jordan** | Unknown | Heard of through Cadric | Missing person connected to Cadric's tarnished silver coin and black feather. |
 | **Korath** | Unknown | Bia's past | Name connected to Bia's childhood attack. Identity and significance remain unknown. |
