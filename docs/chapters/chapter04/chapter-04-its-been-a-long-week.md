@@ -894,37 +894,53 @@ Osgood's demeanor changed immediately. This was going well.
 
 Cadric decided honesty was probably their best option.
 
-Ravenlost had found one of Glim's laboratories. They knew Godfroy was interested in Glim's inventions. And they had come to Welkspring because Godfroy wanted them to find an augmented version of the battery systems Glim had designed for his automatons.
-
-They also strongly suspected that giving Godfroy what he wanted would be a terrible idea.
+“I'm telling you this because I'm thinking it might be helpful for us to just lay cards on the table. It's possible that we came across a lab that once belonged to Glim, and we are aware of the fact that certain people, Lord Godfrey, are interested in obtaining information about and his inventions. The reason we're here today is because we're supposed to help Lord Godfrey procure one of those items, most likely to be used in some incredibly horrendous manner to his benefit and the detriment of everyone else around.”
 
 Osgood had a question.
 
-Did Ravenlost actually intend to help him?
+“And are you intending to help him? Because you didn't say you weren't. You just said you were working for him.”
 
-That was harder to answer.
+Cadric continued. “My research has told me that you are in fact a friend of Glen's.”
+
+Osgood's lips curled up at the corners. “You can say that.”
+
+“We also know that Glim is missing.” 
+
+“Yes, he has been for quite some time.” 
+
+“And we know, based on what we uncovered, that he was heading to north of Abbey Point.”
+
+Again, Osgood questioned whether Ravenlost actually intended to help Lord Godfroy.
+
+That was harder to answer. 
 
 Ravenlost explained that working for a dreadlord was complicated. They weren't particularly interested in helping Godfroy, but they also weren't particularly interested in becoming his enemies. They mostly winged it.
 
+“We've been fortunate enough to skirt the edges, and we're hoping to continue that.”
+
 Osgood wasn't reassured. He summarized the situation back to them.
 
-Ravenlost had come at the request of a dreadlord to gather information about a friend Osgood hadn't seen in decades, and they couldn't tell him whether they intended to give that information to the dreadlord afterward.
+“So I'm going to repeat as I understand. You are here at the behest of the dread lord, to gather information about a friend of mine that I haven't seen in decades, and you aren't confirming or denying whether you intend to work with that dread lord for whatever his purposes may be. Am I incorrect?”
 
-That was, unfortunately, accurate.
+That was, unfortunately, accurate. Then Cadric remembered another detail. 
 
-So Ravenlost kept talking.
+“His interest is specifically in an augmented version of the battery systems that are used to power the automatons that Glim designed. We’ve seen this before.”
 
 They told him about the Glim-related device beneath Candle Cross, capable of releasing the Mists around the town. They told him about the machinery in Glim's laboratory that appeared capable of charging batteries. They explained that despite repeatedly finding things Godfroy might want, they had never been particularly successful at actually giving him those things.
 
+“So again, we've never really successfully given Lord Godfrey everything that he was hoping for.”
+
 This was somehow part of their argument in favor of trusting them.
 
-They also told Osgood something he hadn't known. Godfroy's attention was already fixed on Welkspring House. If Ravenlost returned with nothing, Godfroy could simply send someone else.
+Then they told Osgood something else he hadn't known. 
 
-Someone more capable. And possibly considerably less honest.
+Godfroy's attention was already fixed on Welkspring House. If Ravenlost returned with nothing, Godfroy could simply send someone else. Someone more capable. And possibly considerably less honest.
 
-They weren't threatening Osgood. They were trying very hard to make that clear.
+This sounded like a threat to Osgood, but Cadric tried to reassure him.
 
-Eventually, Cadric offered something more concrete.
+“I was absolutely not trying to threaten you. Look, we've had a week. It's been a long week, and I have no interest whatsoever in creating more enemies right now. And frankly, you seem like a decent fellow. So our goal here is not to create animosity. Again, we're giving you information that you didn't have 15 minutes ago.”
+
+Then, Cadric offered something more concrete.
 
 Godfroy had loaned him a magical shortsword. Ravenlost had discovered that Godfroy could use it to scry on Cadric. So they kept it inside the Bag of Holding.
 
