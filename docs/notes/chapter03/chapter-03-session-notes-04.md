@@ -399,7 +399,7 @@ The facility operates with very little oversight from the town.
 We later met with:
 
 - **Captain Kilm O'Connell**
-- **Mayor Alice Weathermay**
+- **Mayor Alice Heatherman**
 
 The sanatorium is controlled by **Dr. Caroline Resdonna**.
 
@@ -584,7 +584,7 @@ Captain in Mordenshire.
 
 Initially questioned Jain about Madeline's murder. Recruited Ravenlost to investigate the sanatorium.
 
-### Alice Weathermay
+### Alice Heatherman
 
 Mayor of Mordenshire.
 
@@ -606,7 +606,7 @@ Hired Ravenlost to investigate three leads connected to Glim Brightstone and ret
 
 Payment: **15,000 gp each.**
 
-### Mikhail Hazimvas
+### Mikhail Hatsamamous
 
 Established a hospital in **Falkovnia** for people suffering from the region's undead affliction.
 
