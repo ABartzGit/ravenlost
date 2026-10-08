@@ -352,7 +352,7 @@ For a moment, the party had found something that could control them.
 
 Cadric didn’t know what was happening in the ICU. Worried that Jain was in trouble and had little time, he took his plan to another level. He drank his Potion of Growth, increasing his size until he was approximately as tall as Dr. Caroline. Then he cast Disguise Self.
 
-Now there were two Dr. Carolines. One was battered and being choked by Jain. The other was Cadric. On the second floor, he commanded the two orderlies to drop their keys. He took a set to unlock the ICU door.
+Now there were two Dr. Carolines. One was battered and being choked by Jain. The other was Cadric. On the second floor, he commanded the two orderlies to drop their keys. He took a set to unlock the ICU door. The other set remained on the floor.
 
 Dr. Dave emerged from a room deep in the ICU just as Cadric unlocked the main door. He looked at Jain. He looked at a Dr. Caroline being choked. He looked at the other Dr. Caroline.
 
