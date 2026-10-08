@@ -412,7 +412,7 @@ His nonmagical weapon wouldn't be useful against ghosts, and he had chosen not t
 
 Godfroy agreed to lend him a **+1 shortsword**. 
 
-Hooray, a magical item from a dread lord. Something no one really wanted.
+Hooray, a magical item from a dreadlord. Something no one really wanted.
 
 Henry then escorted the party from the manor while he fetched the sword. A few minutes later, he returned with a beautiful sword and scabbard.
 
