@@ -40,7 +40,7 @@ A quick-reference list of significant loot, magic items, valuables, quest object
 | **Six vials of holy water** | Party | Van Richten's Herbalist | Given to Ravenlost by Rudolph Van Richten. |
 | **Four wooden stakes** | Party | Van Richten's Herbalist | Given to Ravenlost by Rudolph Van Richten. |
 | **Tarokka deck** | Party | Van Richten's Herbalist | Given to Ravenlost by Rudolph Van Richten. |
-| **Silver canine caps** | Jain / collected | Van Richten’s Herbalist | Commissioned from Rudolph Van Richten and obtained before Ravenlost departed Mordenshire. |
+| **Silver canine caps** | Jain / collected | Van Richten's Herbalist | Commissioned from Rudolph Van Richten and obtained before Ravenlost departed Mordenshire. |
 | **Silver-imbued shortsword** | Jain / at Hammerbarn | Hammerbarn's Blacksmith | Jain's shortsword was left to be imbued with silver. Expected to take about one week. |
 | **EC Lights** | Cadric and Elisandra / commissioned | Hammerbarn's Blacksmith | Reusable magical lights designed by Cadric and Elisandra using *Continual Flame*, with removable caps. |
 | **+1 shortsword** | Cadric / borrowed; stored in Bag of Holding | House on Griffin Hill | Loaned by Lord Godfroy. Ravenlost learned he could scry on Cadric through the sword and put it inside the Bag of Holding to block surveillance. |
