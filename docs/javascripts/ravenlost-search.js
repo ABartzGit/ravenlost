@@ -30,12 +30,30 @@
       "'": "&#39;"
     })[char]);
 
+  /**
+   * Converts indexed HTML to plain text while
+   * preserving paragraph and block boundaries.
+   *
+   * @param {string} html HTML from the MkDocs search index.
+   * @returns {string} Plain text with paragraph breaks.
+   */
   function plainText(html) {
     const node = document.createElement("div");
     node.innerHTML = html || "";
 
+    // Insert paragraph breaks after block-level elements.
+    node.querySelectorAll(
+      "p, li, h1, h2, h3, h4, h5, h6, tr, blockquote"
+    ).forEach(element => {
+      element.appendChild(
+        document.createTextNode("\n\n")
+      );
+    });
+
     return (node.textContent || "")
-      .replace(/\s+/g, " ")
+      .replace(/[ \t]+/g, " ")
+      .replace(/\n[ \t]+/g, "\n")
+      .replace(/\n{3,}/g, "\n\n")
       .trim();
   }
 
@@ -61,6 +79,15 @@
     const q = normalize(query);
 
     if (/\b(first|earliest|initially|originally)\b/.test(q)) {
+      return "first";
+    }
+
+    // Treat an unspecified "where did we meet" question
+    // as a request for the earliest documented meeting.
+    if (
+      /\bwhere\b/.test(q) &&
+      /\b(meet|met|encounter|encountered)\b/.test(q)
+    ) {
       return "first";
     }
 
@@ -115,16 +142,16 @@
     );
   }
 
-    /**
-     * Extracts a relevant sentence from a matching section.
-     *
-     * This is a heuristic, not an AI-generated answer.
-     *
-     * @param {string} text Full section text.
-     * @param {string[]} terms Search terms.
-     * @returns {string} Relevant sentence or short excerpt.
-     */
-    function extractAnswer(text, terms) {
+  /**
+   * Extracts a relevant sentence from a matching section.
+   *
+   * This is a heuristic, not an AI-generated answer.
+   *
+   * @param {string} text Full section text.
+   * @param {string[]} terms Search terms.
+   * @returns {string} Relevant sentence or short excerpt.
+   */
+  function extractAnswer(text, terms) {
     const sentences = text.match(
         /[^.!?]+(?:[.!?]+|$)/g
     ) || [text];
@@ -165,7 +192,64 @@
       .map(sentence => sentence.trim())
       .join(" ");
     }
-    
+
+  /**
+   * Scores paragraphs based on how closely they match
+   * the user's search terms.
+   *
+   * @param {string} text Full section text.
+   * @param {string[]} terms Search terms.
+   * @returns {object} Best passage and its score.
+   */
+  function scorePassages(text, terms) {
+    const passages = text
+      .split(/\n\s*\n/)
+      .map(passage => passage.trim())
+      .filter(Boolean);
+
+    let best = {
+      passage: "",
+      score: 0,
+      matchedTerms: 0
+    };
+
+    for (const passage of passages) {
+      const normalized = normalize(passage);
+
+      const matched = terms.filter(term =>
+        normalized.includes(term)
+      );
+
+      if (!matched.length) {
+        continue;
+      }
+
+      // Reward passages containing more search terms.
+      let score = matched.length * 3;
+
+      // Bonus when all search terms appear together.
+      if (matched.length === terms.length) {
+        score += 10;
+      }
+
+      // Prefer shorter, more focused passages.
+      score += Math.max(
+        0,
+        5 - Math.floor(passage.length / 200)
+      );
+
+      if (score > best.score) {
+        best = {
+          passage,
+          score,
+          matchedTerms: matched.length
+        };
+      }
+    }
+
+    return best;
+  }
+
   function buildRecords(docs) {
     return docs
       .map((doc, position) => ({
@@ -225,12 +309,12 @@
           0
         );
 
-        // For encounter questions, favor descriptions of
-        // introductions or meetings.
+        // Favor passages describing an introduction
+        // rather than a later encounter.
         if (encounterQuestion) {
-          if (
-            /\b(introduced|greeted|met|encountered)\b/.test(text)
-          ) {
+          if (/\b(introduced|introduced himself|introduced herself)\b/.test(text)) {
+            score += 10;
+          } else if (/\b(greeted|met|encountered)\b/.test(text)) {
             score += 3;
           }
         }
@@ -245,10 +329,24 @@
           }
         }
 
+        // Find the paragraph containing the strongest
+        // concentration of search terms.
+        const bestPassage = scorePassages(
+          record.text,
+          terms
+        );
+
+        // Use passage relevance as an additional ranking signal.
+        score += bestPassage.score;
+
         return {
           ...record,
           score,
-          excerpt: snippet(record.text, terms)
+          bestPassage: bestPassage.passage,
+          excerpt: snippet(
+            bestPassage.passage || record.text,
+            terms
+          )
         };
       })
       .filter(Boolean)
@@ -257,6 +355,7 @@
           return (
             a.chapter - b.chapter ||
             sourceRank(a) - sourceRank(b) ||
+            b.score - a.score ||
             a.position - b.position
           );
         }
@@ -383,7 +482,7 @@
       const bestMatch = matches[0];
 
       const answer = extractAnswer(
-        bestMatch.text,
+        bestMatch.bestPassage || bestMatch.text,
         tokens(query)
       );
 
