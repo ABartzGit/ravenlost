@@ -254,14 +254,14 @@ Three party members received magical items:
 | --- | --- | --- |
 | Jain | Periapt of Health | A magical item that protects against disease |
 | Elisandra | Pearl of Power | Allows its bearer to regain an expended spell slot, subject to the item's limitations |
-| Cadric | Arum and Argentum | A matched pair of magical shortswords |
+| Cadric | Arum and Argentum | A matched pair of magical daggers |
 | Bia | — | Didn’t receive a magical item |
 
 **Arum** and **Argentum **have special properties when wielded together:
 
-- Both are +1 shortswords.
+- Both are +1 daggers.
 - When dual-wielded, they allow Cadric to add his ability modifier to the damage of the second attack.
-- If both swords hit the same target, they deal an additional **1d4 piercing damage**, and the target cannot take reactions until the end of the turn.
+- If both daggers hit the same target, they deal an additional **1d4 piercing damage**, and the target cannot take reactions until the end of the turn.
 
 ### Checking on old friends
 
