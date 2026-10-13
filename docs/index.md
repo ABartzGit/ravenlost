@@ -23,16 +23,18 @@ It all began at the Black Raven Inn, with four strangers and a job from a man na
 
 <div class="campaign-status">
 
-<p><strong>📍 Mordenshire</strong> &nbsp;&nbsp; <strong>⚔️ Level 4</strong></p>
+<p><strong>📍 Welkspring House, Echo Island</strong> &nbsp;&nbsp; <strong>⚔️ Level 4</strong></p>
 
 <p>
-Ravenlost has reached Mordenshire, where a murder investigation has led to an
-undercover assignment inside the town's sanatorium. In three days, they'll go
-undercover. In one week, Lord Godfroy expects them to begin searching for
-<strong>Glim Brightstone</strong> and a more powerful Glim battery.
+After surviving the sanatorium and uncovering the truth behind Mordenshire's
+murders, Ravenlost has sailed to Echo Island in search of answers about
+<strong>Glim Brightstone</strong>. They've reached Welkspring House and met
+<strong>Osgood Escar</strong>, an old friend of Glim's who may know more about
+his mysterious inventions and disappearance.
 </p>
 
-<p><strong>Next:</strong> House on Griffin Hill — meet Lord Godfrey.</p>
+<p><strong>Next:</strong> Inside Welkspring House — learn what Osgood knows
+about Glim, and what Lord Godfroy might be planning.</p>
 
 </div>
 
