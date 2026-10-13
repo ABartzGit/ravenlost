@@ -254,10 +254,10 @@ Three party members received magical items:
 | --- | --- | --- |
 | Jain | Periapt of Health | A magical item that protects against disease |
 | Elisandra | Pearl of Power | Allows its bearer to regain an expended spell slot, subject to the item's limitations |
-| Cadric | Arum and Argentum | A matched pair of magical daggers |
+| Cadric | Aurum and Argentum | A matched pair of magical daggers |
 | Bia | — | Didn’t receive a magical item |
 
-**Arum** and **Argentum **description: 
+**Aurum** and **Argentum **description: 
 
 - This gold and silver set of daggers seem ordinary when used on their own but become magical when used together. 
 - You gain a +1 bonus to attack and damage roles made with these daggers while you hold one of them in each hand.
