@@ -462,7 +462,7 @@ The second was a **Pearl of Power**, which could restore some of a spellcaster's
 
 Then Alice opened a case containing two matching daggers, one gold and one silver.
 
-**Arum** and **Argentum**
+**Aurum** and **Argentum**
 
 Both were magical +1 weapons, but they'd been designed to be used together. In the hands of someone fighting with both, the pair became considerably more effective.
 
