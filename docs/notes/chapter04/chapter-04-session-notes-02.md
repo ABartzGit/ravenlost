@@ -257,11 +257,12 @@ Three party members received magical items:
 | Cadric | Arum and Argentum | A matched pair of magical daggers |
 | Bia | — | Didn’t receive a magical item |
 
-**Arum** and **Argentum **have special properties when wielded together:
+**Arum** and **Argentum **description: 
 
-- Both are +1 daggers.
-- When dual-wielded, they allow Cadric to add his ability modifier to the damage of the second attack.
-- If both daggers hit the same target, they deal an additional **1d4 piercing damage**, and the target cannot take reactions until the end of the turn.
+- This gold and silver set of daggers seem ordinary when used on their own but become magical when used together. 
+- You gain a +1 bonus to attack and damage roles made with these daggers while you hold one of them in each hand.
+- When Cadric engages in two-weapon fighting using these daggers, he can add his ability modifier to the damage of the second attack.
+- In addition, if Cadric hits the same target with both daggers in the same round, the target takes an extra **1d4 piercing damage** from the second attack, and the target can’t use its reaction until the end of Cadric’s turn.
 
 ### Checking on old friends
 
