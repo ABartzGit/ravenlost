@@ -5,7 +5,7 @@
   const STOP_WORDS = new Set([
     "a", "an", "and", "are", "at", "be", "did", "do",
     "does", "for", "from", "how", "i", "in", "is",
-    "it", "me", "of", "on", "our", "the", "to",
+    "it", "me", "of", "on", "our", "us", "the", "to",
     "was", "we", "were", "what", "when", "where",
     "who", "with", "first", "earliest", "initially",
     "originally", "encounter", "encountered", "meet",
@@ -14,12 +14,37 @@
     "go", "went"
   ]);
 
+  // Words that can describe a job, task, or assignment.
+  const TASK_TERMS = [
+    "task",
+    "job",
+    "assignment",
+    "mission",
+    "work",
+    "asked",
+    "wanted",
+    "recover",
+    "retrieve",
+    "search"
+  ];
+
   const normalize = value => String(value || "")
     .toLowerCase()
     .normalize("NFKD")
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/[^a-z0-9]+/g, " ")
     .trim();
+
+    /**
+     * Checks whether a complete word or phrase appears in text.
+     *
+     * @param {string} text Normalized text.
+     * @param {string} term Normalized word or phrase.
+     * @returns {boolean} Whether the term is present.
+     */
+    function containsTerm(text, term) {
+      return (` ${text} `).includes(` ${term} `);
+    }
 
   const escapeHtml = value =>
     String(value).replace(/[&<>"']/g, char => ({
@@ -65,8 +90,49 @@
           .filter(word =>
             word && !STOP_WORDS.has(word)
           )
+          .map(word =>
+            /^(hire|hired|hires|hiring)$/.test(word)
+              ? "hir"
+              : word
+          )
       )
     ];
+  }
+
+  /**
+   * Extracts phrases while preserving connecting words
+   * inside names and locations.
+   *
+   * @param {string} query User's search question.
+   * @returns {string[]} Candidate phrases.
+   */
+  function phrases(query) {
+    const words = normalize(query).split(" ");
+
+    const connectors = new Set([
+      "of", "on", "the", "at", "in"
+    ]);
+
+    const results = [];
+    let current = [];
+
+    for (const word of words) {
+      if (!STOP_WORDS.has(word) || connectors.has(word)) {
+        current.push(word);
+      } else {
+        if (current.length >= 2) {
+          results.push(current.join(" "));
+        }
+
+        current = [];
+      }
+    }
+
+    if (current.length >= 2) {
+      results.push(current.join(" "));
+    }
+
+    return results;
   }
 
   /**
@@ -107,6 +173,17 @@
     }
 
     return "keyword";
+  }
+
+  /**
+   * Identifies questions about jobs or assignments.
+   *
+   * @param {string} query User's question.
+   * @returns {boolean} Whether the question concerns a task.
+   */
+  function isTaskQuestion(query) {
+    return /\b(hire|hired|hires|hiring|task|job|assignment|mission)\b/
+      .test(normalize(query));
   }
 
   function chapterNumber(location) {
@@ -151,30 +228,44 @@
    * @param {string[]} terms Search terms.
    * @returns {string} Relevant sentence or short excerpt.
    */
-  function extractAnswer(text, terms) {
+  function extractAnswer(text, terms, taskQuestion = false) {
     const sentences = text.match(
         /[^.!?]+(?:[.!?]+|$)/g
     ) || [text];
 
     const ranked = sentences
-        .map((sentence, index) => {
+      .map((sentence, index) => {
         const normalized = normalize(sentence);
 
         const matches = terms.filter(term =>
             normalized.includes(term)
         );
 
+        const taskMatches = taskQuestion
+          ? TASK_TERMS.filter(term =>
+              containsTerm(normalized, term)
+            )
+          : [];
+
+        const objectiveMatches = taskQuestion
+          ? ["recover", "retrieve", "search", "find", "locate"]
+              .filter(term => containsTerm(normalized, term))
+          : [];
+
         return {
-            sentence: sentence.trim(),
-            matches: matches.length,
-            index
+          sentence: sentence.trim(),
+          matches:
+            matches.length +
+            taskMatches.length * 2 +
+            objectiveMatches.length * 5,
+          index
         };
-        })
-        .filter(item => item.matches > 0)
-        .sort((a, b) =>
+      })
+      .filter(item => item.matches > 0)
+      .sort((a, b) =>
         b.matches - a.matches ||
         a.index - b.index
-        );
+      );
 
     if (!ranked.length) {
       return snippet(text, terms);
@@ -213,7 +304,15 @@
       matchedTerms: 0
     };
 
-    for (const passage of passages) {
+    for (let i = 0; i < passages.length; i++) {
+      // Consider the current paragraph and its neighbors.
+      const passage = passages
+        .slice(
+          Math.max(0, i - 1),
+          Math.min(passages.length, i + 2)
+        )
+        .join("\n\n");
+
       const normalized = normalize(passage);
 
       const matched = terms.filter(term =>
@@ -266,6 +365,7 @@
 
   function search(records, query) {
     const terms = tokens(query);
+    const searchPhrases = phrases(query);
 
     if (!terms.length) {
       return [];
@@ -273,6 +373,7 @@
 
     const intent = detectIntent(query);
     const chronological = intent === "first";
+    const taskQuestion = isTaskQuestion(query);
 
     const encounterQuestion =
       /\b(meet|met|encounter|encountered)\b/i.test(query);
@@ -292,22 +393,72 @@
         const title = normalize(record.title);
         const text = normalize(record.text);
 
-        const matched = terms.filter(term =>
-          title.includes(term) ||
-          text.includes(term)
+        const searchableText = text.replace(
+          /\b(hire|hired|hires|hiring)\b/g,
+          "hir"
         );
 
-        if (matched.length !== terms.length) {
+        // For task questions, allow task-related vocabulary
+        // to stand in for "hire" and its variations.
+        const requiredTerms = taskQuestion
+          ? terms.filter(term => term !== "hir")
+          : terms;
+
+        const matched = requiredTerms.filter(term =>
+          containsTerm(title, term) ||
+          containsTerm(searchableText, term)
+        );
+
+        const hasTaskContext = !taskQuestion ||
+          TASK_TERMS.some(term => containsTerm(text, term));
+
+        if (
+          record.chapter === 1 &&
+          record.title === "The Black Lantern Inn"
+        ) {
+          console.table(
+            terms.map(term => ({
+              term,
+              inTitle: title.includes(term),
+              inText: searchableText.includes(term)
+            }))
+          );
+        }
+
+        if (
+          matched.length !== requiredTerms.length ||
+          !hasTaskContext
+        ) {
           return null;
         }
 
         let score = terms.reduce(
           (sum, term) =>
             sum +
-            (title.includes(term) ? 4 : 0) +
-            (text.includes(term) ? 1 : 0),
+            (containsTerm(title, term) ? 4 : 0) +
+            (containsTerm(searchableText, term) ? 1 : 0),
           0
         );
+
+        // Reward sections containing task-related vocabulary.
+        if (taskQuestion) {
+          const taskMatches = TASK_TERMS.filter(term =>
+            new RegExp(`\\b${term}\\b`).test(text)
+          );
+
+          score += Math.min(taskMatches.length, 3) * 3;
+        }
+
+        // Reward complete phrases appearing together.
+        for (const phrase of searchPhrases) {
+          if (title.includes(phrase)) {
+            score += 8;
+          }
+
+          if (text.includes(phrase)) {
+            score += 6;
+          }
+        }
 
         // Favor passages describing an introduction
         // rather than a later encounter.
@@ -365,6 +516,16 @@
             sourceRank(a) - sourceRank(b) ||
             b.score - a.score ||
             a.chapter - b.chapter ||
+            a.position - b.position
+          );
+        }
+
+        // For task questions, prioritize chapter narration.
+        if (taskQuestion) {
+          return (
+            sourceRank(a) - sourceRank(b) ||
+            a.chapter - b.chapter ||
+            b.score - a.score ||
             a.position - b.position
           );
         }
@@ -482,8 +643,11 @@
       const bestMatch = matches[0];
 
       const answer = extractAnswer(
-        bestMatch.bestPassage || bestMatch.text,
-        tokens(query)
+        isTaskQuestion(query)
+          ? bestMatch.text
+          : (bestMatch.bestPassage || bestMatch.text),
+        tokens(query),
+        isTaskQuestion(query)
       );
 
       const answerUrl = new URL(
