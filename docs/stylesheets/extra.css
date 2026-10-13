@@ -161,3 +161,187 @@
   border-radius: 3rem;
   padding: 3px;
 }
+
+/* =========================================
+   ASK RAVENLOST
+   ========================================= */
+
+.ravenlost-answer {
+  margin: 1.5rem 0;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid var(--ravenlost-brass);
+  border-left: 4px solid var(--ravenlost-burgundy);
+  border-radius: 0.4rem;
+  background: rgba(128, 98, 143, 0.05);
+}
+
+.ravenlost-answer-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.md-typeset .ravenlost-answer-header h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.ravenlost-answer-badge {
+  padding: 0.2rem 0.65rem;
+  border-radius: 1rem;
+  background: rgba(181, 154, 98, 0.15);
+  border: 1px solid var(--ravenlost-brass);
+  font-size: 0.7rem;
+  white-space: nowrap;
+}
+
+.ravenlost-answer-text {
+  line-height: 1.7;
+}
+
+.ravenlost-answer-source {
+  margin-bottom: 0;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.ravenlost-answer-source a {
+  font-weight: 600;
+}
+
+/* Additional results */
+
+.ravenlost-more-results {
+  margin-top: 1.5rem;
+  border-top: 1px solid var(--ravenlost-brass);
+  padding-top: 1rem;
+}
+
+.ravenlost-more-results summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--ravenlost-burgundy);
+}
+
+.ravenlost-more-results ol {
+  margin-top: 1.25rem;
+}
+
+.ravenlost-more-results li {
+  margin-bottom: 1.5rem;
+}
+
+.ravenlost-result-meta {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+}
+
+.ravenlost-more-results li p {
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+}
+
+/* Dark mode */
+
+[data-md-color-scheme="slate"] .ravenlost-answer {
+  background: rgba(128, 98, 143, 0.12);
+  border-left-color: var(--ravenlost-purple);
+}
+
+[data-md-color-scheme="slate"] .ravenlost-more-results summary {
+  color: #b69bc4;
+}
+
+/* Ask Ravenlost: override Material's details styling */
+
+.md-typeset details.ravenlost-more-results {
+  margin: 1.5rem 0;
+  padding: 0;
+  border: 1px solid var(--ravenlost-brass);
+  border-radius: 0.4rem;
+  background: transparent;
+  box-shadow: none;
+  overflow: hidden;
+}
+
+.md-typeset details.ravenlost-more-results > summary {
+  margin: 0;
+  padding: 0.9rem 1.25rem;
+  border: 0;
+  background: rgba(128, 98, 143, 0.06);
+  color: var(--ravenlost-burgundy);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.md-typeset details.ravenlost-more-results > summary::before,
+.md-typeset details.ravenlost-more-results > summary::after {
+  background-color: var(--ravenlost-burgundy);
+}
+
+.md-typeset details.ravenlost-more-results > ol {
+  margin: 1rem 1.5rem;
+}
+
+[data-md-color-scheme="slate"]
+.md-typeset details.ravenlost-more-results > summary {
+  background: rgba(128, 98, 143, 0.12);
+  color: #b69bc4;
+}
+
+/* Fix Ask Ravenlost expandable-results icon and spacing */
+
+.md-typeset details.ravenlost-more-results > summary {
+  position: relative;
+  padding-left: 1.25rem;
+  list-style: none;
+}
+
+/* Remove Material's default icon */
+.md-typeset details.ravenlost-more-results > summary::before,
+.md-typeset details.ravenlost-more-results > summary::after {
+  display: none;
+}
+
+/* Remove the browser's default disclosure marker */
+.md-typeset details.ravenlost-more-results > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Add a simple chevron on the right */
+.md-typeset details.ravenlost-more-results > summary {
+  padding-right: 2.5rem;
+}
+
+/* Draw a larger, consistent chevron */
+.md-typeset details.ravenlost-more-results > summary::after {
+  content: "";
+  display: block;
+  position: absolute;
+  right: 1.25rem;
+  top: 50%;
+
+  width: 0.35rem;
+  height: 0.35rem;
+
+  border: solid var(--ravenlost-burgundy);
+  border-width: 0 2px 2px 0;
+  border-radius: 0;
+  background: none;
+  mask: none;
+  -webkit-mask: none;
+
+  transform: translateY(-65%) rotate(-45deg);
+}
+
+/* Point downward when expanded */
+.md-typeset details.ravenlost-more-results[open] > summary::after {
+  transform: translateY(-75%) rotate(45deg);
+}
+

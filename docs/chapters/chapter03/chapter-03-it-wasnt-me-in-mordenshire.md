@@ -1,6 +1,7 @@
 # “It wasn’t me” in Mordenshire
 
-> *Ravenlost finally reached Mordenshire. Between a monster hunter, a murder investigation, an undercover assignment, and a job from a dreadlord, they quickly found plenty of reasons to stay.*
+> *Ravenlost finally reached Mordenshire. Between a monster hunter, a murder investigation, an undercover assignment, and a job from a dread
+lord, they quickly found plenty of reasons to stay.*
 
 <img src="../../../images/chapter-03-it-wasnt-me-in-mordenshire.png" alt="Bia and Jain examining a body on the ground" class="chapter-art">
 
@@ -324,7 +325,7 @@ He needed two patients, a janitor, and a groundskeeper.
 
 To no one’s surprise, Jain immediately volunteered to be a patient. And O'Connell made it clear that Jain's participation as a patient was not really up for debate.
 
-Ravenlost later met with Mordenshire's mayor, **Alice Heatherman,** the mother of Jennifer and Lori. Together with Captain O’Connell, they discussed the operation. 
+Ravenlost later met with Mordenshire's mayor, **Alice Weathermay,** the mother of Jennifer and Lori. Together with Captain O’Connell, they discussed the operation. 
 
 The sanatorium was controlled by **Dr. Caroline Resdonna**, who brought in outside researchers and staff while largely avoiding town oversight. The party's assignment was to determine what was happening inside and, if possible, whether the sanatorium was connected to the murders.
 

@@ -22,8 +22,12 @@ theme:
   favicon: images/favicon.png
 
   # Auto-expand the left navigation and include previous and next navigation in the footer.
-  features: 
+  # Expand search capabilities to include suggestions, highlighting, and sharing of search results.
+  features:
     - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
   
   # Set the color palette for light and dark mode, and include a toggle to switch between them.
   palette:
@@ -55,6 +59,13 @@ extra:
       
 extra_css:
   - stylesheets/extra.css
+
+# Search
+plugins:
+  - search:
+      indexing: full
+
+
 
 # Site navigation
 nav: 
@@ -90,3 +101,4 @@ nav:
     - Places: reference/places.md
     - Loot & important items: reference/loot-and-important-items.md
     - Bia's character sheets: character-sheets/bia-character-sheets.md
+  - Ask Ravenlost: ask-ravenlost.md
