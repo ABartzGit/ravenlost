@@ -38,4 +38,63 @@ about Glim, and what Lord Godfroy might be planning.</p>
 
 </div>
 
-<small>By Bia Galene</small>
+## Follow our adventures
+
+<section class="ravenlost-newsletter" id="subscribe">
+
+  <p>
+    Want to know when a new Ravenlost session is published?
+    Subscribe to receive an email whenever a new session
+    is ready to read.
+  </p>
+
+  <form
+    id="ravenlost-signup-form"
+    action="https://script.google.com/macros/s/AKfycby4H5B-K3WPWPx42ykpNcTaaDz2cB2MRWQl8dbK4C1-dKo5NRqUQnQNobz83JhExdMK_g/exec"
+    method="POST"
+    target="ravenlost-signup-target"
+  >
+    <div class="ravenlost-signup-fields">
+      <label for="ravenlost-name">
+        Name
+        <input
+          type="text"
+          id="ravenlost-name"
+          name="name"
+          autocomplete="name"
+          required
+        >
+      </label>
+
+      <label for="ravenlost-email">
+        Email
+        <input
+          type="email"
+          id="ravenlost-email"
+          name="email"
+          autocomplete="email"
+          required
+        >
+      </label>
+    </div>
+
+    <button type="submit" id="ravenlost-signup-button">
+      Subscribe
+    </button>
+  </form>
+
+  <iframe
+    name="ravenlost-signup-target"
+    id="ravenlost-signup-target"
+    title="Newsletter submission"
+    hidden
+  ></iframe>
+
+  <p
+    id="ravenlost-signup-message"
+    role="status"
+    aria-live="polite"
+    hidden
+  ></p>
+</section>
+
