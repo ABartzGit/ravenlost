@@ -56,7 +56,10 @@ extra:
       link: https://github.com/ABartzGit/ravenlost
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/angela-bartz/
-      
+
+extra_javascript:
+  - javascripts/newsletter.js
+
 extra_css:
   - stylesheets/extra.css
 
@@ -64,7 +67,6 @@ extra_css:
 plugins:
   - search:
       indexing: full
-
 
 
 # Site navigation
