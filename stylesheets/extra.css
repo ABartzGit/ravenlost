@@ -345,3 +345,80 @@
   transform: translateY(-75%) rotate(45deg);
 }
 
+
+/* Ravenlost newsletter signup */
+
+.ravenlost-newsletter {
+  margin: 1rem 0;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.5rem;
+  background: var(--md-code-bg-color);
+}
+
+.ravenlost-newsletter h2 {
+  margin-top: 0;
+}
+
+.ravenlost-signup-fields {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+
+.ravenlost-signup-fields label {
+  display: block;
+  font-weight: 600;
+}
+
+.ravenlost-signup-fields input {
+  display: block;
+  width: 100%;
+  margin-top: 0.4rem;
+  padding: 0.65rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.3rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  font-weight: 400;
+}
+
+.ravenlost-signup-fields input:focus {
+  outline: 2px solid var(--md-accent-fg-color);
+  outline-offset: 2px;
+}
+
+#ravenlost-signup-button {
+  padding: 0.7rem 1.4rem;
+  border: 0;
+  border-radius: 0.3rem;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+#ravenlost-signup-button:hover {
+  opacity: 0.85;
+}
+
+#ravenlost-signup-button:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+#ravenlost-signup-message {
+  margin-top: 1rem;
+  font-weight: 500;
+}
+
+@media (max-width: 600px) {
+  .ravenlost-signup-fields {
+    grid-template-columns: 1fr;
+  }
+}
+
+
