@@ -397,7 +397,7 @@ Rather than confront the fearsome creature, the wandering halfling had offered h
 *Lupine came stalking, her eyes very bright.*  
 *Her fangs and her fur were dark as the night.*  
 *For the dead may be restless and beasts may draw near,*  
-*And the mist has thousands dark secrets to fear.*  
+*And the mist has thousands of dark secrets to fear.*  
 *But Cadrick just grinned at the brute ready to feed.*  
 *Come now, my furry friend, and let's share this fine mead.*
 

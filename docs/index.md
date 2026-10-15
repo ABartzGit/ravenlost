@@ -23,18 +23,17 @@ It all began at the Black Raven Inn, with four strangers and a job from a man na
 
 <div class="campaign-status">
 
-<p><strong>📍 Welkspring House, Echo Island</strong> &nbsp;&nbsp; <strong>⚔️ Level 4</strong></p>
+<p><strong>📍 Abbey Point</strong> &nbsp;&nbsp; <strong>⚔️ Level 4</strong></p>
 
 <p>
-After surviving the sanatorium and uncovering the truth behind Mordenshire's
-murders, Ravenlost has sailed to Echo Island in search of answers about
-<strong>Glim Brightstone</strong>. They've reached Welkspring House and met
-<strong>Osgood Escar</strong>, an old friend of Glim's who may know more about
-his mysterious inventions and disappearance.
+After defeating a Golthias blight and some unusually dangerous frogs, Ravenlost
+left Welkspring House with a mysterious charm, healing potions, poisons,
+and a generous supply of hemlock—both white and (mysteriously) purple.
 </p>
 
-<p><strong>Next:</strong> Inside Welkspring House — learn what Osgood knows
-about Glim, and what Lord Godfroy might be planning.</p>
+<p><strong>Next:</strong> A crumbling abbey, strange shadows, and a possible
+lead on Glim Brightstone await. What will Ravenlost discover when their
+adventure resumes in early November?</p>
 
 </div>
 
