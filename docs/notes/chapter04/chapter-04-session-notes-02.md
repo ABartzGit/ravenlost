@@ -10,7 +10,7 @@ Ravenlost's investigation of the sanatorium came to a fiery conclusion. Dr. Caro
 
 After reporting their findings to Mordenshire's authorities, Ravenlost spent several days recovering, collecting equipment, and researching Godfroy's three leads. Information from Gilda Haywood pointed them toward Osgood Escar, a botanist who had known Glim Brightstone and owned Welkspring House on Echo Island.
 
-The journey involved an unusual boat crew, a storm, an overnight stay with Chauncey, and a shortcut through a forest inhabited by hostile plant creatures.
+The journey involved an unusual boat crew, a storm, an overnight stay with Shauncey, and a shortcut through a forest inhabited by hostile plant creatures.
 
 At Welkspring House, Ravenlost encountered an automaton reminiscent of Cedgewick and finally met Osgood. After an uncomfortable conversation about their relationship with Godfroy, Osgood reluctantly invited them inside.
 
@@ -437,15 +437,15 @@ Despite the storm, everyone survived the crossing.
 
 ## Echo Island
 
-### Meeting Chauncey
+### Meeting Shauncey
 
 Ravenlost arrived at a small dock on Echo Island's southern shore.
 
 The area contained a few buildings, fishing boats, and cliffs overlooking the water.
 
-An older man named **Chauncey**, wearing a weathered raincoat and carrying a shielded lantern, came out to help secure *The Fletcher*.
+An older man named **Shauncey**, wearing a weathered raincoat and carrying a shielded lantern, came out to help secure *The Fletcher*.
 
-Chauncey offered the party shelter for the night.
+Shauncey offered the party shelter for the night.
 
 When he asked why they had come to Echo Island, Ravenlost avoided mentioning their real assignment.
 
@@ -455,15 +455,15 @@ Jain provided an explanation:
 
 The party also claimed to be a traveling circus troupe.
 
-Cadric performed his new song, which Chauncey thoroughly enjoyed.
+Cadric performed his new song, which Shauncey thoroughly enjoyed.
 
-Ravenlost spent the night at Chauncey's home without incident. They did not establish a watch.
+Ravenlost spent the night at Shauncey's home without incident. They did not establish a watch.
 
 By morning, the storm had passed.
 
 ### Getting directions to Welkspring House
 
-Chauncey explained that Welkspring House was approximately two hours inland, beyond a forest.
+Shauncey explained that Welkspring House was approximately two hours inland, beyond a forest.
 
 He warned Ravenlost that strange things had been happening in the woods and suggested speaking with Ava, a former groundskeeper at Welkspring House.
 
