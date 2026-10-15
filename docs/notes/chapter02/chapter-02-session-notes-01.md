@@ -6,7 +6,12 @@
 
 ## Adventure at a glance
 
-**Starting point:** Black Lantern Inn**Destination:** Mordenshire, Mordent**Unexpected stop:** Crawford**Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.**Main suspect/location:** Crawford Mano**Other suspicious location:** Locust Branch Hospital
+**Starting point:** Black Lantern Inn  
+**Destination:** Mordenshire, Mordent  
+**Unexpected stop:** Crawford  
+**Primary mystery:** Multiple people and entire families have disappeared without signs of forced entry or robbery.  
+**Main suspect/location:** Crawford Mano  
+**Other suspicious location:** Locust Branch Hospital
 
 ---
 
