@@ -824,7 +824,7 @@ Beyond the wrought-iron fence, Ravenlost found an open gate. That was either wel
 
 Inside, a winding path led through immaculate gardens toward an enormous estate. The manor itself was impressive, but beside it stood something even larger: a massive greenhouse packed with greenery.
 
-Off to one side was a carefully maintained topiary garden filled with animals. Ravenlost considered investigating it. They also considered whether the topiary animals might come alive and attack them.
+Off to one side was a carefully maintained topiary garden filled with animals. Jain considered investigating it. Cadric considered whether the topiary animals might come alive and attack them.
 
 They decided to leave the topiaries alone. For once, restraint won.
 
