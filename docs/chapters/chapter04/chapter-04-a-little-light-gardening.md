@@ -2,7 +2,7 @@
 
 > *Ravenlost came looking for answers about Glim Brightstone. All they had to do first was a little gardening. How hard could that be?*
 
-<img src="../../../images/chapter-04-its-been-a-long-week.png" alt="Gobbo waking up Captain Fletcher" class="chapter-art">
+<img src="../../../images/chapter-04-a-little-light-gardening.png" alt="Ravenlost fighting giant frogs in a hemlock grove" class="chapter-art">
 
 ---
 
@@ -397,7 +397,7 @@ Rather than confront the fearsome creature, the wandering halfling had offered h
 *Lupine came stalking, her eyes very bright.*  
 *Her fangs and her fur were dark as the night.*  
 *For the dead may be restless and beasts may draw near,*  
-*And the mist has 1000 dark secrets to fear.*  
+*And the mist has thousands dark secrets to fear.*  
 *But Cadrick just grinned at the brute ready to feed.*  
 *Come now, my furry friend, and let's share this fine mead.*
 
