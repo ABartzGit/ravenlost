@@ -706,13 +706,13 @@ As The Fletcher pulled in, the door of one of the houses opened. An older, weath
 
 Technically, yes.
 
-The man introduced himself as **Chauncey** and invited everyone inside to get out of the storm and dry off.
+The man introduced himself as **S****hauncey** and invited everyone inside to get out of the storm and dry off.
 
 Once they were settled, he had a reasonable question. What exactly had brought them to Echo Island?
 
 "Just sightseeing."
 
-Chauncey looked confused.
+Shauncey looked confused.
 
 "What sights?"
 
@@ -720,21 +720,21 @@ Chauncey looked confused.
 
 Jain considered this. "Grass. I'm a fan of grass, and I've heard there's exquisite grass here."
 
-This didn't appear to answer Chauncey's question.
+This didn't appear to answer Shauncey's question.
 
 Ravenlost tried another explanation. They were a traveling troupe of circus performers.
 
 That worked considerably better. Cadric was the entertainer. Jain could climb pretty much anything. Elisandra was new, and she was still teaching her bird to talk. And Bia could toss logs.
 
-Chauncey was delighted. He wanted to see an act. Ravenlost had just survived a twelve-hour boat ride that ended in a storm, but Chauncey had given them shelter.
+Shauncey was delighted. He wanted to see an act. Ravenlost had just survived a twelve-hour boat ride that ended in a storm, but Shauncey had given them shelter.
 
-So Cadric performed. He even gave Chauncey the second verse of his new song.
+So Cadric performed. He even gave Shauncey the second verse of his new song.
 
-Whatever doubts Chauncey might have had about the strange group that had arrived on his doorstep disappeared. By the end of the evening, he was a Cadric fan.
+Whatever doubts Shauncey might have had about the strange group that had arrived on his doorstep disappeared. By the end of the evening, he was a Cadric fan.
 
 Ravenlost spent the night at his house. Everyone was tired, and no one bothered keeping watch. Thankfully, nothing happened. And for once, that was actually true.
 
-By morning, the storm had passed. When Ravenlost asked about Welkspring House, Chauncey told them it was roughly a two-hour journey inland. He didn't go that way himself anymore.
+By morning, the storm had passed. When Ravenlost asked about Welkspring House, Shauncey told them it was roughly a two-hour journey inland. He didn't go that way himself anymore.
 
 "The woods are weird now."
 
@@ -746,7 +746,7 @@ More useful was a name. **Ava** had once worked as the groundskeeper at Welkspri
 
 ## The former groundskeeper
 
-Before setting out, Ravenlost took advantage of Chauncey's hospitality for breakfast. Chauncey supplied the small settlement with fish and offered everyone one smoked fish for free. There were also some pastries left over from the previous day.
+Before setting out, Ravenlost took advantage of Shauncey's hospitality for breakfast. Shauncey supplied the small settlement with fish and offered everyone one smoked fish for free. There were also some pastries left over from the previous day.
 
 Then Ravenlost went looking for Ava. They found her near her log cabin, felling a tree.
 
