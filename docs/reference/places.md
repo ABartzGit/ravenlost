@@ -13,7 +13,7 @@ A quick-reference list of places Ravenlost has visited or heard about.
 | **Locust Branch Hospital** | Hospital | Visited | Condemned under the Act of Death. Surrounded by ghosts and considered extremely dangerous. |
 | **Raven's Claw Inn** | Inn | Visited | Crawford inn where townspeople met to discuss the disappearances. |
 | **Larder Supply** | Store / supplier | Visited / known | Operated by Ron in Crawford. Supplied Crawford Manor. |
-| **Echo Island** | Island | Visited | Reached aboard Jethro Fletcher’s *The Fletcher* after a stormy crossing from Mordenshire. Ravenlost landed on the southern shore, stayed with Chauncey, spoke with former groundskeeper Ava, and traveled through the forest to Welkspring House. Hemlock grows on the northwestern coast. |
+| **Echo Island** | Island | Visited | Reached aboard Jethro Fletcher’s *The Fletcher* after a stormy crossing from Mordenshire. Ravenlost landed on the southern shore, stayed with Shauncey, spoke with former groundskeeper Ava, and traveled through the forest to Welkspring House. Hemlock grows on the northwestern coast. |
 | **Crawford Manor** | Manor | Visited | Home of Sterling and Ladna Crawford. Site of the disappearances and hidden basement passages. |
 | **Waterford** | Town | Visited | Larger settlement north of Crawford. Home of the Globe Inn, Farrow and Thorn, and Waterford family mausoleum. |
 | **Globe Inn** | Inn | Visited | Ravenlost's lodging in Waterford. Renee is the proprietor. |
@@ -48,6 +48,6 @@ A quick-reference list of places Ravenlost has visited or heard about.
 | **Old Books** | Bookshop / research | Visited | Mordenshire bookshop where Gilda Haywood researched Osgood Escar and his relationship with Glim Brightstone. |
 | **Weathermay Manor** | Manor / residence | Visited | Home of Mayor Alice Weathermay. Located outside of Mordenshire. Ravenlost met with the mayor here to retrieve their reward items. |
 | **The Fletcher** | Sailing vessel | Traveled aboard | Jethro Fletcher’s approximately 30-foot, single-masted boat, crewed with Gobbo. Ferried Ravenlost from Mordenshire to Echo Island through a storm. |
-| **Chauncey’s home** | House / shelter | Visited | Near the southern dock on Echo Island. Ravenlost sheltered here overnight after the storm. |
+| **Shauncey’s home** | House / shelter | Visited | Near the southern dock on Echo Island. Ravenlost sheltered here overnight after the storm. |
 | **Ava’s cabin** | Cabin | Visited | Log cabin on Echo Island where Ravenlost met Welkspring’s former groundskeeper and learned about the two forest routes. |
 | **Welkspring forest shortcut** | Forest path | Traveled | Dangerous route to Welkspring House. Ravenlost fought thorn-shooting and vine-like humanoids before reaching the wrought-iron estate fence. |
