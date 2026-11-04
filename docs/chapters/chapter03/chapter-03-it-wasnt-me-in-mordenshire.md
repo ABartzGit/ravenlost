@@ -166,7 +166,7 @@ He also agreed to make silver canine caps for Jain. They would be ready in appro
 
 ---
 
-## **The breath of the dead**
+## The breath of the dead
 
 That evening, Cadric performed at the Blackcard. His original song was met with mild applause. But when he brought out the old standby favorites, the entire bar erupted. He earned a nice bit of coin and agreed to play again the next night.
 
