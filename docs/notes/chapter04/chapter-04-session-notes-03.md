@@ -1,4 +1,4 @@
-# Bia's notes - A little light gardening
+# Bia's notes - The secrets of the silver mine
 
 
 
@@ -6,359 +6,478 @@
 
 ## Adventure at a glance
 
-Ravenlost spent another day at Welkspring House, where Osgood Escar agreed to share what he knew about Glim Brightstone—but only if the party helped him destroy a dangerous Golthias blight growing in his enormous greenhouse. The corrupted birch was the source of a life-extending tincture Osgood had used for decades, though it had also begun transforming parts of his body into wood.
+Ravenlost arrived at Abbey Point and investigated the abandoned silver mine once owned by Glim Brightstone. Along the way, the party encountered silent monks, giant spiders, a soldier from Falkovnia, a ghost, undead miners, and an automaton that nearly interrupted their long rest permanently.
 
-After defeating the blight and collecting samples, Ravenlost learned that Glim had visited Welkspring House **59 years earlier**, destroyed much of his research, and dismantled an unusually large glimmer rune battery into three pieces. Osgood entrusted one of those pieces to the party. He also described Glim's machine for piercing the Mists and experiments involving the removal and possible transfer of souls.
+The party discovered that Falkovnia was being overrun by undead, and Bia learned that a military commander named Korath was defending a stronghold there. She had heard that name twice before, both times under disturbing circumstances.
 
-Osgood marked a previously unmapped peninsula near **Abbey Point** on Ravenlost's map. An abbey and a silver-rich cave there might hold a vault Glim planned to create using his *lunar rites*.
+Inside Glim's vault, Ravenlost found evidence that someone had removed a mysterious device. They also recovered a recording in which Glim revealed that he intended to entrust his final piece to Mikhail Hatzimvas, a physician in Falkovnia.
 
-Before leaving, Cadric insisted on harvesting hemlock from a grove downstream. The party encountered four dangerous frogs, including a giant flower-covered one that swallowed Bia. Ravenlost barely survived, but collected both ordinary white hemlock and a mysterious purple variety.
+The recording ended with a haunting whistle, a howl, and a warning about being taken to an old inn in Kartikoz.
 
-The party returned to Welkspring House, rested, gathered supplies, and arranged for Captain Jethro Fletcher to take them to Abbey Point. They arrived around **10 p.m.**, beneath a crumbling abbey with candlelight and moving shadows inside.
+Ravenlost finished the session resting inside the vault.
 
----
+**Current location:** Glim Brightstone's vault, beneath the abandoned silver mine near Abbey Point.
 
-## Osgood's greenhouse and the Golthias blight
-
-Osgood asked Ravenlost to destroy a corrupted birch in his greenhouse in exchange for information about Glim. He did **not** want the greenhouse burned: it contained decades of botanical research and rare plants collected throughout Ravenloft.
-
-### How the blight got there
-
-- Years earlier, Osgood and fellow adventurers defeated a **Golthias blight**.
-- Osgood preserved a cutting and grafted it onto a birch tree in his greenhouse.
-- According to Osgood, Golthias blights are associated with vampires and dark energy. Barovian folklore describes terrible trees growing where a slain vampire has been staked, spawning blights from their roots and branches.
-- Osgood distilled the graft's sap into a **life-extending tincture**.
-- The graft had since grown out of control. Osgood suspected its roots were contaminating the greenhouse's water and spreading corruption into the surrounding woods.
-
-**Possible connection:** The hostile plant creatures Ravenlost encountered on the forest shortcut might have originated from the greenhouse contamination. Osgood suspected this, but it was not confirmed.
-
-### Osgood's age and transformations
-
-Osgood explained the discrepancy that had bothered the party: he bought Welkspring House more than seventy years ago when he was approximately **50 years old**. His tincture has prolonged his life.
-
-The cost has been severe:
-
-- His missing hand has been replaced by a silver mechanical hand.
-- One leg has become twisted and branchlike, although it still ends in a foot.
-- His bandaged eye conceals an eye socket filled with wood.
-- The corruption spread through tissue near each injection site.
-- Glim helped Osgood manage some of the damage, but could not stop it completely.
-
-Osgood temporarily stopped taking the tincture, but wants to resume it. He is not ready to die—and does not want to die in Mordent.
-
-**What we know:** The tincture explains Osgood's unusual longevity and at least some of his physical transformations.
-
-**What we don't know:** Whether the transformations can be reversed, or what would happen if Osgood resumed treatment.
-
-### The greenhouse and the Death Garden
-
-Osgood's greenhouse is an enormous steel-and-glass structure containing winding stone paths, waterways, a fountain, and dense vegetation. The air inside was hot and humid.
-
-Osgood warned Ravenlost about a locked section called the **Death Garden**, which held his most dangerous specimens. He mentioned:
-
-| **Plant or substance** | **Effect or property Osgood described** |
-| --- | --- |
-| Hemlock | Can render a victim unconscious |
-| Deadly nightshade | Causes paralysis |
-| Giant hogweed sap | Can severely damage exposed flesh |
-| Blue looper | Leaves a persistent blue mark on skin |
-
-These are **Osgood's descriptions**, not effects the party independently tested.
-
-### The topiary dog
-
-Before entering the greenhouse, Ravenlost needed a key. Osgood whistled, and a decorative topiary dog jumped off its pedestal and ran to him like a friendly dog.
-
-- Osgood opened a panel in the dog's chest, revealing machinery.
-- He retrieved the greenhouse key from inside.
-- The dog was an automaton disguised as a topiary, not an ordinary plant creature.
-- Cadric reminded Jain that he had warned her not to touch the plants.
-
-The topiary dog is another example of the unusual technology at Welkspring House. **We do not know who built it.**
+**Party level:** 5 following the session's level-up.
 
 ---
 
-## The fight with the corrupted birch
+## Abbey Point and its silent monks
 
-The birch was enormous, with twisted branches, unnatural purple growths, and roots extending beneath the paths. Its vines and roots attacked the party, restrained combatants, and dragged them toward its trunk. The tree itself moved through the greenhouse.
+### The abbey
 
-### What happened
+- Captain Jethro Fletcher remained aboard *The Fletcher* while Gobbo accompanied Ravenlost.
+- The abbey housed 17 monks devoted to Ezra, the Lady of the Mists.
+- The monks had taken vows of silence and communicated through sign language.
+- Bia was able to communicate with them because she knew sign language.
+- Davos welcomed the party and provided food, blankets, and accommodations.
+- The abbey had no alcohol, despite Ravenlost's promise to bring Fletcher a barrel of ale.
 
-- **Bia** raged, charged the blight, and repeatedly attacked it with her axe.
-- **Jain** used *Jump* to leap into the tree. Her first strike bounced off its bark and the blight threw her away. She jumped back in a second time.
-- One of the blight's vines injured Jain and drained her strength with **necrotic energy**.
-- **Cadric** used *Cloud of Daggers* to cut through the plant growth like a magical lawnmower.
-- **Elisandra** attacked with radiant magic, which appeared particularly effective.
-- Jain removed a poisonous vine from her leg, then picked the lock on the Death Garden. She narrowly avoided a concealed needle trap.
-- Badly hurt, Jain rested on a chaise lounge in the Death Garden while the others continued fighting.
-- **Elisandra delivered the final blow** with a powerful burst of radiant energy.
+### Abbot Katun's information
 
-### Samples and contamination
+Abbot Katun provided several important details:
 
-After the fight, Ravenlost inspected the greenhouse's waterways.
+- Glim Brightstone owned the silver mine.
+- Polk was the mine's foreman.
+- Silver was transported from the mine toward the coast and Echo Island.
+- Glim studied writings and symbols associated with Ezra.
+- Glim departed toward the mine with a covered wagon containing something concealed.
+- Five travelers from Mordenshire visited the abbey approximately seven or eight months earlier, then headed toward the mine.
+- None of those five travelers returned.
 
-- The water looked clear at first.
-- Roots extending into the pond were shedding tiny **black and purple particles**.
-- Water flowed from the greenhouse through its drainage system, potentially carrying contamination into the forest.
-- The roots were beginning to wither after the blight died.
-- Ravenlost collected a **large branch specimen** and **water samples** for Osgood.
+### Other observations
 
-**Unanswered question:** How far did the contaminated runoff spread, and what creatures or plants were affected?
+- Giant spiders had occupied the nearby forest for approximately two years.
+- Creatures sometimes emerged from the surrounding Mists.
+- Weathered runes on the abbey's stonework appeared connected to symbols associated with Glim.
+- The journey from the abbey to the mine would take approximately a day and a half.
 
----
-
-## Glim Brightstone — the revelations
-
-Osgood honored his agreement after receiving the blight specimen.
-
-### Glim's final visit to Welkspring House
-
-Osgood last saw Glim working at Welkspring House **59 years ago**.
-
-- Glim arrived distressed, carrying a satchel full of **glimmer rune cells**.
-- He destroyed much of his research, including notes and schematics.
-- He apologized to Osgood for bringing danger to the house.
-- Before leaving, he dismantled an unusually large battery into **three pieces**.
-- He gave **one fragment** to Osgood for safekeeping.
-
-We do not know who has the other two fragments, or why Glim felt he had to destroy his work.
-
-### The helix battery fragment
-
-Osgood had been wearing the fragment on a leather cord beneath his clothes.
-
-| **Property** | **Description** |
-| --- | --- |
-| Shape | Helix |
-| Length | Approximately 5 inches |
-| Weight and temperature | Unexpectedly heavy and cold to the touch |
-| Markings | Intricate blue runes, with three lines on each face |
-| Comparison | Roughly three times as many runes as the ordinary batteries Ravenlost has seen |
-| *Identify* result | No conventional spell identified in its construction; suggested a connection to contacting other planes |
-| Custody | Osgood **loaned** the fragment to Ravenlost |
-
-Osgood provided a pouch, and Ravenlost put the helix inside it before placing the pouch in **Elisandra's Bag of Holding**. The party wanted to reduce the risk of Godfroy spying on the device.
-
-**Important:** The fragment is on loan. Osgood asked Ravenlost to return it someday.
-
-### The machine to pierce the Mists
-
-Osgood described Glim's larger invention:
-
-- A horizontal barrel surrounded by glass tubes.
-- A central core and two rods projecting forward.
-- A rear control panel with buttons, switches, and wooden levers.
-- The rods could be aimed independently.
-- The enormous battery was designed to power the machine.
-
-Osgood witnessed a test that produced a blinding light and opened a passage approximately **10 feet across**, extending into the Mists farther than he could see.
-
-Glim hoped the technology might eventually remove the barriers between Ravenloft's domains.
-
-### Experiments involving souls
-
-Osgood also revealed that Glim had:
-
-- Successfully **removed souls from animals** during experiments.
-- Considered whether a soul could be transferred into another body.
-
-This raises an alarming possibility because **Lord Godfroy is a ghost confined to Griffin Hill**.
-
-**Our theory:** Godfroy may want Glim's machine or battery technology to restore himself to a living body.
-
-**Not confirmed:** We have no proof that Glim successfully transferred a soul into another body, or that Godfroy's specific plan is resurrection.
-
-### Ideas for keeping the technology from Godfroy
-
-Ravenlost discussed possible countermeasures, including:
-
-- Sabotaging Glim's machine.
-- Replacing a battery component with something dangerous.
-- Using *Nondetection* or *Nystul's Magic Aura* to conceal their actions.
-
-**Status:** These were ideas, not an agreed plan. Ravenlost has not yet decided what to do.
+**Unanswered:** Why was Glim studying Ezra's symbols, and what was hidden in his wagon?
 
 ---
 
-## The missing peninsula and Glim's possible vault
+## The spider-infested forest
 
-Osgood identified a **wooded peninsula north of Abbey Point** that is missing from ordinary maps. He had visited the area with Glim many years earlier.
+### The elk and giant spider
 
-- An **abbey** stands on the peninsula.
-- Osgood recalled monks whose behavior unsettled him.
-- A nearby **cave contains substantial silver deposits**.
-- Glim intended to use the cave as a **vault**.
-- He planned to use what he called his **lunar rites** to imbue the silver.
-- Osgood **marked the location on Ravenlost's map**.
+Ravenlost encountered a large elk trapped in an enormous web and freed it.
 
-**What we don't know:** Whether Glim completed the vault, what the lunar rites accomplish, or what—if anything—is still in the cave.
+Shortly afterward, a spider approximately the size of a horse approached.
 
-### Osgood's assistance
+- Gobbo hid inside a hollow log and became stuck.
+- Rather than leave him behind, Bia picked up the entire log and carried it away from danger.
+- Bia freed Gobbo once they reached safety.
+- The spider followed and attacked.
+- Jain inflicted significant damage, and Bia helped finish it.
 
-Before Ravenlost left, Osgood offered:
+### Collected materials
 
-- Healing potions and poison supplies.
-- A letter introducing the party to **Mikhail at the hospital** for a later trip to Falkovnia.
-- Four additional vials the next morning, whose contents would be explained later.
-
-He asked the party to return his helix fragment and bring him news of Glim. Ravenlost promised to try.
-
----
-
-## The hemlock grove
-
-Cadric wanted to gather hemlock before leaving Echo Island. Ravenlost followed the greenhouse's runoff downhill toward the coast.
-
-- It was dark by the time the party reached the grove.
-- Cadric and Elisandra used their custom **EC lights**; Bia and Jain relied on darkvision.
-- The grove was marshy and contained both **white and unusual purple hemlock flowers**.
-- Cadric initially wanted ordinary white hemlock for contact poison.
-- Jain noticed eyes watching from the vegetation; the others noticed them too.
-- The party encountered a **giant king frog** and smaller frogs.
-
-The giant frog had **white flowers growing on its head and back**. Flowers also lined its mouth and released pollen when it opened its jaws.
-
-### The frog battle
-
-The chapter describes **four frogs fought in total**, including the giant king frog.
-
-- **Bia** charged the king frog and struck it with her axe before raging.
-- The frog's tongue grappled Bia and dragged her toward its mouth. She resisted the initial poison, but it **swallowed her whole**.
-- Bia kept attacking from inside and managed to drive her axe through the creature.
-- The smaller frogs also used grappling tongues and poisonous bites.
-- **Cadric** cast *Cloud of Daggers*, which killed the king frog.
-- Bia escaped its stomach—**directly into Cadric's Cloud of Daggers**, taking damage from the same spell that freed her.
-- Another frog swallowed **Elisandra**.
-- Elisandra cast *Shatter* from inside, causing the frog to **explode**.
-- The blast threw Elisandra clear, but she landed **unconscious**.
-- **Jain** used *Jump* to reach Elisandra and tried to stabilize her. Healing magic eventually revived her.
-- Another frog bit Bia hard enough to knock her unconscious, but her orcish **Relentless Endurance** kept her standing at **1 HP**.
-- Ravenlost defeated the remaining frogs.
-
-**Combat reminder for Bia:** Relentless Endurance prevented her from dropping to 0 HP once during the frog battle. This is a record of what happened in Session 9, not a statement about its availability in a future encounter.
-
-### What we harvested
-
-| **Collector** | **Item** | **Amount or status** |
+| **Item** | **Quantity** | **Storage** |
 | --- | --- | --- |
-| Cadric | Ordinary white hemlock | **12 full doses** |
-| Cadric | Unusual purple hemlock | **3 doses**, intended for Osgood to study |
-| Bia | Purple hemlock flower | **1 flower**, collected quietly without telling the others |
+| Giant spider legs | 8 | Elisandra's bag of holding |
+| Spider goo | 1 vial | Elisandra's bag of holding |
 
-**Unknown:** Whether the purple hemlock has different effects from ordinary hemlock, or whether its color is related to the blight's contamination.
+Jain collected the legs, and Cadric collected the goo.
 
----
+### The web-covered sacks
 
-## Back at Welkspring House
+Farther along the trail, Ravenlost encountered numerous silk-wrapped bundles hanging from trees and scattered along the ground.
 
-Ravenlost returned to the estate injured and exhausted. The party noticed **blue runes glowing along the gates, fences, and greenhouse framework** in the moonlight.
+The party burned through the webbing with torches.
 
-This is the first time the party actually saw the blue writing associated with the estate's protection. **We have not independently tested whether it prevents ghosts from entering**, as Godfroy had claimed.
+Among the contents were:
 
-### Gustav's attempts to help
+- A surviving Falkovnian soldier, Ala'kir
+- Animal remains, including an elk
+- A partially digested hobgoblin
+- Humanoid and canine-humanoid bones
+- A swarm of venomous baby spiders
+- An undead ogre
 
-Osgood's automaton **Gustav** was in the sitting room.
+The baby spiders poisoned and paralyzed Elisandra before being destroyed.
 
-- Jain asked Gustav to bring sugar.
-- Gustav returned with an enormous **25-pound barrel**—apparently all the sugar Osgood owned.
-- Jain then asked for water and lemons, but Gustav needed a description of a lemon.
-- The party joked that he might return with brownies painted yellow.
+The undead ogre attacked after its sack was opened. Ravenlost fought it with help from Ala'kir and Gobbo.
 
-### Further research for Osgood
+**Gobbo delivered the killing blow by decapitating the ogre.**
 
-- Cadric showed Osgood the **purple hemlock**.
-- Osgood agreed to study it and the **blight specimen**.
-- The party asked whether the blight's ability to turn living tissue into wood could be separated or intensified.
-- Osgood was alarmed by the party's interest in stronger poisons but agreed to investigate.
+### Ala'kir and the invasion of Falkovnia
 
-### Glim and Osgood's relationship
+### Who is Ala'kir?
 
-Osgood acknowledged that **Glim had been more than a friend**.
+- A soldier from Falkovnia
+- Wore leather armor bearing a large bird's talon insignia
+- Was found alive inside a spider's silk cocoon
+- Had a serious, festering shoulder wound
+- Received medical attention from Elisandra
 
-This confirms that their relationship was more personal than Ravenlost had previously been able to establish, though the chapter does not provide further details.
+Ala'kir recognized Bia as an orc and suspected she might be from Falkovnia.
 
-Ravenlost took a long rest at the house, despite the lack of proper guest accommodations.
+### What happened in Falkovnia?
 
----
+Ala'kir reported that massive undead hordes had begun attacking Falkovnia approximately six weeks earlier.
 
-## Leaving Echo Island
+- The military was struggling to contain the invasion.
+- Fort Watten, along the southern border, had been breached.
+- Undead were advancing from multiple directions.
+- Settlements were threatened, and survivors were seeking fortified positions.
+- Ala'kir's regiment had been reduced to ten soldiers by the time they entered the Mists.
+- Only three remained when they emerged in Mordent.
 
-### Farewell to Osgood and Gustav
+### Why this matters to Bia
 
-The following morning:
+Bia left Falkovnia approximately six weeks earlier, shortly before the invasion began.
 
-- Osgood gave the party **four additional vials**; their contents were not yet explained.
-- He agreed to continue examining the samples.
-- He again requested news of Glim and the eventual return of his battery fragment.
-- Ravenlost said goodbye to Gustav.
-- Osgood believed the forest would be safer with the greenhouse blight destroyed.
-- He asked the party to tell **Ava** that she could return to Welkspring House.
+Her adoptive father, **Tobin Underfoot**, and adoptive sister, **Mira**, are still there.
 
-### Ava's response
+Their current whereabouts and safety are unknown.
 
-Ravenlost found Ava near her home, cutting trees and making wooden sculptures.
+Bia needs to determine:
 
-- She was pleased that the woods were safer.
-- She was **not** eager to return to work.
-- Osgood had paid her **one year's wages** to stay away from the estate, and she intended to enjoy the time off.
+- Whether their village has been attacked
+- Whether Tobin and Mira survived
+- Whether they escaped to a fortified settlement
+- Whether anyone in Falkovnia can provide news of them
 
-### Shauncey and Cadric's new song
-
-Back at the sailors' lodging, Ravenlost found **Shauncey hung over** and collected cured fish for the next voyage.
-
-Cadric performed another installment of his song about Ravenlost. This verse described his meeting with **Jain**, the dangerous Lupine he encountered in the Mists, and how he offered her a meal rather than fighting her.
-
-The performance received mixed reviews but woke a passed-out **Captain Jethro Fletcher**. Cadric still planned to write a verse about Elisandra.
+**Bia's priority:** Finish the current mission and return to Falkovnia as soon as possible, with or without the rest of Ravenlost if necessary.
 
 ---
 
-## The voyage to Abbey Point
+## Commander Korath — a name from Bia's past
 
-### Negotiating with Captain Fletcher
+Ala'kir recommended seeking shelter at the stronghold in **Lekar**, defended by Commander Korath.
 
-Ravenlost had previously arranged passage aboard *The Fletcher* in exchange for **six cases of liquor**, delivered in installments.
+Bia immediately recognized the name.
 
-The party now asked Jethro to continue on to **Abbey Point**.
+### First occurrence — the destruction of Bia's childhood village
 
-- Cadric claimed that the abbey housed **master brewers**.
-- Ravenlost promised Jethro **a barrel of liquor**.
-- Jethro agreed to extend the voyage but said **Abbey Point would be his final destination**.
-- The party would need him to wait while they obtained the promised barrel.
+When Bia was six years old:
 
-**Outstanding obligation:** Ravenlost owes Jethro the promised barrel.
+- Her orc village in Falkovnia was attacked.
+- Her mother, Anthea, hid her in a cellar with a wooden doll.
+- Bia heard fighting and screaming.
+- She heard someone or something say the name **Korath**.
+- Bia remained hidden for two days.
+- When she emerged, her father, Voros, was dead.
+- Her mother was missing.
+- The village had been destroyed.
 
-### Arrival
+Bia later found another village within Falkovnia and was adopted by Tobin Underfoot, who raised her alongside Mira.
 
-The voyage north took approximately **14 hours** and passed without incident.
+### Second occurrence — the farm attack
 
-- Towering walls of the Mists rose on either side of the peninsula.
-- A narrow opening led toward Abbey Point.
-- Ravenlost arrived at approximately **10 p.m.**
-- A **crumbling abbey** stood high above the shoreline.
-- Candlelight showed in its windows, and **shadows moved inside**.
-- A dock stood below, with a fishing boat tied alongside and several overturned canoes nearby.
-- Jethro brought *The Fletcher* alongside the dock.
+Years later, Bia defended a village during an attack on a farm.
 
-**Current location:** **Abbey Point**. Ravenlost has not yet investigated the abbey or the possible vault.
+- Bia saved the village.
+- Several children were frightened by what they witnessed.
+- Bia could not remember the fight itself.
+- She could infer what had happened from the carnage afterward.
+- She did remember hearing the name **Korath**.
+
+### Third occurrence — Ala'kir's account
+
+Ala'kir identified Korath as a military commander defending survivors in Falkovnia.
+
+This is the third time Bia has encountered the name.
+
+### Unanswered questions
+
+- Are all three references to the same Korath?
+- Was Korath involved in the attack on Bia's childhood village?
+- Why did the name recur during the farm attack?
+- Why can't Bia remember that fight?
+- Is Commander Korath truly protecting Falkovnia's survivors?
+- Could Korath know anything about Anthea's disappearance?
+
+**Important:** Bia has no proof that Commander Korath is connected to either earlier incident.
+
+---
+
+## Parting ways with Ala'kir and Gobbo
+
+Ravenlost suggested that Ala'kir accompany them, but ultimately directed him toward the safety of Abbey Point.
+
+Gobbo also decided to return.
+
+### Payment
+
+The party had promised Captain Fletcher a barrel of ale, but the abbey had none.
+
+Bia gave Gobbo **25 gold pieces**:
+
+| **Intended recipient** | **Amount** |
+| --- | --- |
+| Gobbo | 10 gp |
+| Captain Jethro Fletcher | 15 gp |
+| **Total** | **25 gp** |
+
+Bia warned Gobbo that she would kill him if she later discovered he had failed to deliver Fletcher's share.
+
+**Unconfirmed:** Whether Fletcher actually received the 15 gp.
+
+Ala'kir and Gobbo departed together toward Abbey Point.
+
+---
+
+## The abandoned silver mine
+
+### Outside the mine
+
+- The entrance had partially collapsed.
+- Bia cleared rubble to reopen the passage.
+- Old tents, crates, and abandoned supplies remained outside.
+- The party found wire, detonation cord, and other mining materials.
+- Tracks indicated that five humanoid travelers had approached the mine.
+
+**Possible connection:** These may have been the five travelers from Mordenshire, but their identities were not confirmed.
+
+### Inside the mine
+
+The upper tunnels contained:
+
+- Old minecart rails
+- Silver deposits
+- Eight apparent miner skeletons
+- Canine-humanoid remains
+- A canine-humanoid skeleton with a pickaxe lodged in its skull
+- Barricades and evidence of violent fighting
+- Abandoned supplies, including rope, kerosene lanterns, and detonation cord
+
+Some crates were marked **PMC**.
+
+Useful supplies were collected and placed in Elisandra's bag of holding.
+
+---
+
+## Klem, the ghost of the mine
+
+Ravenlost encountered a ghost named Klem.
+
+He had been trapped in the mine for **58 years, 7 months, and 3 days**.
+
+### Klem's account
+
+- Canine creatures attacked the mine and killed many workers.
+- Polk led miners toward the lower levels during the attack.
+- Glim brought chests and a large covered object into the mine.
+- Glim left after the vault was completed.
+- A later group entered the mine searching for valuables.
+- Only one member of that group escaped, carrying a bag.
+- Giant spiders arrived approximately two years ago.
+- Humanoid spider creatures also inhabit the mine.
+
+### Klem's request
+
+Klem wants Ravenlost to recover his remains and bury them outside the mine.
+
+He hopes a proper burial might free him.
+
+**Status:** Not completed.
+
+### Concerns
+
+Ravenlost wondered whether freeing Klem would expose him to Lord Godfroy's control over spirits in Mordent.
+
+The party has not determined whether Klem would be safe after burial.
+
+---
+
+## The runaway minecart and descent
+
+A trapped minecart suddenly raced down the tracks toward Ravenlost.
+
+- The cart struck Jain.
+- Bia stepped into its path.
+- Bia stopped the cart through sheer strength, taking damage in the process.
+- The party continued toward the lower levels.
+
+The elevator was broken, with the platform approximately **85 feet below**.
+
+Ravenlost descended using ropes.
+
+Elisandra fell during the descent and required healing.
+
+The party eventually regrouped in the lower mine.
+
+---
+
+## Polk and the battle for the vault
+
+### Polk
+
+Polk was Glim Brightstone's former mine foreman.
+
+He remained in the lower mine as an undead guardian, apparently still determined to protect Glim's property.
+
+### The battle
+
+- Polk attacked Ravenlost with dynamite.
+- Skeletons rose to defend the vault.
+- Cadric used Dissonant Whispers and Cloud of Daggers.
+- The party fought among barricades, debris, and explosive barrels.
+- Jain was knocked unconscious.
+- Elisandra was also knocked unconscious.
+- Bia carried the unconscious Jain out of danger.
+- Healing magic and potions helped keep the party alive.
+- Ravenlost defeated Polk.
+- The remaining skeletons turned to ash.
+
+**Outcome:** Ravenlost survived and gained access to Glim's vault.
+
+---
+
+## Glim Brightstone's vault
+
+### What Ravenlost discovered
+
+The vault contained:
+
+- Storage chests
+- Several damaged automatons
+- A floating dais
+- Ordinary Glim batteries
+- Treasure and useful supplies
+
+The floating dais appeared to have once supported a large device.
+
+Someone had removed it.
+
+Ravenlost did not find the matching three-pronged key or unusually large battery they had hoped to locate.
+
+**Possible connection:** The missing device may have been taken by the survivor Klem saw escaping with a bag. This is unconfirmed.
+
+### The automaton
+
+While Ravenlost attempted a long rest, Jain took the first watch.
+
+Approximately two hours later, an automaton activated and seized her leg.
+
+It warned the party to leave under threat of death.
+
+Elisandra showed it the pendant received from Osgood.
+
+The automaton requested a password.
+
+Bia answered:
+
+**"Osgood."**
+
+The password was accepted, and the automaton released Jain.
+
+It then played Glim's recorded message.
+
+---
+
+## Glim's final recording
+
+The automaton played what Glim described as his final log.
+
+### Glim's words
+
+"This will be my last log. I'm going to give Hatzimvas my last piece, and then I'm going into the mists where those fiends can't find me."
+
+The recording continued with a low, taunting whistle.
+
+Glim exclaimed:
+
+"God damn it!"
+
+A wolf-like howl followed.
+
+Glim then said:
+
+"They found me again. If they get me, he will take me to Kartikoz at the old inn."
+
+The recording captured a struggle, another howl, and then ended.
+
+### What Ravenlost learned
+
+**Mikhail Hatzimvas**
+
+- A physician operating a hospital in Falkovnia
+- Treats people afflicted by the undead plague
+- Previously mentioned during the party's visit to Griffin Hill
+- Osgood provided a letter of introduction to him
+- Glim intended to give him his final piece
+
+**Kartikoz and the old inn**
+
+- Glim named Kartikoz as the location where he expected to be taken if captured.
+- He referred to an old inn.
+- The identity of the person Glim called "he" is unknown.
+
+**The haunting whistle**
+
+- A low, taunting melody could be heard in the background.
+- Cadric listened carefully and wrote down the notes.
+- The melody may help identify Glim's pursuer.
+
+**The howl**
+
+- The sound resembled a wolf-like howl.
+- Jain could not identify it as an ordinary wolf.
+- Its source remains unknown.
+
+### **Important distinctions**
+
+- Glim intended to give his final piece to Mikhail; Ravenlost has not verified that the transfer occurred.
+- The recording does not establish who pursued Glim.
+- The party does not know whether Glim survived the encounter.
+- The old inn's exact identity and location remain unresolved.
+
+---
+
+## Treasure, equipment, and money
+
+### Treasure recovered from the vault
+
+| **Item** | **Quantity** | **Notes** |
+| --- | --- | --- |
+| Gold | 400 gp | Divided into four shares of 100 gp |
+| Emeralds | 2 | Value not established |
+| Greater healing potions | 2 | Party supplies |
+| Unidentified potion | 1 | Appeared to contain suspended gas |
+| Revivify kit | 1 | Contains one remaining diamond |
+| Black powder barrels | 3 | Recovered from the mine |
+| Dynamite | 2 sticks | Remaining after the battle |
+
+The collected items were placed in Elisandra's bag of holding. The gold was divided into individual shares.
+
+### Other collected supplies
+
+- Eight giant spider legs
+- One vial of spider goo
+- Mining supplies, including detonation cord
+- Four boxed kerosene lanterns
+- Rope and other useful materials
+
+### Bia's money
+
+| **Transaction** | **Gold** |
+| --- | --- |
+| Starting balance | 1,501 gp |
+| Payment to Gobbo | −25 gp |
+| Share of vault treasure | +100 gp |
+| **Ending balance** | **1,576 gp** |
+
+**Bia's ending currency:** 1,576 gp, 8 sp, 6 cp.
+
+This assumes no other unrecorded spending during Session 10.
 
 ---
 
 ## Important items and commitments
 
-| **Item or commitment** | **Status at the end of Session 9** |
+| **Item or commitment** | **Status** |
 | --- | --- |
-| Glim's helix battery fragment | **Loaned by Osgood**; in a pouch inside Elisandra's Bag of Holding |
-| Marked map | Osgood marked the possible silver-vault location near Abbey Point |
-| Blight branch specimen and water samples | Collected for Osgood's research |
-| White hemlock | Cadric harvested **12 full doses** |
-| Purple hemlock | Cadric harvested **3 doses** for study; Bia secretly kept **1 flower** |
-| Healing potions and poison supplies | Offered by Osgood; individual quantities not specified in the chapter |
-| Four additional vials | Given by Osgood; contents to be explained later |
-| Letter for Mikhail | Offered by Osgood for a future journey to the hospital in Falkovnia |
-| Cured fish | Collected at Shauncey's lodging for the voyage |
-| Promised barrel of liquor | Owed to Jethro; not yet obtained |
-| News of Glim | Ravenlost promised to bring Osgood any information they learn |
-| Return of battery fragment | Ravenlost promised to return Osgood's loaned fragment someday |
+| Osgood's helix battery fragment | On loan; stored in Elisandra's bag of holding |
+| Osgood's pendant | Used to authenticate the party to Glim's automaton |
+| Letter for Mikhail Hatzimvas | Intended for use at the hospital in Falkovnia |
+| Cadric's transcription of the whistle | Recorded for future investigation |
+| Missing vault device | Not recovered |
+| Klem's remains | Not yet recovered or buried |
+| Gobbo's payment to Fletcher | 15 gp entrusted to Gobbo; delivery unconfirmed |
+| News of Glim for Osgood | New information discovered; not yet delivered |
+| Return of Osgood's fragment | Still outstanding |
 
 ---
 
@@ -366,19 +485,21 @@ The voyage north took approximately **14 hours** and passed without incident.
 
 | **Mystery** | **What we need to learn** |
 | --- | --- |
-| Abbey Point | Who lives in the abbey, and why did Osgood find its monks unsettling? |
-| Glim's possible vault | Did Glim complete the silver vault, and what might be inside? |
-| Lunar rites | What did Glim mean by *lunar rites*, and how was he imbuing silver? |
-| The other battery fragments | Where are the remaining **two pieces** of Glim's enormous battery? |
-| Glim's disappearance | Why was Glim distressed 59 years ago, and what danger made him destroy his research? |
-| The soul experiments | Did Glim ever succeed in transferring a soul into another body? |
-| Godfroy's intentions | Is he seeking a way to return to life, or does he have another use for the machine? |
-| Osgood's condition | Can the tincture's transformations be halted or reversed? |
-| Forest contamination | Did the greenhouse runoff create or alter the creatures in the woods and the hemlock grove? |
-| Purple hemlock | What makes it purple, and does it have different properties? |
-| Osgood's research | What will his study of the blight and hemlock specimens reveal? |
-| Four mystery vials | What do the additional vials Osgood gave the party contain? |
-| Blue runes | Do the glowing markings actually prevent ghosts from entering Welkspring House? |
-| Jethro's payment | How will Ravenlost obtain the barrel of liquor promised to the captain? |
+| Tobin and Mira | Are Bia's adoptive father and sister safe in Falkovnia? |
+| Commander Korath | Is he connected to the destruction of Bia's village or the later farm attack? |
+| Bia's missing memories | What happened during the farm battle, and why can't Bia remember it? |
+| Falkovnia invasion | How far have the undead advanced, and which settlements remain secure? |
+| Mikhail Hatzimvas | Did Glim successfully entrust his final piece to the physician? |
+| Glim's pursuers | Who are the fiends hunting Glim, and who is the "he" mentioned in his recording? |
+| Kartikoz | Where is the old inn, and what happened to Glim there? |
+| Haunting whistle | Can Cadric's recorded melody help identify the pursuer? |
+| Missing vault device | Who removed the object from the floating dais, and where is it now? |
+| Five travelers | What happened to the missing visitors from Mordenshire? |
+| Klem's remains | Can Ravenlost recover and bury them safely? |
+| Spider creatures | What are the humanoid spiders, and do they remain in the mine? |
+| Godfroy's intentions | What does Lord Godfroy intend to do with Glim's technology? |
+| Other battery fragments | Where are the remaining pieces of Glim's unusual battery? |
+| Osgood's research | What has he learned about the blight, purple hemlock, and other collected specimens? |
+| Captain Fletcher | Did Gobbo deliver the promised 15 gp? |
 
-**Next:** Investigate the abbey at Abbey Point, then find out whether Glim's silver vault exists—and whether it holds answers Ravenlost can keep out of Godfroy's hands.
+**Next:** Ravenlost must decide how to leave the mine and whether to address Klem's unfinished business before departing. Falkovnia is becoming increasingly urgent—not only because of Mikhail and Glim's missing piece, but because Bia needs to find her family and learn the truth about Korath.
