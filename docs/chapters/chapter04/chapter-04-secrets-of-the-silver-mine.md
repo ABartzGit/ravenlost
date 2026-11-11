@@ -354,39 +354,39 @@ Then Ravenlost discovered that not everyone who had worked in the mine had truly
 
 ---
 
-## Clem, the ghost of the mine
+## Klem, the ghost of the mine
 
 Among the abandoned crates, the party encountered a hunched figure.
 
 At first, it was difficult to tell what they were looking at. Then the figure revealed itself to be a ghost.
 
-His name was **Clem**.
+His name was **Klem**.
 
 He’d been trapped in the mine for an extraordinarily long time. **Fifty-eight years, seven months, and three days**, to be precise.
 
-Clem remembered the mine when it was still operating. He recalled the attack that brought its work to an end: canine creatures had invaded the tunnels, and the miners had fought desperately to survive.
+Klem remembered the mine when it was still operating. He recalled the attack that brought its work to an end: canine creatures had invaded the tunnels, and the miners had fought desperately to survive.
 
 **Foreman Polk** had taken men toward the lower levels during the attack.
 
-Clem also remembered Glim Brightstone bringing chests and a large covered object into the mine. Glim had departed after the vault was completed. 
+Klem also remembered Glim Brightstone bringing chests and a large covered object into the mine. Glim had departed after the vault was completed. 
 
-More recently, another group had entered the mine in search of something valuable. Clem remembered them traveling toward the lower levels by elevator.
+More recently, another group had entered the mine in search of something valuable. Klem remembered them traveling toward the lower levels by elevator.
 
 Only one had escaped, carrying a bag.
 
 The account was especially troubling given the five travelers who had disappeared months earlier. 
 
-Clem had other concerns.
+Klem had other concerns.
 
 The giant spiders had arrived approximately two years ago, and he was terrified of them. He warned the party about the creatures occupying the mine, including disturbing humanoid spider beings.
 
 He also wanted something from Ravenlost. His remains were still somewhere inside the mine. 
 
-If the party could recover them and provide a proper burial outside, perhaps Clem could finally be freed from the place where he had died.
+If the party could recover them and provide a proper burial outside, perhaps Klem could finally be freed from the place where he had died.
 
 The adventurers discussed how they might accomplish that without exposing themselves to the spiders. They also considered the dangers of releasing a ghost into the mists. Would he be confined to an eternity of servitude for Lord Godfroy? Or would he be free from that because he died so long ago?
 
-For now, Clem's remains would have to wait. The vault was still somewhere below them. And Ravenlost had a mission to complete.
+For now, Klem's remains would have to wait. The vault was still somewhere below them. And Ravenlost had a mission to complete.
 
 ---
 
@@ -484,7 +484,7 @@ The dais was particularly interesting. It was clear that something large had onc
 
 The party searched for clues, including a matching three-pronged key or an unusually large battery, but found neither.
 
-Someone had apparently reached the vault before them and removed the object. Perhaps it had been the survivor Clem remembered escaping with a bag.
+Someone had apparently reached the vault before them and removed the object. Perhaps it had been the survivor Klem remembered escaping with a bag.
 
 Perhaps not.
 
@@ -592,7 +592,7 @@ The party had uncovered important clues, but Glim's secret was far from solved.
 
 With the automaton no longer threatening them, Ravenlost was finally able to complete its long rest. But there was still much to do.
 
-Clem remained trapped in the mine, waiting for someone to recover his remains. 
+Klem remained trapped in the mine, waiting for someone to recover his remains. 
 
 The spiders still occupied the upper tunnels.
 
