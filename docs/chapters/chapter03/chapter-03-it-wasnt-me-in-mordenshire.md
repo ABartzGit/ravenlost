@@ -394,7 +394,7 @@ The first was **Welkspring House on Echo Island**, where one of Glim's friends h
 
 The second was the **Cauldron of Tepist**. Its fountains were associated with resurrection, and Godfroy believed they may have inspired part of Glim's apparatus.
 
-The third was in **Falkovnia**, where Ravenlost was to find **Mikhail Hatsamamous**. Mikhail had established a hospital near a mountain to help people suffering from the region's undead affliction. He might know where Glim had gone or what Glim had been working on.
+The third was in **Falkovnia**, where Ravenlost was to find **Mikhail Hatzimvas**. Mikhail had established a hospital near a mountain to help people suffering from the region's undead affliction. He might know where Glim had gone or what Glim had been working on.
 
 Ravenlost was expected to investigate all three leads. Most importantly, Godfroy wanted the larger battery.
 
