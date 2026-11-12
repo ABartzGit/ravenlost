@@ -1,6 +1,8 @@
 # Through the Mists
 
-> *When the Mists offer you a shortcut, they rarely mention what else is traveling with you.*
+> *When the Mists offer you a shortcut, they rarely mention what “shortcut” means, and who else is traveling with you.*
+
+<img src="../../../images/chapter-04-through-the-mists.png" alt="Ravenlost finding Matteo in a barn within the Mists" class="chapter-art">
 
 ---
 
@@ -11,8 +13,6 @@ There were just two problems.
 The elevator was broken, and somewhere above them, giant spiders were waiting.
 
 And, of course, they had promised a ghost they would find his body.
-
----
 
 ## The climb out
 
@@ -88,7 +88,7 @@ The party scooped Klem's remains into a minecart and transported them out of the
 
 Outside, Klem approached what was left of his body.
 
-> “That should work.”
+“That should work.”
 
 And "poof!" he vanished.
 
