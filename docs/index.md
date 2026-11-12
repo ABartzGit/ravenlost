@@ -23,18 +23,21 @@ It all began at the Black Raven Inn, with four strangers and a job from a man na
 
 <div class="campaign-status">
 
-<p><strong>📍 Silver Mine, Abbey Point</strong> &nbsp;&nbsp; <strong>⚔️ Level 4</strong></p>
+<p><strong>📍 Near the Stone Spine Mountains in Falkovnia</strong> &nbsp;&nbsp; <strong>⚔️ Level 5</strong></p>
 
 <p>
-After surviving giant spiders, undead miners, and a surprisingly aggressive
-automaton, Ravenlost finally uncovered a message from Glim Brightstone.
-They also learned that Falkovnia is being overrun by undead—and that a
-familiar name from Bia's past may hold some answers.
+After escaping a spider-infested mine, Ravenlost ventured through the Mists, 
+rescued a young boy named Matteo, and witnessed the horrors of an undead 
+invasion. They also freed an elderly prisoner from a watchtower and learned 
+that Commander Korath—a name haunting Bia's past—rules Falkovnia with an 
+iron fist.
 </p>
 
-<p><strong>Next:</strong> With new clues pointing toward Falkovnia and a
-mysterious old inn in Kartikoz, Ravenlost has some decisions to make.
-But first, can they get out of this mine without waking up anything else?</p>
+<p><strong>Next:</strong> With Matteo in tow, Ravenlost heads through the 
+Forest of Strangers toward Delmunster. But with undead hordes roaming the 
+countryside, Bia's family still missing, and a warning not to trust the 
+commander, getting to Lekar may prove more dangerous than getting into 
+Falkovnia.</p>
 
 </div>
 
