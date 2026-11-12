@@ -1,6 +1,6 @@
 # Through the Mists
 
-> *When the Mists offer you a shortcut, they rarely mention what “shortcut” means, and who else is traveling with you.*
+> *When the Mists offer you a shortcut, you never know what “shortcut” means or who else will be traveling with you.*
 
 <img src="../../../images/chapter-04-through-the-mists.png" alt="Ravenlost finding Matteo in a barn within the Mists" class="chapter-art">
 
