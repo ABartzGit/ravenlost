@@ -1,5 +1,7 @@
 # Bia's notes - Through the Mists
 
+
+
 ---
 
 ## Adventure at a glance
@@ -163,7 +165,7 @@ Matteo said the creature resembled something he had seen near his family's farm.
 
 After crossing the ravine, Ravenlost heard sounds of fighting from a hillside. Someone shouted:
 
-> “Circle up and protect the wagon!”
+“Circle up and protect the wagon!”
 
 The party considered investigating, including the possibility of finding useful items. But everyone was exhausted, the Mists remained dangerous, and another fight was not appealing.
 
@@ -265,9 +267,9 @@ Ravenlost decided not to leave Zlava imprisoned for stealing bread.
 
 Zlava offered two warnings:
 
-> “Don't fight. Run.”
+“Don't fight. Run.”
 
-> “Don't trust the commander.”
+“Don't trust the commander.”
 
 **Confirmed:** Zlava warned Ravenlost against trusting Commander Korath.
 
@@ -315,102 +317,5 @@ Zlava said the Forest of Strangers had been relatively untouched when she last t
 - Korath might know something about Anthea's disappearance or Bia's missing memories.
 
 **No connection between the commander and either earlier attack has been proven.**
-
----
-
-## Important people and places
-
-| **Name** | **Significance / status** |
-| --- | --- |
-| **Klem** | Ghost miner; vanished after his remains were brought outside |
-| **Matteo** | Eleven-year-old refugee from Aerie; traveling with Ravenlost |
-| **Susie and Haley** | Matteo's missing seven-year-old twin sisters |
-| **Matteo's parents** | Missing after the undead attack |
-| **Zlava** | Freed from the watchtower; departed alone |
-| **Commander Korath** | Female military commander; connection to Bia's past unconfirmed |
-| **Tobin Underfoot** | Bia's adoptive father; whereabouts unknown |
-| **Mira** | Bia's adoptive sister; whereabouts unknown |
-| **Aerie** | Matteo's hometown in southern Falkovnia |
-| **Lekar / Red Gate** | Reported destination for refugees |
-| **Delmunster** | Ravenlost's next destination |
-| **Forest of Strangers** | Route toward Delmunster |
-| **Stone Spine Mountains** | Region where Ravenlost emerged from the Mists |
-
----
-
-## Treasure, equipment, and money
-
-### Session 11 inventory updates
-
-| **Item** | **Quantity / change** | **Storage / notes** |
-| --- | --- | --- |
-| Silver dowsing rod | **1 recovered** | Elisandra's bag of holding; locates silver and salt according to Klem |
-| Gunpowder | Quantity not newly established | Stored in the bag of holding |
-| Smoked fish | Some removed to make space; **some remained** | Bag of holding |
-| Rope | Used and recovered | Mine escape, Mist travel, and Zlava's rescue |
-| Food and water | Shared with Matteo | Exact quantities not recorded |
-| Other treasure | No additional confirmed treasure | — |
-
-### Bia's money
-
-| **Transaction** | **Gold** |
-| --- | ---: |
-| Starting balance carried forward from Session 10 | 1,576 gp |
-| Confirmed gold received in Session 11 | 0 gp |
-| Confirmed gold spent in Session 11 | 0 gp |
-| **Recorded ending balance** | **1,576 gp** |
-
-**Bia's recorded currency:** **1,576 gp, 8 sp, 6 cp.** This carries forward the Session 10 total and assumes no unrecorded transactions.
-
----
-
-## Important items and commitments
-
-| **Item or commitment** | **Status after Session 11** |
-| --- | --- |
-| Klem's remains | Recovered and carried outside the mine |
-| Klem's ultimate fate | Unknown; he vanished |
-| Silver dowsing rod | Recovered; stored in the bag of holding |
-| Matteo's safety | Ongoing; he is traveling with Ravenlost |
-| Matteo's missing family | Still missing |
-| Tobin and Mira | Whereabouts unknown; Lekar is a possible lead |
-| Osgood's helix battery fragment | Previously on loan; return outstanding |
-| Osgood's pendant | Previously used to authenticate with Glim's automaton |
-| Letter for Mikhail Hatzimvas | Still intended for use in Falkovnia |
-| Cadric's transcription of Glim's whistle | Retained as a possible investigative lead |
-| Missing device from Glim's vault | Not recovered |
-| News of Glim for Osgood | Still to be delivered |
-| Gobbo's 15 gp delivery to Captain Fletcher | Unconfirmed |
-
----
-
-## Open mysteries and questions for next session
-
-| **Mystery** | **What we need to learn** |
-| --- | --- |
-| Tobin and Mira | Are they alive? Did they reach Lekar or another refuge? |
-| Matteo's family | What happened to his parents, Susie, and Haley? |
-| Commander Korath | Is she connected to the attacks in Bia's childhood or the later farm attack? |
-| Bia's missing memories | What happened during the farm battle, and why can't she remember it? |
-| Anthea | What happened to Bia's mother after the childhood attack? |
-| Undead invasion | What directs the hordes, and why do they travel in different directions? |
-| Ravine creature | What was the enormous moving mass of bodies? |
-| Wagon battle | Who was fighting, and what happened to the wagon? |
-| Escaped spider creatures | What were the humanoids, and could they return? |
-| Klem | Did his disappearance mean he was finally freed? |
-| Watchtower movement | What moved in the trees during Elisandra's watch? |
-| Zlava's warning | What else did she know about the commander? |
-| Delmunster | Is the settlement still safe? |
-| Forest of Strangers | What dangers await along the route? |
-| Mikhail Hatzimvas | Did Glim actually entrust his final piece to him? |
-| Glim's pursuers | Who pursued Glim, and who was the “he” in the recording? |
-| Kartikoz | Where is the old inn, and what happened to Glim? |
-| Haunting whistle | Can Cadric's transcription identify the pursuer? |
-| Missing vault device | Who removed it, and where is it? |
-| Five travelers | What happened to the visitors from Mordenshire? |
-| Lord Godfroy | What does he intend to do with Glim's technology? |
-| Other battery fragments | Where are the remaining pieces? |
-| Osgood's research | What has he learned about the blight and collected specimens? |
-| Captain Fletcher | Did Gobbo deliver the promised 15 gp? |
 
 **Next:** Reach Delmunster, keep Matteo safe, and seek news of refugees who may know what happened to Tobin and Mira. Bia must also decide how to approach Commander Korath without mistaking suspicion for proof.
