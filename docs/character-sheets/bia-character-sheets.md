@@ -6,3 +6,4 @@ This page provides links to Bia's character sheet at the start of each chapter.
 - [Level 2](level-02-character-sheet.pdf){target="_blank"}
 - [Level 3](level-03-character-sheet.pdf){target="_blank"}
 - [Level 4](level-04-character-sheet.pdf){target="_blank"}
+- [Level 5](level-05-character-sheet.pdf){target="_blank"}
