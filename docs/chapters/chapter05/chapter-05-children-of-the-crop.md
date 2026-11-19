@@ -20,9 +20,9 @@ Now awake, they took this opportunity to speak with Annie. She told them of unde
 
 After breakfast, the team decided to go in different directions and investigate the town.
 
-Jain persuaded Elisandra to accompany her to confession. As they walked through town, they noticed everyone was barefoot. The reached the churches and noticed that they were, in fact, identical, except that one was locked up and the other had open doors.
+Jain persuaded Elisandra to accompany her to confession. As they walked through town, they noticed everyone was barefoot. They reached the churches and noticed that they were, in fact, identical, except that one was locked up and the other had open doors.
 
-Outside the opened church they met Thurston, who explained the villagers’ devotion to the earth and their harvest deity, Hivernus. He told them that the old church had been condemned, and the newer one was its replacement.
+Outside the open church they met Thurston, who explained the villagers’ devotion to the earth and their harvest deity, Hivernus. He told them that the old church had been condemned, and the newer one was its replacement.
 
 Hearing that the older building was condemned, Jain remarked, “I could burn one now, and this time would be fine.” Then, learning that the townspeople also used mushrooms in their religious observances made her so excited, she forgot about burning down the church.
 
@@ -40,13 +40,13 @@ Thurston was defeated, and he steered her toward the prophet when she asked abou
 
 ## A backpack, a cudgel, and a pig historian
 
-Bia took Matteo to the shop. “I’ll take a backpack and something sharp to protect myself,” he announced. The shopkeeper informed them that, while they have no shortage of food, which they were able to provide for themselves, they haven’t received any shipments of new clothing or metal weapons. But he could provide alternate options.
+Bia took Matteo to the shop. “I’ll take a backpack and something sharp to protect myself,” he announced. The shopkeeper explained that Delmunster had no shortage of food, thanks to its abundant harvests. Everything else was another matter. Shipments of clothing and metal goods had become scarce, and he had no sharp weapons to offer.
 
-He emerged with a backpack, a used change of clothes, different, previously worn shoes, and a cudgel.
+He did, however, manage to produce a backpack, some secondhand clothes, a pair of worn shoes, and a wooden cudgel.
 
-Bia cast Speak with Animals on herself, and she and Matteo went to try to get more information from the farm animals around town.
+After leaving the shop, Bia cast Speak with Animals on herself, and she and Matteo went to try to get more information from the farm animals around town.
 
-After failing to get information for a cow who didn’t know anything, Bia found a much more informative local. Sir Oinkington was a pig who considered himself a natural historian. He recalled a brilliant star falling from the sky about six months earlier. Teton, who cared for the pigs, had retrieved something from the fall and taken it to the prophet.
+After failing to get information from a cow who didn’t know anything, Bia found a much more informative local. Sir Oinkington was a pig who considered himself a natural historian. He recalled a brilliant star falling from the sky about six months earlier. Teton, who cared for the pigs, had retrieved something from the fall and taken it to the prophet.
 
 When Bia pressed him on whether Teton had actually caught the star, Sir Oinkington refused to embellish: “I wouldn’t. I don’t know. He had it. Maybe he caught it. That would be wild.”
 
@@ -58,7 +58,7 @@ The pig also reported some unsettling outsiders and asked Bia to put a stop to t
 
 Cadric remained at the inn to perform for the handful of patrons. He accompanied his music with a luminous image of a woman washing clothes beside a creek.
 
-The listeners barely looked at him. But they did sway but oddly detached from the rhythm. One finally offered a stiff compliment: “You play music good. Very good.”
+The listeners barely looked at him. They swayed, though their movements seemed oddly detached from the rhythm. One finally offered a stiff compliment: “You play music good. Very good.”
 
 Cadric then visited the shop, where he learned little beyond the shortage of shoes and metal supplies as well as the villagers’ seemingly endless bounty of food, thanks to their deity – Hivernus.
 
@@ -68,13 +68,15 @@ Cadric then visited the shop, where he learned little beyond the shortage of sho
 
 Ravenlost regrouped at the inn to compare notes: the churches, the barefoot townspeople, the brilliant falling star, a shop full of food and nothing else, and Matteo’s new weapon.
 
-The group questioned why Bia would arm an 11-year old. Bia explained that Matteo wanted something sharp to protect himself, but the shop had nothing sharper than a wood cudgel, thanks to the shortage of metal supplies. Besides, she was wielding an axe at a much younger age – maybe 7 or 8.
+The group questioned why Bia would arm an eleven-year-old. Bia explained that Matteo wanted something sharp to protect himself, but the shop had nothing sharper than a wooden cudgel, thanks to the shortage of metal supplies. Besides, she was wielding an axe at a much younger age – maybe 7 or 8.
 
-During the conversation Matteo slipped away. Recognizing that none of them was a great caregiver, they then took solace in the fact that he was armed.
+During the conversation, Matteo slipped away unnoticed. Recognizing that none of them was particularly qualified to supervise an eleven-year-old, the group now took comfort in the fact that he was at least armed.
 
-“He's got a weapon in the backpack. He's better off than 95% of the people in this town right now,” Cadric pointed out.
+"He's got a weapon in the backpack. He's better off than 95% of the people in this town right now," Cadric pointed out.
 
-“And he also has some newer shoes,” Bia pointed out.
+"And he also has some newer shoes," Bia added.
+
+Considering Matteo had survived more than a week alone in the Mists, they decided he was probably fine.
 
 Convincing themselves that Matteo, who had survived more than a week on his own in the Mists, was fine, Cadric went downstairs to question Annie about the churches. Annie told him that construction of the new church had begun about nine months earlier. The timing didn’t neatly match the reported starfall.
 
@@ -122,7 +124,7 @@ After Elisandra, Jain, and Matteo returned, the party gathered in a room, discus
 
 First, they wanted to investigate the food.
 
-Elisandra gave Matteo five copper pieces to fetch a sample bowl of food. The bowl cost two copper, and he could keep the change. While he was gone, the team worked on a plan to go out and investigate at night. Elisandra and Jain also considered whether to take mushrooms. In the end, Jain decided that she wanted too, while Elisandra remained hesitant. Meanwhile, Matteo was still gone, but Ravenlost was only slightly worried.
+Elisandra gave Matteo five copper pieces to fetch a sample bowl of food. The bowl cost two copper, and he could keep the change. While he was gone, the team worked on a plan to go out and investigate at night. Elisandra and Jain also considered whether to take mushrooms. In the end, Jain decided that she wanted to, while Elisandra remained hesitant. Meanwhile, Matteo was still gone, but Ravenlost was only slightly worried.
 
 Matteo finally came back after about twenty minutes. When he returned, he said he had been distracted talking to Annie and had spent two of his remaining copper pieces on porridge for himself, which he ate downstairs.
 
@@ -132,7 +134,7 @@ Ravenlost went back downstairs to investigate what all the patrons had eaten for
 
 Jain took a mushroom and went outside to investigate the well. The water was normal well water.
 
-Cadric, Bia, Elsandra, and Matteo found Annie and asked her about her food. She showed them a fresh batch of food, which contained no trace green, and offered to share her recipe. The pattern remained inexplicable.
+Cadric, Bia, Elisandra, and Matteo found Annie and asked her about her food. She showed them a fresh batch of food, which contained no trace of green, and offered to share her recipe. The pattern remained inexplicable.
 
 ---
 
@@ -142,9 +144,9 @@ Back inside the tavern, Jain let them know that the well and the water were norm
 
 With some time to waste, Cadric played for the eight or nine other patrons.  
 
-The crowd had no rhythm and swayed back and forth at all the wrong times. They seemed to like the performance, though, but nobody gave him money. Instead, they threw food at him, including fresh fruits and vegetables.
+The crowd swayed enthusiastically, although apparently none of them had ever encountered rhythm before. They seemed to enjoy the performance, but nobody offered Cadric a single coin. Instead, they showered him with fresh fruits and vegetables. 
 
-Cadric saw Jain go outside and take a second mushroom. She then went toward the creek to sit on the bridge. The rest decide to get a couple hours of sleep before heading outside. Ravenlost sent Matteo to sleep in Cadric's room for the night. Bia and Cadric napped in Bia's room. And Elisandra napped in her room.
+Cadric saw Jain go outside and take a second mushroom. She then went toward the creek to sit on the bridge. The rest decided to get a couple hours of sleep before heading outside. Ravenlost sent Matteo to sleep in Cadric's room for the night. Bia and Cadric napped in Bia's room. And Elisandra napped in her room.
 
 Outside, Jain felt the ground fade beneath her feet as the mushrooms took effect. Her final sight before losing consciousness was Matteo watching her from the window of his room.
 
@@ -178,13 +180,13 @@ Loom initially indulged her, then asked whether somebody could find a muzzle.
 
 Jain persisted: “I’m so worked up, I can’t function.” Loom finally snapped, “Yeah, I don’t want to deal with that,” and cracked Jain over the head with her staff. “It’ll be a few minutes, and then you’ll join us,” she promised.
 
-Jain promptly resumed questioning her, and Look indulged a bit.
+Jain promptly resumed questioning her, and Loom indulged her a bit more.
 
 Loom explained that the organism would consume Jain’s body, place her in stasis, and create a duplicate Jain linked to the collective.
 
-“Am I dying?” Jain asked. “
+“Am I dying?” Jain asked.
 
-No. You’re being evolved.”
+“No. You’re being evolved.”
 
 The villagers weren’t copies of one original person, Loom told her. They were copies of themselves. The creature wanted to grow, assimilate others, and ultimately dominate the realm. The assimilation process would take roughly thirty minutes for an adult but less for a child.
 
@@ -206,9 +208,15 @@ Loom sent villagers through the stairs and tunnels to hunt for the remaining par
 
 ## The fight beneath Delmunster
 
-The party converged on the chamber from different directions. Cadric cast Cloud of Daggers against the giant tree-like monster at the center and against a nearby attacker. The attack on the monster caused the whole room to scream as the shared consciousness felt the injury. He also shot the massive creature with an arrow carrying flesh-corrosive poison, which sizzled against it with an acrid smell and seemed unusually effective.
+The party approached the cavern from different directions, with Cadric positioning himself near the stairs while Elisandra navigated a separate tunnel.
 
-In the tunnel that connected the churches, Elisandra struck an approaching figure with Guiding Bolt. The target was Matteo. His arm was blown off, revealing white viscous ooze rather than flesh; even grievously injured, the duplicate kept coming. Ahh, so it wasn’t Matteo. The party now understood how thoroughly the villagers had been changed.
+Cadric opened the attack with Cloud of Daggers, catching both the enormous fleshy tree and a nearby villager in its spinning blades. The instant the spell struck the central organism, every creature in the chamber screamed.
+
+That seemed promising.
+
+Cadric followed with an arrow tipped with flesh-corrosive poison. The substance sizzled against the creature, releasing an acrid smell and appearing to inflict considerably more damage than expected.
+
+In the tunnel that connected the churches, Elisandra struck an approaching figure with Guiding Bolt. The target was Matteo. His arm was blown off, revealing white viscous ooze rather than flesh; even grievously injured, the duplicate kept coming. So this wasn’t Matteo. Not anymore. The party now understood how thoroughly the villagers had been changed.
 
 Bia raged into close combat, shoving an enemy into Cadric’s Cloud of Daggers and cleaving at the tree and another attacker. Jain fought her way into the battle while the organism opened into thrashing, razor-edged tentacles. Cadric was knocked unconscious during the struggle. Elisandra’s magic helped the party endure, and Jain ultimately drove an arrow into the creature’s glowing core. The towering mass fell, and its lesser creatures collapsed with it. 
 
@@ -218,7 +226,9 @@ Elisandra celebrated: “Guys, I contributed to a boss fight.”
 
 ## What was left of the village
 
-The pods opened after the monster fell. Most held only ooze: the villagers inside had already died as the organism fed on them. Only Annie and Matteo, the last two residents assimilated, emerged alive. A barrel of green material in the basement offered a possible connection to the strange food, but the party was too worn out to investigate.
+The pods opened after the monster fell. Most held only ooze: the villagers inside had already died as the organism fed on them. Only Annie and Matteo, among the most recently assimilated, emerged alive. 
+
+A barrel of green material in the basement offered a possible connection to the strange food, but the party was too worn out to investigate.
 
 The great orb had gone dark. Ravenlost considered taking it but left it where it lay for now. The party returned to the inn to recover.
 
@@ -228,7 +238,7 @@ The great orb had gone dark. Ravenlost considered taking it but left it where it
 
 Back at the inn and before going to sleep, Cadric finally identified the silver dowsing rod. One charge could locate an object, two charges could locate a creature, and three charges could find a path. The rod held six charges and regained one each dawn. After identification, the rod went back into the bag of holding.
 
-In the morning, the party waked out of the inn to an empty town. More concerning, though, they saw a line of burning braziers stretching east along the Stone Spine Mountains as far as they could see.
+In the morning, the party walked out of the inn to an empty town. More concerning, though, they saw a line of burning braziers stretching east along the Stone Spine Mountains as far as they could see.
 
 Before they had time to worry about an ensuing horde of undead, Lady Estella Godfroy spoke through the sending stone. She asked how Ravenlost had acquired it.
 
