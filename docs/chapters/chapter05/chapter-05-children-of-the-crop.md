@@ -8,7 +8,7 @@
 
 ## Delmunster, at three in the morning
 
-After roughly six hours on foot, Ravenlost reached Delmunster at about 3 a.m. In the dark, two church spires stood conspicuously close together at the edge of town. The group found the Creek Bed Inn and woke its proprietor, Annie, by ringing a bell—a task Matteo enjoyed rather more than the sleeping innkeeper probably did. They secured three rooms and finally rested.
+After roughly six hours on foot, Ravenlost reached Delmunster at about 3:00 AM. In the dark, two church spires stood conspicuously close together at the edge of town. The group found the Creek Bed Inn and woke its proprietor, Annie, by ringing a bell—a task Matteo enjoyed rather more than the sleeping innkeeper probably did. They secured three rooms and finally rested.
 
 In the morning, Ravenlost discovered their breakfast options were gruel or oats. And every bowl had an odd grayish-green cast.
 
