@@ -72,7 +72,7 @@ A quick-reference list of significant loot, magic items, valuables, quest object
 | **Two greater healing potions** | Party / stored in Elisandra's Bag of Holding | Glim's mine vault | Recovered from the vault. Subsequent use or individual allocation not established. |
 | **Unidentified gas-filled potion** | Party / stored in Elisandra's Bag of Holding | Glim's mine vault | Unidentified potion with gas-like material suspended inside. Effects unknown. |
 | **Revivify kit and diamond** | Party / stored in Elisandra's Bag of Holding | Glim's mine vault | Kit containing one remaining diamond; exact specifications not confirmed. |
-| **Three barrels of black powder** | Party / stored in Elisandra's Bag of Holding | Silver mine, Abbey Point | Explosive mining supplies recovered during Session 10. The barrels were also used as seats while companions traveled in the Bag of Holding during the ravine crossing; their consumption was not reported. |
+| **Three barrels of black powder** | Party / stored in Elisandra's Bag of Holding | Silver mine, Abbey Point | Explosive mining supplies recovered during Session 10. The barrels were also used as seats while companions traveled in the Bag of Holding during the ravine crossing. |
 | **Two sticks of dynamite** | Party / stored in Elisandra's Bag of Holding | Silver mine, Abbey Point | Explosives remaining after the confrontation with Polk. |
 | **Eight giant spider legs** | Party / stored in Elisandra's Bag of Holding | Abbey Point forest | Collected by Jain after the giant spider fight. |
 | **Vial of giant spider goo** | Party / stored in Elisandra's Bag of Holding | Abbey Point forest | Collected by Cadric. Properties or possible uses unknown. |
