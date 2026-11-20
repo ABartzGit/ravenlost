@@ -220,7 +220,7 @@ In the tunnel that connected the churches, Elisandra struck an approaching figur
 
 Bia raged into close combat, shoving an enemy into Cadric’s Cloud of Daggers and cleaving at the tree and another attacker. Jain fought her way into the battle while the organism opened into thrashing, razor-edged tentacles. Cadric was knocked unconscious during the struggle. Elisandra’s magic helped the party endure, and Jain ultimately drove an arrow into the creature’s glowing core. The towering mass fell, and its lesser creatures collapsed with it. 
 
-Elisandra celebrated: “Guys, I contributed to a boss fight.”
+Jain celebrated. “Guys, I contributed to a boss fight.”
 
 ---
 
