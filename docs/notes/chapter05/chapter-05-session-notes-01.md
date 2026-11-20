@@ -171,4 +171,4 @@ The silver rod holds six charges and regains one charge at dawn. Cadric identifi
 
 ## Next
 
-Determine what the burning braziers mean, consider Lady Estella’s request, determine whether to keep the orb, continue seeking news about Bia’s family and Commander Korath.
+Determine what the burning braziers mean, consider Lady Estella’s request, determine whether to keep the orb, continue seeking news about Bia’s family and Commander Korath. And most importantly, will we burn down the church?

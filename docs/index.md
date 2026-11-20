@@ -21,25 +21,32 @@ It all began at the Black Raven Inn, with four strangers and a job from a man na
 
 ## Where are they now?
 
+
 <div class="campaign-status">
 
-<p><strong>📍 Near the Stone Spine Mountains in Falkovnia</strong> &nbsp;&nbsp; <strong>⚔️ Level 5</strong></p>
+<p><strong>📍 Delmunster, Falkovnia</strong> &nbsp;&nbsp; <strong>⚔️ Level 5</strong></p>
 
 <p>
-After escaping a spider-infested mine, Ravenlost ventured through the Mists, 
-rescued a young boy named Matteo, and witnessed the horrors of an undead 
-invasion. They also freed an elderly prisoner from a watchtower and learned 
-that Commander Korath—a name haunting Bia's past—rules Falkovnia with an 
-iron fist.
+Ravenlost arrived in Delmunster expecting a safe place to rest, only to
+discover a village of barefoot townspeople, suspiciously abundant
+harvests, and a horrifying secret beneath a condemned church. After
+infiltrating a procession of seemingly hypnotized villagers, the party
+battled a monstrous organism that had assimilated nearly the entire
+town. They destroyed the creature and rescued Matteo and Annie, the
+village's only known survivors.
 </p>
 
-<p><strong>Next:</strong> With Matteo in tow, Ravenlost heads through the 
-Forest of Strangers toward Delmunster. But with undead hordes roaming the 
-countryside, Bia's family still missing, and a warning not to trust the 
-commander, getting to Lekar may prove more dangerous than getting into 
-Falkovnia.</p>
+<p>
+<strong>Next:</strong> With Delmunster eerily deserted, Ravenlost awakens
+to find warning braziers burning along the distant Stone Spine Mountains.
+An undead horde may be approaching, Lady Estella Godfroy has requested
+their assistance, and Commander Korath remains a troubling connection
+to Bia's past. With her family still missing and Lekar still ahead,
+Bia and Ravenlost must decide where to go next.
+</p>
 
 </div>
+
 
 ## Follow our adventures
 
